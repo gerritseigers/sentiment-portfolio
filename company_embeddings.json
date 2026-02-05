@@ -1,0 +1,8 @@
+{
+  "_meta": {
+    "description": "Cached company profiles/embeddings for refined strategy decisions",
+    "last_updated": null,
+    "version": 1
+  },
+  "companies": {}
+}

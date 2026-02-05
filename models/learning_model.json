@@ -1,0 +1,88 @@
+{
+  "model_version": "0.1",
+  "created": "2026-02-04",
+  "description": "Zelf-lerend sentiment-prijs correlatie model",
+  
+  "news_sources": [
+    {"name": "NOS Economie", "url": "https://nos.nl/nieuws/economie", "lang": "nl", "reliability": "high"},
+    {"name": "The Guardian Business", "url": "https://www.theguardian.com/business", "lang": "en", "reliability": "high"},
+    {"name": "BBC Business", "url": "https://www.bbc.com/news/business", "lang": "en", "reliability": "medium"},
+    {"name": "CoinGecko", "url": "https://api.coingecko.com", "type": "api", "for": "crypto prices"}
+  ],
+  
+  "hypothesis": {
+    "primary": "Positief sentiment T leidt tot positieve prijsbeweging T+1",
+    "lag_days": [1, 2, 3, 5],
+    "notes": "Test verschillende vertragingen"
+  },
+  
+  "sector_weights": {
+    "tech": {"sentiment_weight": 1.0, "confidence": 0.0, "sample_size": 1},
+    "finance": {"sentiment_weight": 1.0, "confidence": 0.0, "sample_size": 1},
+    "energy": {"sentiment_weight": 1.0, "confidence": 0.0, "sample_size": 1},
+    "healthcare": {"sentiment_weight": 1.0, "confidence": 0.0, "sample_size": 1},
+    "consumer": {"sentiment_weight": 1.0, "confidence": 0.0, "sample_size": 1},
+    "commodities": {"sentiment_weight": 1.0, "confidence": 0.0, "sample_size": 1},
+    "crypto": {"sentiment_weight": 1.0, "confidence": 0.0, "sample_size": 1},
+    "realestate": {"sentiment_weight": 1.0, "confidence": 0.0, "sample_size": 1},
+    "industrial": {"sentiment_weight": 1.0, "confidence": 0.0, "sample_size": 1},
+    "utilities": {"sentiment_weight": 1.0, "confidence": 0.0, "sample_size": 1}
+  },
+  
+  "trading_rules": {
+    "buy_threshold": 0.4,
+    "sell_threshold": -0.4,
+    "hold_zone": [-0.4, 0.4],
+    "max_position_pct": 20,
+    "rebalance_trigger_pct": 5
+  },
+  
+  "paper_portfolio": {
+    "start_date": "2026-02-04",
+    "starting_value": 10000,
+    "current_value": 10000,
+    "cash": 0,
+    "positions": {
+      "tech": {"value": 900, "pct": 9.0},
+      "finance": {"value": 1000, "pct": 10.0},
+      "energy": {"value": 1200, "pct": 12.0, "note": "Overweight - positive sentiment"},
+      "healthcare": {"value": 700, "pct": 7.0, "note": "Underweight - negative sentiment"},
+      "consumer": {"value": 1000, "pct": 10.0},
+      "commodities": {"value": 1100, "pct": 11.0, "note": "Slight overweight - gold rally"},
+      "crypto": {"value": 900, "pct": 9.0, "note": "Slight underweight - tax concerns"},
+      "realestate": {"value": 900, "pct": 9.0},
+      "industrial": {"value": 900, "pct": 9.0},
+      "utilities": {"value": 1100, "pct": 11.0, "note": "Slight overweight - infrastructure investment"}
+    },
+    "trades": [
+      {
+        "date": "2026-02-04",
+        "type": "INITIAL",
+        "description": "Portfolio start - sentiment-gewogen allocatie",
+        "details": "Energy/utilities/commodities overweight, healthcare/crypto underweight"
+      }
+    ],
+    "daily_values": [
+      {"date": "2026-02-04", "value": 10000, "change_pct": 0}
+    ]
+  },
+  
+  "performance": {
+    "total_return_pct": 0,
+    "best_day": null,
+    "worst_day": null,
+    "correct_predictions": 0,
+    "incorrect_predictions": 0,
+    "accuracy_pct": null
+  },
+  
+  "learning_log": [
+    {
+      "date": "2026-02-04",
+      "observation": "Nulmeting gemaakt. Sentiment overwegend neutraal (+0.02). Energie meest positief (+0.47), Healthcare meest negatief (-0.60).",
+      "adjustment": "Initial portfolio: overweight energy/utilities/commodities, underweight healthcare/crypto",
+      "sources_working": ["NOS", "Guardian"],
+      "sources_blocked": ["Reuters", "RTL", "NU.nl", "MarketWatch"]
+    }
+  ]
+}

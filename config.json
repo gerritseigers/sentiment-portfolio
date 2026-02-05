@@ -1,0 +1,81 @@
+{
+  "sectors": {
+    "tech": {
+      "name": "Technologie",
+      "keywords": ["tech", "software", "AI", "chip", "semiconductor", "ASML", "Apple", "Microsoft", "Google", "Amazon", "Meta", "NVIDIA"],
+      "holdings": [],
+      "allocation_eur": 1000
+    },
+    "finance": {
+      "name": "Financiën", 
+      "keywords": ["bank", "ING", "ABN", "Rabobank", "verzekering", "hypotheek", "rente", "ECB", "Fed"],
+      "holdings": [],
+      "allocation_eur": 1000
+    },
+    "energy": {
+      "name": "Energie",
+      "keywords": ["olie", "gas", "Shell", "BP", "energie", "solar", "wind", "nucleair", "OPEC"],
+      "holdings": [],
+      "allocation_eur": 1000
+    },
+    "healthcare": {
+      "name": "Gezondheidszorg",
+      "keywords": ["pharma", "medicijn", "ziekenhuis", "biotech", "vaccin", "FDA", "gezondheid"],
+      "holdings": [],
+      "allocation_eur": 1000
+    },
+    "consumer": {
+      "name": "Consumenten",
+      "keywords": ["retail", "winkel", "Unilever", "voeding", "consument", "supermarkt", "Ahold"],
+      "holdings": [],
+      "allocation_eur": 1000
+    },
+    "commodities": {
+      "name": "Grondstoffen",
+      "keywords": ["goud", "zilver", "koper", "grondstof", "metaal", "mining"],
+      "holdings": [],
+      "allocation_eur": 1000
+    },
+    "crypto": {
+      "name": "Crypto",
+      "keywords": ["bitcoin", "ethereum", "crypto", "blockchain", "BTC", "ETH", "binance", "coinbase"],
+      "holdings": [],
+      "allocation_eur": 1000
+    },
+    "realestate": {
+      "name": "Vastgoed",
+      "keywords": ["vastgoed", "huizen", "woning", "huur", "hypotheek", "REIT", "woningmarkt"],
+      "holdings": [],
+      "allocation_eur": 1000
+    },
+    "industrial": {
+      "name": "Industrie",
+      "keywords": ["industrie", "fabriek", "manufacturing", "logistiek", "transport", "auto"],
+      "holdings": [],
+      "allocation_eur": 1000
+    },
+    "utilities": {
+      "name": "Utilities",
+      "keywords": ["nuts", "water", "elektriciteit", "gas", "netwerk", "infrastructuur"],
+      "holdings": [],
+      "allocation_eur": 1000
+    }
+  },
+  "news_sources": [
+    {"name": "NOS Economie", "url": "https://nos.nl/nieuws/economie", "lang": "nl", "status": "working"},
+    {"name": "The Guardian Business", "url": "https://www.theguardian.com/business", "lang": "en", "status": "working"},
+    {"name": "BBC Business", "url": "https://www.bbc.com/news/business", "lang": "en", "status": "partial"},
+    {"name": "Reuters", "url": "https://www.reuters.com/markets/", "lang": "en", "status": "blocked-js"},
+    {"name": "RTL Nieuws", "url": "https://www.rtlnieuws.nl/economie", "lang": "nl", "status": "blocked"},
+    {"name": "NU.nl", "url": "https://www.nu.nl/economie", "lang": "nl", "status": "blocked-consent"},
+    {"name": "MarketWatch", "url": "https://www.marketwatch.com/latest-news", "lang": "en", "status": "blocked"}
+  ],
+  "price_sources": [
+    {"name": "CoinGecko", "url": "https://api.coingecko.com/api/v3/simple/price", "for": "crypto", "status": "working"},
+    {"name": "Google Finance", "url": "https://www.google.com/finance/", "for": "stocks", "status": "partial"}
+  ],
+  "schedule": {
+    "morning_scan": "07:00",
+    "evening_scan": "19:00"
+  }
+}

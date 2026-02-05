@@ -1,0 +1,56 @@
+{
+  "ticker": "AAPL",
+  "name": "Apple Inc.",
+  "sector": "XLK",
+  "summary": "Apple ontwerpt, produceert en verkoopt smartphones (iPhone), computers (Mac), tablets (iPad), wearables (Apple Watch, AirPods) en biedt digitale diensten aan via het Services-segment (App Store, Apple Music, iCloud, Apple TV+).",
+  "business_model": "Premium hardware verkoop gecombineerd met een groeiend recurring revenue Services-segment dat hoge marges genereert door het iOS-ecosysteem lock-in effect.",
+  "key_products": [
+    "iPhone",
+    "Mac",
+    "iPad", 
+    "Apple Watch",
+    "AirPods",
+    "Services (App Store, Apple Music, iCloud)"
+  ],
+  "competitors": [
+    "Samsung",
+    "Google (Pixel)",
+    "Microsoft (Surface)",
+    "Huawei",
+    "Xiaomi"
+  ],
+  "market_position": "Premium marktleider in smartphones en tablets, met sterke merkloyaliteit en het meest waardevolle ecosysteem in consumer tech.",
+  "risks": [
+    "iPhone dependency (>50% omzet)",
+    "China exposure (productie en verkoop)",
+    "App Store regulatory/antitrust risk",
+    "Smartphone markt verzadiging",
+    "Supply chain concentratie"
+  ],
+  "catalysts": [
+    "AI features (Apple Intelligence)",
+    "Vision Pro en spatial computing",
+    "Services groei en margeverbetering",
+    "India productie expansie",
+    "Nieuwe productcategorieën"
+  ],
+  "sentiment_keywords": [
+    "iPhone sales",
+    "App Store",
+    "Tim Cook",
+    "Apple Intelligence",
+    "Vision Pro",
+    "iOS",
+    "Mac",
+    "iPad",
+    "Apple Watch",
+    "Services revenue",
+    "China sales",
+    "antitrust Apple"
+  ],
+  "recent_events": [
+    "2024-01: Vision Pro lancering",
+    "2024-06: Apple Intelligence aangekondigd (WWDC)"
+  ],
+  "updated": "2025-02-04"
+}

@@ -1,0 +1,56 @@
+📰 **DAGELIJKS SENTIMENT RAPPORT**
+📅 Wednesday 04 February 2026 - 17:27
+
+📊 *345 nieuwsberichten* van 195 bronnen
+
+**🏆 SECTOR RANKINGS VANDAAG**
+
+*📈 MEEST POSITIEF:*
+1. **Healthcare** (XLV)
+   Score: +0.12 | 6 artikelen
+   → 🟢 Licht positief
+   📰 _Eli Lilly Surges On 'Assertive' Guidance That Assuages Novo ..._
+
+2. **Energy** (XLE)
+   Score: +0.04 | 16 artikelen
+   → 🟡 Neutraal - afwachten
+   📰 _Gas turbine boom in US lifts Japan's Mitsubishi Heavy to rec..._
+
+3. **Technology** (XLK)
+   Score: +0.01 | 115 artikelen
+   → 🟡 Neutraal - afwachten
+   📰 _Chipmakers Samsung, SK Hynix reap rewards of AI boom..._
+
+*📉 MEEST NEGATIEF:*
+1. **Consumer Discr.** (XLY)
+   Score: -0.02 | 67 artikelen
+   → 🟡 Neutraal - afwachten
+   📰 _Markets’ Reaction to Warsh: Silver Collapses, Gold Plunges, ..._
+
+2. **Materials** (XLB)
+   Score: -0.04 | 50 artikelen
+   → 🟡 Neutraal - afwachten
+   📰 _Markets’ Reaction to Warsh: Silver Collapses, Gold Plunges, ..._
+
+3. **Real Estate** (XLRE)
+   Score: -0.09 | 6 artikelen
+   → 🔴 Licht negatief
+   📰 _Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Wo..._
+
+**💡 WAT BETEKENT DIT?**
+
+🟡 **Markt stemming: NEUTRAAL**
+Geen duidelijke richting. Portfolios blijven dicht bij hun basisallocatie.
+
+**💰 PORTFOLIO IMPACT**
+
+📈 *Momentum*: Verhoogt Healthcare, verlaagt Real Estate
+⚡ *Aggressive*: Concentreert in top 3 sectoren
+🛡️ *Defensive*: Beweegt niet (signaal niet sterk genoeg)
+🔄 *Contrarian*: Koopt Real Estate (tegen de stroom in)
+
+**🧠 MODEL STATUS**
+Model is aan het leren (nog geen data)
+
+_Volgende harvest: binnen enkele uren_
+_Rebalance: elke maandag 09:00_

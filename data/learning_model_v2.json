@@ -1,0 +1,400 @@
+{
+  "version": "2.0",
+  "created": "2026-02-04T17:24:55.554862",
+  "last_updated": "2026-02-04T21:30:31.929297",
+  "source_weights": {
+    "Nikkei Asia": 0.885079365079365,
+    "Oilprice.com Latest": 0.8826666666666667,
+    "Techmeme": 0.8971428571428572,
+    "Semafor Tech": 0.892,
+    "Tesla News": 0.8861111111111111,
+    "Yahoo Finance Markets": 0.8828301886792453,
+    "The Defiant": 0.8919230769230769,
+    "Nvidia News": 0.885576923076923,
+    "Wolf Street": 0.8994117647058824,
+    "Yahoo Finance News": 0.8932000000000001
+  },
+  "sector_sensitivity": {
+    "XLK": {
+      "sentiment_multiplier": 0.9996,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 1,
+      "total_predictions": 2
+    },
+    "XLV": {
+      "sentiment_multiplier": 0.9996,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 1,
+      "total_predictions": 2
+    },
+    "XLF": {
+      "sentiment_multiplier": 0.9996,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 1,
+      "total_predictions": 2
+    },
+    "XLY": {
+      "sentiment_multiplier": 0.9603999999999999,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 0,
+      "total_predictions": 2
+    },
+    "XLP": {
+      "sentiment_multiplier": 0.9996,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 1,
+      "total_predictions": 2
+    },
+    "XLE": {
+      "sentiment_multiplier": 1.0404,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 2,
+      "total_predictions": 2
+    },
+    "ICLN": {
+      "sentiment_multiplier": 1.0404,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 2,
+      "total_predictions": 2
+    },
+    "XLI": {
+      "sentiment_multiplier": 0.9996,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 1,
+      "total_predictions": 2
+    },
+    "XLB": {
+      "sentiment_multiplier": 0.9996,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 1,
+      "total_predictions": 2
+    },
+    "XLU": {
+      "sentiment_multiplier": 0.9603999999999999,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 0,
+      "total_predictions": 2
+    },
+    "XLRE": {
+      "sentiment_multiplier": 0.9996,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 1,
+      "total_predictions": 2
+    },
+    "XLC": {
+      "sentiment_multiplier": 1.0404,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 2,
+      "total_predictions": 2
+    },
+    "CRYPTO": {
+      "sentiment_multiplier": 1.0404,
+      "optimal_lag_days": 3,
+      "volatility_factor": 1.0,
+      "correct_predictions": 2,
+      "total_predictions": 2
+    }
+  },
+  "time_decay": {
+    "day_0": 1.0,
+    "day_1": 0.7,
+    "day_2": 0.5,
+    "day_3": 0.3,
+    "day_4": 0.15,
+    "day_5_plus": 0.05
+  },
+  "scenario_performance": {
+    "benchmark": {
+      "total_return_pct": 0,
+      "weekly_returns": [],
+      "sharpe_ratio": null,
+      "max_drawdown": 0,
+      "win_rate": null
+    },
+    "momentum": {
+      "total_return_pct": 0,
+      "weekly_returns": [],
+      "sharpe_ratio": null,
+      "max_drawdown": 0,
+      "win_rate": null
+    },
+    "aggressive": {
+      "total_return_pct": 0,
+      "weekly_returns": [],
+      "sharpe_ratio": null,
+      "max_drawdown": 0,
+      "win_rate": null
+    },
+    "defensive": {
+      "total_return_pct": 0,
+      "weekly_returns": [],
+      "sharpe_ratio": null,
+      "max_drawdown": 0,
+      "win_rate": null
+    },
+    "contrarian": {
+      "total_return_pct": 0,
+      "weekly_returns": [],
+      "sharpe_ratio": null,
+      "max_drawdown": 0,
+      "win_rate": null
+    },
+    "spy_only": {
+      "total_return_pct": 0,
+      "weekly_returns": [],
+      "sharpe_ratio": null,
+      "max_drawdown": 0,
+      "win_rate": null
+    }
+  },
+  "learning_history": [
+    {
+      "date": "2026-02-04T17:29:56.399763",
+      "type": "daily",
+      "predictions": {
+        "XLK": 0.013,
+        "XLV": 0.117,
+        "XLF": 0.01,
+        "XLY": -0.017,
+        "XLP": 0.002,
+        "XLE": 0.037,
+        "ICLN": 0.007,
+        "XLI": 0.004,
+        "XLB": -0.045,
+        "XLU": 0.006,
+        "XLRE": -0.092,
+        "XLC": 0.01,
+        "CRYPTO": -0.006
+      },
+      "outcomes": {
+        "XLK": -1.0123464134646456,
+        "XLV": 0.8134530618613725,
+        "XLF": -0.7921335122131312,
+        "XLY": -1.0956166530885159,
+        "XLP": 0.026265737647243714,
+        "XLE": -0.9435970186243261,
+        "ICLN": -0.1579018235021099,
+        "XLI": 1.1895573107378787,
+        "XLB": -0.05719684009513326,
+        "XLU": -1.1300751934040738,
+        "XLRE": 1.9771024519227796,
+        "XLC": 0.30528050356152514,
+        "CRYPTO": -0.866073866093211
+      },
+      "source_updates": {
+        "Nikkei Asia": {
+          "correct": 27,
+          "total": 63,
+          "reliability": 0.42857142857142855,
+          "weight": 0.9428571428571428
+        },
+        "Oilprice.com Latest": {
+          "correct": 24,
+          "total": 60,
+          "reliability": 0.4,
+          "weight": 0.9400000000000001
+        },
+        "Techmeme": {
+          "correct": 22,
+          "total": 56,
+          "reliability": 0.39285714285714285,
+          "weight": 0.9392857142857143
+        },
+        "Semafor Tech": {
+          "correct": 19,
+          "total": 55,
+          "reliability": 0.34545454545454546,
+          "weight": 0.9345454545454546
+        },
+        "Tesla News": {
+          "correct": 19,
+          "total": 54,
+          "reliability": 0.35185185185185186,
+          "weight": 0.9351851851851852
+        },
+        "Yahoo Finance Markets": {
+          "correct": 24,
+          "total": 53,
+          "reliability": 0.4528301886792453,
+          "weight": 0.9452830188679245
+        },
+        "The Defiant": {
+          "correct": 24,
+          "total": 52,
+          "reliability": 0.46153846153846156,
+          "weight": 0.9461538461538461
+        },
+        "Nvidia News": {
+          "correct": 17,
+          "total": 52,
+          "reliability": 0.3269230769230769,
+          "weight": 0.9326923076923077
+        },
+        "Wolf Street": {
+          "correct": 24,
+          "total": 51,
+          "reliability": 0.47058823529411764,
+          "weight": 0.9470588235294117
+        },
+        "Yahoo Finance News": {
+          "correct": 24,
+          "total": 50,
+          "reliability": 0.48,
+          "weight": 0.9480000000000001
+        }
+      },
+      "sector_updates": {
+        "XLK": "multiplier 1.00 \u2192 0.98 (-2%)",
+        "XLV": "multiplier 1.00 \u2192 1.02 (+2%)",
+        "XLF": "multiplier 1.00 \u2192 1.02 (+2%)",
+        "XLY": "multiplier 1.00 \u2192 0.98 (-2%)",
+        "XLP": "multiplier 1.00 \u2192 1.02 (+2%)",
+        "XLE": "multiplier 1.00 \u2192 1.02 (+2%)",
+        "ICLN": "multiplier 1.00 \u2192 1.02 (+2%)",
+        "XLI": "multiplier 1.00 \u2192 0.98 (-2%)",
+        "XLB": "multiplier 1.00 \u2192 1.02 (+2%)",
+        "XLU": "multiplier 1.00 \u2192 0.98 (-2%)",
+        "XLRE": "multiplier 1.00 \u2192 0.98 (-2%)",
+        "XLC": "multiplier 1.00 \u2192 1.02 (+2%)",
+        "CRYPTO": "multiplier 1.00 \u2192 1.02 (+2%)"
+      },
+      "summary": [
+        "Daily accuracy: 62%",
+        "Sectors analyzed: 13",
+        "Correct predictions: 8",
+        "Sources updated: 10"
+      ]
+    },
+    {
+      "date": "2026-02-04T21:30:31.922484",
+      "type": "daily",
+      "predictions": {
+        "XLK": 0.013,
+        "XLV": 0.117,
+        "XLF": 0.01,
+        "XLY": -0.017,
+        "XLP": 0.002,
+        "XLE": 0.037,
+        "ICLN": 0.007,
+        "XLI": 0.004,
+        "XLB": -0.045,
+        "XLU": 0.006,
+        "XLRE": -0.092,
+        "XLC": 0.01,
+        "CRYPTO": -0.006
+      },
+      "outcomes": {
+        "XLK": 0.14563424812545822,
+        "XLV": -1.2283478376622425,
+        "XLF": -1.6410661891716427,
+        "XLY": 1.1462700582805612,
+        "XLP": 1.1677984983947103,
+        "XLE": -0.8871488593860333,
+        "ICLN": -0.7093282249095187,
+        "XLI": -0.3423250666194493,
+        "XLB": -1.8986049445634108,
+        "XLU": 1.6370386321096189,
+        "XLRE": 0.8390960479517999,
+        "XLC": 0.16657559083552087,
+        "CRYPTO": 0.7992426198394247
+      },
+      "source_updates": {
+        "Nikkei Asia": {
+          "correct": 23,
+          "total": 63,
+          "reliability": 0.36507936507936506,
+          "weight": 0.885079365079365
+        },
+        "Oilprice.com Latest": {
+          "correct": 22,
+          "total": 60,
+          "reliability": 0.36666666666666664,
+          "weight": 0.8826666666666667
+        },
+        "Techmeme": {
+          "correct": 29,
+          "total": 56,
+          "reliability": 0.5178571428571429,
+          "weight": 0.8971428571428572
+        },
+        "Semafor Tech": {
+          "correct": 28,
+          "total": 55,
+          "reliability": 0.509090909090909,
+          "weight": 0.892
+        },
+        "Tesla News": {
+          "correct": 24,
+          "total": 54,
+          "reliability": 0.4444444444444444,
+          "weight": 0.8861111111111111
+        },
+        "Yahoo Finance Markets": {
+          "correct": 17,
+          "total": 53,
+          "reliability": 0.32075471698113206,
+          "weight": 0.8828301886792453
+        },
+        "The Defiant": {
+          "correct": 21,
+          "total": 52,
+          "reliability": 0.40384615384615385,
+          "weight": 0.8919230769230769
+        },
+        "Nvidia News": {
+          "correct": 24,
+          "total": 52,
+          "reliability": 0.46153846153846156,
+          "weight": 0.885576923076923
+        },
+        "Wolf Street": {
+          "correct": 24,
+          "total": 51,
+          "reliability": 0.47058823529411764,
+          "weight": 0.8994117647058824
+        },
+        "Yahoo Finance News": {
+          "correct": 20,
+          "total": 50,
+          "reliability": 0.4,
+          "weight": 0.8932000000000001
+        }
+      },
+      "sector_updates": {
+        "XLK": "multiplier 0.98 \u2192 1.00 (+2%)",
+        "XLV": "multiplier 1.02 \u2192 1.00 (-2%)",
+        "XLF": "multiplier 1.02 \u2192 1.00 (-2%)",
+        "XLY": "multiplier 0.98 \u2192 0.96 (-2%)",
+        "XLP": "multiplier 1.02 \u2192 1.00 (-2%)",
+        "XLE": "multiplier 1.02 \u2192 1.04 (+2%)",
+        "ICLN": "multiplier 1.02 \u2192 1.04 (+2%)",
+        "XLI": "multiplier 0.98 \u2192 1.00 (+2%)",
+        "XLB": "multiplier 1.02 \u2192 1.00 (-2%)",
+        "XLU": "multiplier 0.98 \u2192 0.96 (-2%)",
+        "XLRE": "multiplier 0.98 \u2192 1.00 (+2%)",
+        "XLC": "multiplier 1.02 \u2192 1.04 (+2%)",
+        "CRYPTO": "multiplier 1.02 \u2192 1.04 (+2%)"
+      },
+      "summary": [
+        "Daily accuracy: 54%",
+        "Sectors analyzed: 13",
+        "Correct predictions: 7",
+        "Sources updated: 10"
+      ]
+    }
+  ],
+  "last_learning": "2026-02-04T21:30:31.929301",
+  "overall_accuracy": 57.692307692307686
+}

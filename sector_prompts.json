@@ -1,0 +1,288 @@
+{
+  "version": "1.0",
+  "created": "2025-02-04",
+  "description": "Sector-specifieke prompts voor sentiment analyse. Evolueren tijdens training.",
+  "prompts": {
+    "XLK": {
+      "sector_name": "Technology",
+      "version": 1,
+      "current_prompt": "You analyze TECHNOLOGY sector news. Focus on: earnings reports, product launches, AI developments, chip demand, cloud growth, regulatory actions (antitrust), and M&A activity. Tech stocks are volatile - weight breaking news heavily. Consider impact on FAANG, semiconductors, and software companies.",
+      "keywords_boost": [
+        "AI",
+        "chip",
+        "cloud",
+        "software",
+        "semiconductor",
+        "NVIDIA",
+        "Apple",
+        "Microsoft",
+        "Google",
+        "Meta",
+        "Amazon"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 1,
+        "total": 1,
+        "accuracy": 100.0
+      }
+    },
+    "XLV": {
+      "sector_name": "Healthcare",
+      "version": 1,
+      "current_prompt": "You analyze HEALTHCARE sector news. Focus on: FDA approvals/rejections, clinical trial results, drug pricing policy, Medicare/Medicaid changes, and biotech breakthroughs. FDA decisions are binary events - very bullish or bearish. Patent expirations are negative. M&A is usually positive for targets.",
+      "keywords_boost": [
+        "FDA",
+        "pharma",
+        "biotech",
+        "drug",
+        "clinical trial",
+        "vaccine",
+        "Medicare"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      }
+    },
+    "XLF": {
+      "sector_name": "Financials",
+      "version": 1,
+      "current_prompt": "You analyze FINANCIAL sector news. Focus on: interest rate decisions (Fed, ECB), bank earnings, loan defaults, regulatory changes, and credit conditions. Rate hikes generally positive for bank margins. Credit concerns and defaults are very negative. Watch for systemic risk signals.",
+      "keywords_boost": [
+        "Fed",
+        "ECB",
+        "interest rate",
+        "bank",
+        "loan",
+        "credit",
+        "JPMorgan",
+        "Goldman"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      }
+    },
+    "XLY": {
+      "sector_name": "Consumer Discretionary",
+      "version": 1,
+      "current_prompt": "You analyze CONSUMER DISCRETIONARY news. Focus on: retail sales, consumer confidence, employment data, holiday spending, and luxury demand. Strong employment = bullish. Inflation concerns hurt spending. Watch Amazon, Tesla, Nike, and home improvement retailers.",
+      "keywords_boost": [
+        "retail",
+        "consumer",
+        "spending",
+        "Tesla",
+        "Amazon",
+        "Nike",
+        "luxury"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      }
+    },
+    "XLP": {
+      "sector_name": "Consumer Staples",
+      "version": 1,
+      "current_prompt": "You analyze CONSUMER STAPLES news. Focus on: commodity input costs, pricing power, volume growth, and defensive positioning. These are defensive stocks - less volatile. Rising input costs hurt margins. Brand strength matters. Watch Procter & Gamble, Coca-Cola, Walmart.",
+      "keywords_boost": [
+        "Unilever",
+        "P&G",
+        "Coca-Cola",
+        "Walmart",
+        "grocery",
+        "food",
+        "beverage"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      }
+    },
+    "XLE": {
+      "sector_name": "Energy",
+      "version": 1,
+      "current_prompt": "You analyze ENERGY sector news. Focus on: oil/gas prices, OPEC decisions, inventory data, geopolitical tensions, and production levels. OPEC cuts = bullish. Demand destruction fears = bearish. Geopolitical risk in Middle East affects prices. Watch Exxon, Chevron, Shell.",
+      "keywords_boost": [
+        "oil",
+        "gas",
+        "OPEC",
+        "Shell",
+        "Exxon",
+        "drilling",
+        "crude",
+        "refinery"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 1,
+        "total": 1,
+        "accuracy": 100.0
+      }
+    },
+    "ICLN": {
+      "sector_name": "Clean Energy",
+      "version": 1,
+      "current_prompt": "You analyze CLEAN ENERGY sector news. Focus on: renewable subsidies, solar/wind costs, EV adoption, battery technology, and climate policy. Government incentives are crucial - policy changes have big impact. Technology cost reductions are bullish. Watch First Solar, Enphase, Vestas.",
+      "keywords_boost": [
+        "solar",
+        "wind",
+        "EV",
+        "battery",
+        "renewable",
+        "climate",
+        "green",
+        "hydrogen"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 1,
+        "total": 1,
+        "accuracy": 100.0
+      }
+    },
+    "XLI": {
+      "sector_name": "Industrials",
+      "version": 1,
+      "current_prompt": "You analyze INDUSTRIAL sector news. Focus on: manufacturing PMI, infrastructure spending, supply chain issues, and transportation demand. Government infrastructure bills are very bullish. Supply chain disruptions hurt. Watch Boeing, Caterpillar, Union Pacific.",
+      "keywords_boost": [
+        "manufacturing",
+        "infrastructure",
+        "Boeing",
+        "Caterpillar",
+        "logistics",
+        "factory"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 1,
+        "total": 1,
+        "accuracy": 100.0
+      }
+    },
+    "XLB": {
+      "sector_name": "Materials",
+      "version": 1,
+      "current_prompt": "You analyze MATERIALS sector news. Focus on: commodity prices (copper, steel, gold), China demand, construction activity, and mining output. China construction drives demand. Gold rises on uncertainty. Watch for supply disruptions in mining.",
+      "keywords_boost": [
+        "copper",
+        "steel",
+        "gold",
+        "mining",
+        "commodity",
+        "China",
+        "construction"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      }
+    },
+    "XLU": {
+      "sector_name": "Utilities",
+      "version": 1,
+      "current_prompt": "You analyze UTILITIES sector news. Focus on: interest rates (inverse relationship), regulatory decisions, infrastructure investment, and energy transition. Rising rates hurt utilities (bond proxies). Regulatory approvals for rate increases are positive. Defensive sector.",
+      "keywords_boost": [
+        "utility",
+        "electric",
+        "water",
+        "grid",
+        "regulated",
+        "dividend"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      }
+    },
+    "XLRE": {
+      "sector_name": "Real Estate",
+      "version": 1,
+      "current_prompt": "You analyze REAL ESTATE sector news. Focus on: interest rates, occupancy rates, rent growth, and property values. Rising rates are very negative (higher financing costs). Remote work affects office REITs negatively. Data centers and industrial REITs benefit from e-commerce.",
+      "keywords_boost": [
+        "REIT",
+        "property",
+        "mortgage",
+        "rent",
+        "housing",
+        "commercial",
+        "office"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 1,
+        "total": 1,
+        "accuracy": 100.0
+      }
+    },
+    "XLC": {
+      "sector_name": "Communication Services",
+      "version": 1,
+      "current_prompt": "You analyze COMMUNICATION SERVICES news. Focus on: ad spending trends, subscriber growth, content investments, and regulatory scrutiny. Ad revenue is cyclical - watch economic indicators. Streaming subscriber growth matters. Regulatory antitrust is a risk. Watch Google, Meta, Netflix, Disney.",
+      "keywords_boost": [
+        "streaming",
+        "advertising",
+        "Netflix",
+        "Disney",
+        "Meta",
+        "Google",
+        "telecom"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 1,
+        "total": 1,
+        "accuracy": 100.0
+      }
+    },
+    "CRYPTO": {
+      "sector_name": "Cryptocurrency",
+      "version": 1,
+      "current_prompt": "You analyze CRYPTOCURRENCY news. Focus on: regulatory actions, institutional adoption, ETF approvals, exchange issues, and macro liquidity. Regulation news has huge impact - bans very negative, clarity positive. Institutional buying (MicroStrategy, ETFs) is bullish. Exchange hacks/failures very negative. Correlated with risk assets.",
+      "keywords_boost": [
+        "Bitcoin",
+        "Ethereum",
+        "BTC",
+        "ETH",
+        "crypto",
+        "SEC",
+        "ETF",
+        "Coinbase",
+        "Binance"
+      ],
+      "created": "2025-02-04T00:00:00Z",
+      "last_modified": "2025-02-04T00:00:00Z",
+      "performance": {
+        "correct": 1,
+        "total": 1,
+        "accuracy": 100.0
+      }
+    }
+  },
+  "base_system_prompt": "You are a financial sentiment analyzer specializing in {sector_name}. Rate news sentiment from -1.0 (very bearish) to +1.0 (very bullish).\n\n{sector_specific_prompt}\n\nRESPOND WITH ONLY A NUMBER between -1.0 and 1.0. No explanation."
+}

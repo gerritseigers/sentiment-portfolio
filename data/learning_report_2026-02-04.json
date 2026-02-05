@@ -1,0 +1,48 @@
+{
+  "date": "2026-02-04",
+  "timestamp": "21:30 UTC",
+  "daily_accuracy": 0.54,
+  "overall_accuracy": 0.577,
+  "total_predictions": 26,
+  "sectors_analyzed": 13,
+  "correct_predictions": 7,
+  
+  "sector_results": {
+    "XLK": {"predicted": 0.01, "actual": 0.1, "correct": true, "note": "Neutral correct"},
+    "XLV": {"predicted": 0.12, "actual": -1.2, "correct": false, "note": "Predicted bullish, was bearish"},
+    "XLF": {"predicted": 0.01, "actual": -1.6, "correct": false, "note": "Predicted neutral, was bearish"},
+    "XLY": {"predicted": -0.02, "actual": 1.1, "correct": false, "note": "Predicted bearish, was bullish"},
+    "XLP": {"predicted": 0.00, "actual": 1.2, "correct": false, "note": "Predicted neutral, was bullish"},
+    "XLE": {"predicted": 0.04, "actual": -0.9, "correct": true, "note": "Neutral correct"},
+    "ICLN": {"predicted": 0.01, "actual": -0.7, "correct": true, "note": "Neutral correct"},
+    "XLI": {"predicted": 0.00, "actual": -0.3, "correct": true, "note": "Neutral correct"},
+    "XLB": {"predicted": -0.04, "actual": -1.9, "correct": false, "note": "Direction right but magnitude wrong"},
+    "XLU": {"predicted": 0.01, "actual": 1.6, "correct": false, "note": "Missed bullish move"},
+    "XLRE": {"predicted": -0.09, "actual": 0.8, "correct": true, "note": "Neutral correct"},
+    "XLC": {"predicted": 0.01, "actual": 0.2, "correct": true, "note": "Neutral correct"},
+    "CRYPTO": {"predicted": -0.01, "actual": 0.8, "correct": true, "note": "Neutral correct"}
+  },
+  
+  "multiplier_adjustments": {
+    "XLK": {"from": 0.98, "to": 1.00, "change": "+2%"},
+    "XLV": {"from": 1.02, "to": 1.00, "change": "-2%"},
+    "XLF": {"from": 1.02, "to": 1.00, "change": "-2%"},
+    "XLY": {"from": 0.98, "to": 0.96, "change": "-2%"},
+    "XLP": {"from": 1.02, "to": 1.00, "change": "-2%"}
+  },
+  
+  "top_reliable_sectors": ["XLE", "ICLN", "XLC"],
+  
+  "source_reliability": {
+    "poor": ["Nikkei Asia (37%)", "Oilprice.com (37%)", "Yahoo Finance Markets (32%)"],
+    "moderate": ["Techmeme (52%)", "Semafor Tech (51%)", "Tesla News (44%)", "Wolf Street (47%)"]
+  },
+  
+  "market_observation": "Strong commodities day - Gold +6.4%, Copper miners +6.5%, Metals/Mining +5%. Energy sector outperformed. Defensive sectors (Staples, Utilities) showed strength vs our predictions.",
+  
+  "lessons": [
+    "Model struggles with defensive sector moves (XLP, XLU)",
+    "Consumer Discretionary (XLY) prediction consistently off",
+    "Neutral predictions performing well for volatile sectors"
+  ]
+}

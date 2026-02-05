@@ -1,0 +1,1700 @@
+{
+  "version": "3.0",
+  "focus": "US Markets - Comprehensive",
+  "trading_platform": "Revolut",
+  "last_updated": "2026-02-04",
+  "rss_feeds": {
+    "major_financial_news": [
+      {
+        "name": "Bloomberg Markets",
+        "url": "https://feeds.bloomberg.com/markets/news.rss"
+      },
+      {
+        "name": "Bloomberg Technology",
+        "url": "https://feeds.bloomberg.com/technology/news.rss"
+      },
+      {
+        "name": "Bloomberg Politics",
+        "url": "https://feeds.bloomberg.com/politics/news.rss"
+      },
+      {
+        "name": "CNBC Top News",
+        "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
+      },
+      {
+        "name": "CNBC Finance",
+        "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+      },
+      {
+        "name": "CNBC Investing",
+        "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069"
+      },
+      {
+        "name": "CNBC Economy",
+        "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"
+      },
+      {
+        "name": "CNBC Tech",
+        "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910"
+      },
+      {
+        "name": "WSJ Markets",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+      },
+      {
+        "name": "WSJ Business",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"
+      },
+      {
+        "name": "WSJ Technology",
+        "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/rssindex"
+      },
+      {
+        "name": "MarketWatch Top",
+        "url": "http://feeds.marketwatch.com/marketwatch/topstories/"
+      },
+      {
+        "name": "MarketWatch Markets",
+        "url": "http://feeds.marketwatch.com/marketwatch/marketpulse/"
+      },
+      {
+        "name": "MarketWatch Stocks",
+        "url": "http://feeds.marketwatch.com/marketwatch/StockstoWatch/"
+      },
+      {
+        "name": "Investing.com News",
+        "url": "https://www.investing.com/rss/news.rss"
+      },
+      {
+        "name": "Investing.com Analysis",
+        "url": "https://www.investing.com/rss/news_301.rss"
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/rss/home"
+      },
+      {
+        "name": "The Economist Business",
+        "url": "https://www.economist.com/business/rss.xml"
+      },
+      {
+        "name": "The Economist Finance",
+        "url": "https://www.economist.com/finance-and-economics/rss.xml"
+      },
+      {
+        "name": "Barrons",
+        "url": "https://www.barrons.com/market-data?mod=BOL_TOPNAV"
+      },
+      {
+        "name": "Seeking Alpha Market News",
+        "url": "https://seekingalpha.com/market_currents.xml"
+      },
+      {
+        "name": "Seeking Alpha Top Ideas",
+        "url": "https://seekingalpha.com/feed.xml"
+      },
+      {
+        "name": "Motley Fool",
+        "url": "https://www.fool.com/feeds/index.aspx"
+      },
+      {
+        "name": "Benzinga",
+        "url": "https://www.benzinga.com/feed"
+      },
+      {
+        "name": "Zacks Investment",
+        "url": "https://www.zacks.com/feeds/zacksrss.aspx"
+      }
+    ],
+    "wire_services": [
+      {
+        "name": "AP Business",
+        "url": "https://rsshub.app/apnews/topics/business"
+      },
+      {
+        "name": "AP Technology",
+        "url": "https://rsshub.app/apnews/topics/technology"
+      },
+      {
+        "name": "AFP Business",
+        "url": "https://www.afp.com/en/news-feed"
+      },
+      {
+        "name": "UPI Business",
+        "url": "https://rss.upi.com/news/business_news.rss"
+      },
+      {
+        "name": "UPI Top News",
+        "url": "https://rss.upi.com/news/top_news.rss"
+      }
+    ],
+    "international_business": [
+      {
+        "name": "BBC Business",
+        "url": "http://feeds.bbci.co.uk/news/business/rss.xml"
+      },
+      {
+        "name": "BBC Technology",
+        "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
+      },
+      {
+        "name": "Guardian Business",
+        "url": "https://www.theguardian.com/uk/business/rss"
+      },
+      {
+        "name": "Guardian Technology",
+        "url": "https://www.theguardian.com/uk/technology/rss"
+      },
+      {
+        "name": "Telegraph Business",
+        "url": "https://www.telegraph.co.uk/business/rss.xml"
+      },
+      {
+        "name": "Independent Business",
+        "url": "https://www.independent.co.uk/news/business/rss"
+      },
+      {
+        "name": "Sky News Business",
+        "url": "https://feeds.skynews.com/feeds/rss/business.xml"
+      },
+      {
+        "name": "SCMP Business",
+        "url": "https://www.scmp.com/rss/91/feed"
+      },
+      {
+        "name": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/rss/feed/nar"
+      },
+      {
+        "name": "DW Business",
+        "url": "https://rss.dw.com/xml/rss-en-bus"
+      },
+      {
+        "name": "France24 Business",
+        "url": "https://www.france24.com/en/business/rss"
+      },
+      {
+        "name": "Al Jazeera Business",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml"
+      }
+    ],
+    "tech_news": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/feed/"
+      },
+      {
+        "name": "TechCrunch Startups",
+        "url": "https://techcrunch.com/startups/feed/"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/rss/index.xml"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"
+      },
+      {
+        "name": "Ars Technica Business",
+        "url": "https://feeds.arstechnica.com/arstechnica/business"
+      },
+      {
+        "name": "Wired Business",
+        "url": "https://www.wired.com/feed/category/business/latest/rss"
+      },
+      {
+        "name": "Wired Gear",
+        "url": "https://www.wired.com/feed/category/gear/latest/rss"
+      },
+      {
+        "name": "Hacker News",
+        "url": "https://hnrss.org/frontpage"
+      },
+      {
+        "name": "Hacker News Best",
+        "url": "https://hnrss.org/best"
+      },
+      {
+        "name": "VentureBeat",
+        "url": "https://venturebeat.com/feed/"
+      },
+      {
+        "name": "VentureBeat AI",
+        "url": "https://venturebeat.com/category/ai/feed/"
+      },
+      {
+        "name": "The Information",
+        "url": "https://www.theinformation.com/feed"
+      },
+      {
+        "name": "Protocol",
+        "url": "https://www.protocol.com/feeds/feed.rss"
+      },
+      {
+        "name": "9to5Mac",
+        "url": "https://9to5mac.com/feed/"
+      },
+      {
+        "name": "9to5Google",
+        "url": "https://9to5google.com/feed/"
+      },
+      {
+        "name": "Android Authority",
+        "url": "https://www.androidauthority.com/feed/"
+      },
+      {
+        "name": "MacRumors",
+        "url": "https://feeds.macrumors.com/MacRumors-All"
+      },
+      {
+        "name": "AppleInsider",
+        "url": "https://appleinsider.com/rss/news/"
+      },
+      {
+        "name": "The Register",
+        "url": "https://www.theregister.com/headlines.atom"
+      },
+      {
+        "name": "ZDNet",
+        "url": "https://www.zdnet.com/news/rss.xml"
+      },
+      {
+        "name": "CNET News",
+        "url": "https://www.cnet.com/rss/news/"
+      },
+      {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/rss.xml"
+      },
+      {
+        "name": "Gizmodo",
+        "url": "https://gizmodo.com/rss"
+      },
+      {
+        "name": "MIT Tech Review",
+        "url": "https://www.technologyreview.com/feed/"
+      },
+      {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/feeds/feed.rss"
+      },
+      {
+        "name": "SiliconAngle",
+        "url": "https://siliconangle.com/feed/"
+      },
+      {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshardware.com/feeds/all"
+      },
+      {
+        "name": "AnandTech",
+        "url": "https://www.anandtech.com/rss/"
+      },
+      {
+        "name": "ExtremeTech",
+        "url": "https://www.extremetech.com/feed"
+      }
+    ],
+    "ai_specific": [
+      {
+        "name": "AI News",
+        "url": "https://www.artificialintelligence-news.com/feed/"
+      },
+      {
+        "name": "VentureBeat AI",
+        "url": "https://venturebeat.com/category/ai/feed/"
+      },
+      {
+        "name": "MIT AI News",
+        "url": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml"
+      },
+      {
+        "name": "Google AI Blog",
+        "url": "https://blog.google/technology/ai/rss/"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/blog/rss/"
+      },
+      {
+        "name": "Anthropic News",
+        "url": "https://www.anthropic.com/news/rss"
+      },
+      {
+        "name": "AI Weekly",
+        "url": "https://aiweekly.co/feed/"
+      },
+      {
+        "name": "Import AI Newsletter",
+        "url": "https://importai.substack.com/feed"
+      },
+      {
+        "name": "The Batch (deeplearning.ai)",
+        "url": "https://www.deeplearning.ai/the-batch/feed/"
+      }
+    ],
+    "crypto_blockchain": [
+      {
+        "name": "CoinDesk",
+        "url": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+      },
+      {
+        "name": "CoinDesk Markets",
+        "url": "https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=rss&_website=coindesk"
+      },
+      {
+        "name": "Cointelegraph",
+        "url": "https://cointelegraph.com/rss"
+      },
+      {
+        "name": "Cointelegraph Bitcoin",
+        "url": "https://cointelegraph.com/rss/tag/bitcoin"
+      },
+      {
+        "name": "Decrypt",
+        "url": "https://decrypt.co/feed"
+      },
+      {
+        "name": "The Block",
+        "url": "https://www.theblock.co/rss.xml"
+      },
+      {
+        "name": "Bitcoin Magazine",
+        "url": "https://bitcoinmagazine.com/.rss/full/"
+      },
+      {
+        "name": "CryptoSlate",
+        "url": "https://cryptoslate.com/feed/"
+      },
+      {
+        "name": "NewsBTC",
+        "url": "https://www.newsbtc.com/feed/"
+      },
+      {
+        "name": "BeInCrypto",
+        "url": "https://beincrypto.com/feed/"
+      },
+      {
+        "name": "CryptoPotato",
+        "url": "https://cryptopotato.com/feed/"
+      },
+      {
+        "name": "U.Today Crypto",
+        "url": "https://u.today/rss"
+      },
+      {
+        "name": "Blockworks",
+        "url": "https://blockworks.co/feed/"
+      }
+    ],
+    "energy_commodities": [
+      {
+        "name": "Oil Price",
+        "url": "https://oilprice.com/rss/main"
+      },
+      {
+        "name": "Oil Price Energy",
+        "url": "https://oilprice.com/rss/category/energy-general"
+      },
+      {
+        "name": "Rigzone",
+        "url": "https://www.rigzone.com/news/rss/rigzone_latest.aspx"
+      },
+      {
+        "name": "Natural Gas Intel",
+        "url": "https://www.naturalgasintel.com/feed/"
+      },
+      {
+        "name": "Renewable Energy World",
+        "url": "https://www.renewableenergyworld.com/feed/"
+      },
+      {
+        "name": "PV Magazine",
+        "url": "https://www.pv-magazine.com/feed/"
+      },
+      {
+        "name": "CleanTechnica",
+        "url": "https://cleantechnica.com/feed/"
+      },
+      {
+        "name": "GreenTech Media",
+        "url": "https://www.greentechmedia.com/feed/"
+      },
+      {
+        "name": "Energy Voice",
+        "url": "https://www.energyvoice.com/feed/"
+      },
+      {
+        "name": "Upstream Online",
+        "url": "https://www.upstreamonline.com/rss"
+      },
+      {
+        "name": "World Oil",
+        "url": "https://www.worldoil.com/rss/news.aspx"
+      },
+      {
+        "name": "Kitco Gold",
+        "url": "https://www.kitco.com/rss/gold.xml"
+      },
+      {
+        "name": "Kitco Mining",
+        "url": "https://www.kitco.com/rss/mining.xml"
+      },
+      {
+        "name": "Mining.com",
+        "url": "https://www.mining.com/feed/"
+      },
+      {
+        "name": "Metals Focus",
+        "url": "https://www.metalsfocus.com/rss/"
+      }
+    ],
+    "healthcare_pharma": [
+      {
+        "name": "FiercePharma",
+        "url": "https://www.fiercepharma.com/rss/xml"
+      },
+      {
+        "name": "FierceBiotech",
+        "url": "https://www.fiercebiotech.com/rss/xml"
+      },
+      {
+        "name": "FierceHealthcare",
+        "url": "https://www.fiercehealthcare.com/rss/xml"
+      },
+      {
+        "name": "Endpoints News",
+        "url": "https://endpts.com/feed/"
+      },
+      {
+        "name": "BioPharma Dive",
+        "url": "https://www.biopharmadive.com/feeds/news/"
+      },
+      {
+        "name": "Pharma Times",
+        "url": "https://www.pharmatimes.com/feed/"
+      },
+      {
+        "name": "Drug Discovery News",
+        "url": "https://www.drugdiscoverynews.com/rss"
+      },
+      {
+        "name": "STAT News",
+        "url": "https://www.statnews.com/feed/"
+      },
+      {
+        "name": "Healthcare Dive",
+        "url": "https://www.healthcaredive.com/feeds/news/"
+      },
+      {
+        "name": "Medical Device Network",
+        "url": "https://www.medicaldevice-network.com/feed/"
+      },
+      {
+        "name": "Genetic Engineering News",
+        "url": "https://www.genengnews.com/feed/"
+      },
+      {
+        "name": "BioSpace",
+        "url": "https://www.biospace.com/rss/news/"
+      }
+    ],
+    "finance_banking": [
+      {
+        "name": "Banking Dive",
+        "url": "https://www.bankingdive.com/feeds/news/"
+      },
+      {
+        "name": "American Banker",
+        "url": "https://www.americanbanker.com/feed"
+      },
+      {
+        "name": "Finextra",
+        "url": "https://www.finextra.com/rss/headlines.aspx"
+      },
+      {
+        "name": "Payments Dive",
+        "url": "https://www.paymentsdive.com/feeds/news/"
+      },
+      {
+        "name": "Fintech Futures",
+        "url": "https://www.fintechfutures.com/feed/"
+      },
+      {
+        "name": "The Fintech Times",
+        "url": "https://thefintechtimes.com/feed/"
+      },
+      {
+        "name": "Tearsheet",
+        "url": "https://tearsheet.co/feed/"
+      },
+      {
+        "name": "Crowdfund Insider",
+        "url": "https://www.crowdfundinsider.com/feed/"
+      },
+      {
+        "name": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/feed/"
+      },
+      {
+        "name": "PropertyCasualty360",
+        "url": "https://www.propertycasualty360.com/feed/"
+      }
+    ],
+    "retail_consumer": [
+      {
+        "name": "Retail Dive",
+        "url": "https://www.retaildive.com/feeds/news/"
+      },
+      {
+        "name": "Retail Wire",
+        "url": "https://retailwire.com/feed/"
+      },
+      {
+        "name": "Chain Store Age",
+        "url": "https://chainstoreage.com/feed"
+      },
+      {
+        "name": "Progressive Grocer",
+        "url": "https://progressivegrocer.com/rss.xml"
+      },
+      {
+        "name": "NRF (Retail Federation)",
+        "url": "https://nrf.com/rss.xml"
+      },
+      {
+        "name": "Fashion Network",
+        "url": "https://us.fashionnetwork.com/rss"
+      },
+      {
+        "name": "Luxury Daily",
+        "url": "https://www.luxurydaily.com/feed/"
+      },
+      {
+        "name": "Restaurant Business",
+        "url": "https://www.restaurantbusinessonline.com/rss.xml"
+      },
+      {
+        "name": "Food Dive",
+        "url": "https://www.fooddive.com/feeds/news/"
+      },
+      {
+        "name": "Beverage Daily",
+        "url": "https://www.beveragedaily.com/rss"
+      }
+    ],
+    "industrial_manufacturing": [
+      {
+        "name": "Industry Week",
+        "url": "https://www.industryweek.com/rss"
+      },
+      {
+        "name": "Manufacturing Dive",
+        "url": "https://www.manufacturingdive.com/feeds/news/"
+      },
+      {
+        "name": "Plant Engineering",
+        "url": "https://www.plantengineering.com/feed/"
+      },
+      {
+        "name": "Automotive News",
+        "url": "https://www.autonews.com/rss"
+      },
+      {
+        "name": "Automotive Dive",
+        "url": "https://www.automotivedive.com/feeds/news/"
+      },
+      {
+        "name": "Aviation Week",
+        "url": "https://aviationweek.com/rss"
+      },
+      {
+        "name": "Defense News",
+        "url": "https://www.defensenews.com/arc/outboundfeeds/rss/"
+      },
+      {
+        "name": "Military.com",
+        "url": "https://www.military.com/rss-feeds"
+      },
+      {
+        "name": "Logistics Management",
+        "url": "https://www.logisticsmgmt.com/rss"
+      },
+      {
+        "name": "Supply Chain Dive",
+        "url": "https://www.supplychaindive.com/feeds/news/"
+      },
+      {
+        "name": "FreightWaves",
+        "url": "https://www.freightwaves.com/feed"
+      }
+    ],
+    "real_estate": [
+      {
+        "name": "Housing Wire",
+        "url": "https://www.housingwire.com/feed/"
+      },
+      {
+        "name": "Inman",
+        "url": "https://www.inman.com/feed/"
+      },
+      {
+        "name": "Commercial Observer",
+        "url": "https://commercialobserver.com/feed/"
+      },
+      {
+        "name": "GlobeSt",
+        "url": "https://www.globest.com/feed/"
+      },
+      {
+        "name": "Bisnow National",
+        "url": "https://www.bisnow.com/national/rss"
+      },
+      {
+        "name": "Real Estate Weekly",
+        "url": "https://rew-online.com/feed/"
+      },
+      {
+        "name": "Propmodo",
+        "url": "https://www.propmodo.com/feed/"
+      },
+      {
+        "name": "Multi-Housing News",
+        "url": "https://www.multihousingnews.com/feed/"
+      }
+    ],
+    "reddit_sentiment": [
+      {
+        "name": "r/wallstreetbets",
+        "url": "https://www.reddit.com/r/wallstreetbets/hot/.rss"
+      },
+      {
+        "name": "r/stocks",
+        "url": "https://www.reddit.com/r/stocks/hot/.rss"
+      },
+      {
+        "name": "r/investing",
+        "url": "https://www.reddit.com/r/investing/hot/.rss"
+      },
+      {
+        "name": "r/StockMarket",
+        "url": "https://www.reddit.com/r/StockMarket/hot/.rss"
+      },
+      {
+        "name": "r/options",
+        "url": "https://www.reddit.com/r/options/hot/.rss"
+      },
+      {
+        "name": "r/ValueInvesting",
+        "url": "https://www.reddit.com/r/ValueInvesting/hot/.rss"
+      },
+      {
+        "name": "r/Daytrading",
+        "url": "https://www.reddit.com/r/Daytrading/hot/.rss"
+      },
+      {
+        "name": "r/SecurityAnalysis",
+        "url": "https://www.reddit.com/r/SecurityAnalysis/hot/.rss"
+      },
+      {
+        "name": "r/CryptoCurrency",
+        "url": "https://www.reddit.com/r/CryptoCurrency/hot/.rss"
+      },
+      {
+        "name": "r/Bitcoin",
+        "url": "https://www.reddit.com/r/Bitcoin/hot/.rss"
+      },
+      {
+        "name": "r/ethereum",
+        "url": "https://www.reddit.com/r/ethereum/hot/.rss"
+      },
+      {
+        "name": "r/technology",
+        "url": "https://www.reddit.com/r/technology/hot/.rss"
+      },
+      {
+        "name": "r/Economics",
+        "url": "https://www.reddit.com/r/Economics/hot/.rss"
+      },
+      {
+        "name": "r/RealEstate",
+        "url": "https://www.reddit.com/r/RealEstate/hot/.rss"
+      }
+    ],
+    "dutch_european": [
+      {
+        "name": "NOS Economie",
+        "url": "https://feeds.nos.nl/nosnieuwseconomie"
+      },
+      {
+        "name": "NOS Tech",
+        "url": "https://feeds.nos.nl/nosnieuwstech"
+      },
+      {
+        "name": "NU.nl Economie",
+        "url": "https://www.nu.nl/rss/Economie"
+      },
+      {
+        "name": "NU.nl Tech",
+        "url": "https://www.nu.nl/rss/Tech"
+      },
+      {
+        "name": "Telegraaf Financieel",
+        "url": "https://www.telegraaf.nl/financieel/rss"
+      },
+      {
+        "name": "AD Economie",
+        "url": "https://www.ad.nl/economie/rss.xml"
+      },
+      {
+        "name": "Volkskrant Economie",
+        "url": "https://www.volkskrant.nl/economie/rss.xml"
+      },
+      {
+        "name": "Tweakers",
+        "url": "https://feeds.feedburner.com/tweakers/mixed"
+      },
+      {
+        "name": "Bright.nl",
+        "url": "https://www.bright.nl/rss"
+      },
+      {
+        "name": "Sprout",
+        "url": "https://www.sprout.nl/rss.xml"
+      },
+      {
+        "name": "MT/Sprout",
+        "url": "https://mtsprout.nl/feed"
+      },
+      {
+        "name": "Z24",
+        "url": "https://z24.nl/feed"
+      },
+      {
+        "name": "DFT",
+        "url": "https://www.telegraaf.nl/dft/rss"
+      },
+      {
+        "name": "Emerce",
+        "url": "https://www.emerce.nl/feed"
+      }
+    ],
+    "newsletters_substacks": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily/rss"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/feed/"
+      },
+      {
+        "name": "Stratechery",
+        "url": "https://stratechery.com/feed/"
+      },
+      {
+        "name": "Matt Levine (Bloomberg)",
+        "url": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss"
+      },
+      {
+        "name": "Lenny's Newsletter",
+        "url": "https://www.lennysnewsletter.com/feed"
+      },
+      {
+        "name": "The Generalist",
+        "url": "https://generalist.substack.com/feed"
+      },
+      {
+        "name": "Not Boring",
+        "url": "https://notboring.substack.com/feed"
+      },
+      {
+        "name": "The Diff",
+        "url": "https://thediff.substack.com/feed"
+      },
+      {
+        "name": "Finimize",
+        "url": "https://www.finimize.com/feed/"
+      }
+    ]
+  },
+  "us_sectors": {
+    "XLK": {
+      "name": "Technology",
+      "etf": "XLK",
+      "keywords": [
+        "tech",
+        "software",
+        "AI",
+        "artificial intelligence",
+        "machine learning",
+        "semiconductor",
+        "chip",
+        "chips",
+        "cloud",
+        "SaaS",
+        "Apple",
+        "Microsoft",
+        "Nvidia",
+        "Google",
+        "Alphabet",
+        "Meta",
+        "Amazon AWS",
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "GOOGL",
+        "GOOG",
+        "META",
+        "iPhone",
+        "Android",
+        "cybersecurity",
+        "data center",
+        "GPU",
+        "CPU",
+        "Intel",
+        "AMD",
+        "INTC",
+        "Qualcomm",
+        "QCOM",
+        "Broadcom",
+        "AVGO",
+        "Adobe",
+        "ADBE",
+        "Salesforce",
+        "CRM",
+        "Oracle",
+        "ORCL",
+        "IBM",
+        "SAP",
+        "ServiceNow",
+        "NOW",
+        "Palantir",
+        "PLTR",
+        "Snowflake",
+        "SNOW"
+      ]
+    },
+    "XLV": {
+      "name": "Healthcare",
+      "etf": "XLV",
+      "keywords": [
+        "pharma",
+        "biotech",
+        "drug",
+        "FDA",
+        "hospital",
+        "medical",
+        "vaccine",
+        "Pfizer",
+        "Johnson",
+        "UnitedHealth",
+        "Merck",
+        "Eli Lilly",
+        "AbbVie",
+        "clinical trial",
+        "healthcare",
+        "Medicare",
+        "Medicaid",
+        "PFE",
+        "JNJ",
+        "UNH",
+        "MRK",
+        "LLY",
+        "ABBV",
+        "Amgen",
+        "AMGN",
+        "Gilead",
+        "GILD",
+        "Moderna",
+        "MRNA",
+        "Regeneron",
+        "REGN",
+        "Vertex",
+        "VRTX",
+        "BioNTech",
+        "BNTX",
+        "Novartis",
+        "NVS",
+        "AstraZeneca",
+        "AZN",
+        "Roche",
+        "obesity",
+        "GLP-1",
+        "Ozempic",
+        "Wegovy"
+      ]
+    },
+    "XLF": {
+      "name": "Financials",
+      "etf": "XLF",
+      "keywords": [
+        "bank",
+        "banking",
+        "JPMorgan",
+        "Goldman",
+        "Morgan Stanley",
+        "insurance",
+        "credit",
+        "loan",
+        "interest rate",
+        "Fed",
+        "Federal Reserve",
+        "Visa",
+        "Mastercard",
+        "Wells Fargo",
+        "Citigroup",
+        "JPM",
+        "GS",
+        "MS",
+        "V",
+        "MA",
+        "BAC",
+        "C",
+        "fintech",
+        "BlackRock",
+        "BLK",
+        "Schwab",
+        "SCHW",
+        "American Express",
+        "AXP",
+        "Capital One",
+        "COF",
+        "PayPal",
+        "PYPL",
+        "Block",
+        "SQ",
+        "Berkshire",
+        "BRK"
+      ]
+    },
+    "XLY": {
+      "name": "Consumer Discretionary",
+      "etf": "XLY",
+      "keywords": [
+        "retail",
+        "Amazon",
+        "Tesla",
+        "Nike",
+        "Starbucks",
+        "McDonald",
+        "Home Depot",
+        "consumer spending",
+        "e-commerce",
+        "AMZN",
+        "TSLA",
+        "NKE",
+        "SBUX",
+        "MCD",
+        "HD",
+        "Target",
+        "TGT",
+        "Lowe's",
+        "LOW",
+        "TJX",
+        "Ross",
+        "ROST",
+        "luxury",
+        "LVMH",
+        "travel",
+        "hotel",
+        "Marriott",
+        "MAR",
+        "Hilton",
+        "HLT",
+        "airline",
+        "Delta",
+        "DAL",
+        "United",
+        "UAL",
+        "Booking",
+        "BKNG",
+        "Airbnb",
+        "ABNB",
+        "Disney",
+        "cruise"
+      ]
+    },
+    "XLP": {
+      "name": "Consumer Staples",
+      "etf": "XLP",
+      "keywords": [
+        "Procter",
+        "Coca-Cola",
+        "Pepsi",
+        "Walmart",
+        "Costco",
+        "grocery",
+        "food",
+        "beverage",
+        "PG",
+        "KO",
+        "PEP",
+        "WMT",
+        "COST",
+        "Colgate",
+        "CL",
+        "Kraft",
+        "KHC",
+        "Mondelez",
+        "MDLZ",
+        "General Mills",
+        "GIS",
+        "Kellogg",
+        "K",
+        "Nestle",
+        "NSRGY",
+        "Unilever",
+        "UL",
+        "Philip Morris",
+        "PM",
+        "Altria",
+        "MO",
+        "tobacco"
+      ]
+    },
+    "XLE": {
+      "name": "Energy",
+      "etf": "XLE",
+      "keywords": [
+        "oil",
+        "gas",
+        "Exxon",
+        "Chevron",
+        "crude",
+        "OPEC",
+        "drilling",
+        "pipeline",
+        "XOM",
+        "CVX",
+        "ConocoPhillips",
+        "COP",
+        "Schlumberger",
+        "SLB",
+        "EOG",
+        "Pioneer",
+        "PXD",
+        "Occidental",
+        "OXY",
+        "Halliburton",
+        "HAL",
+        "petroleum",
+        "refinery",
+        "LNG",
+        "shale",
+        "offshore",
+        "barrel",
+        "brent",
+        "WTI",
+        "natural gas",
+        "fracking"
+      ]
+    },
+    "ICLN": {
+      "name": "Clean Energy",
+      "etf": "ICLN",
+      "keywords": [
+        "solar",
+        "wind",
+        "renewable",
+        "clean energy",
+        "green",
+        "EV",
+        "electric vehicle",
+        "battery",
+        "lithium",
+        "hydrogen",
+        "Enphase",
+        "ENPH",
+        "First Solar",
+        "FSLR",
+        "SunPower",
+        "SPWR",
+        "NextEra",
+        "NEE",
+        "Plug Power",
+        "PLUG",
+        "ChargePoint",
+        "CHPT",
+        "Rivian",
+        "RIVN",
+        "Lucid",
+        "LCID",
+        "BYD",
+        "BYDDY",
+        "climate",
+        "carbon",
+        "ESG"
+      ]
+    },
+    "XLI": {
+      "name": "Industrials",
+      "etf": "XLI",
+      "keywords": [
+        "Boeing",
+        "Caterpillar",
+        "UPS",
+        "FedEx",
+        "manufacturing",
+        "aerospace",
+        "defense",
+        "infrastructure",
+        "BA",
+        "CAT",
+        "UPS",
+        "FDX",
+        "Honeywell",
+        "HON",
+        "3M",
+        "MMM",
+        "GE",
+        "General Electric",
+        "Lockheed",
+        "LMT",
+        "Raytheon",
+        "RTX",
+        "Northrop",
+        "NOC",
+        "Deere",
+        "DE",
+        "Union Pacific",
+        "UNP",
+        "CSX",
+        "Norfolk Southern",
+        "NSC",
+        "railroad",
+        "trucking"
+      ]
+    },
+    "XLB": {
+      "name": "Materials",
+      "etf": "XLB",
+      "keywords": [
+        "mining",
+        "steel",
+        "chemical",
+        "gold",
+        "copper",
+        "lithium",
+        "commodities",
+        "Linde",
+        "LIN",
+        "Sherwin",
+        "SHW",
+        "Freeport",
+        "FCX",
+        "Nucor",
+        "NUE",
+        "rare earth",
+        "aluminum",
+        "Alcoa",
+        "AA",
+        "Newmont",
+        "NEM",
+        "Barrick",
+        "GOLD",
+        "silver",
+        "platinum",
+        "palladium",
+        "DuPont",
+        "DD",
+        "Dow",
+        "DOW"
+      ]
+    },
+    "XLU": {
+      "name": "Utilities",
+      "etf": "XLU",
+      "keywords": [
+        "electric",
+        "power",
+        "utility",
+        "grid",
+        "nuclear",
+        "gas utility",
+        "NextEra",
+        "NEE",
+        "Duke",
+        "DUK",
+        "Southern",
+        "SO",
+        "Dominion",
+        "D",
+        "water utility",
+        "regulated",
+        "American Electric",
+        "AEP",
+        "Exelon",
+        "EXC",
+        "Xcel",
+        "XEL",
+        "PG&E",
+        "PCG",
+        "Edison",
+        "EIX"
+      ]
+    },
+    "XLRE": {
+      "name": "Real Estate",
+      "etf": "XLRE",
+      "keywords": [
+        "REIT",
+        "property",
+        "real estate",
+        "mortgage",
+        "housing",
+        "commercial property",
+        "AMT",
+        "American Tower",
+        "PLD",
+        "Prologis",
+        "Crown Castle",
+        "CCI",
+        "Equinix",
+        "EQIX",
+        "data center",
+        "office",
+        "retail property",
+        "residential",
+        "apartment",
+        "mall",
+        "warehouse",
+        "industrial REIT",
+        "Simon",
+        "SPG"
+      ]
+    },
+    "XLC": {
+      "name": "Communication Services",
+      "etf": "XLC",
+      "keywords": [
+        "telecom",
+        "media",
+        "streaming",
+        "Netflix",
+        "Disney",
+        "Warner",
+        "AT&T",
+        "Verizon",
+        "NFLX",
+        "DIS",
+        "T",
+        "VZ",
+        "Comcast",
+        "CMCSA",
+        "social media",
+        "advertising",
+        "5G",
+        "T-Mobile",
+        "TMUS",
+        "Charter",
+        "CHTR",
+        "Spotify",
+        "SPOT",
+        "Roku",
+        "ROKU",
+        "Live Nation",
+        "LYV",
+        "Take-Two",
+        "TTWO",
+        "EA",
+        "Activision"
+      ]
+    },
+    "CRYPTO": {
+      "name": "Cryptocurrency",
+      "etf": "BITO",
+      "keywords": [
+        "bitcoin",
+        "BTC",
+        "ethereum",
+        "ETH",
+        "crypto",
+        "cryptocurrency",
+        "blockchain",
+        "altcoin",
+        "DeFi",
+        "NFT",
+        "Coinbase",
+        "COIN",
+        "MicroStrategy",
+        "MSTR",
+        "stablecoin",
+        "USDT",
+        "USDC",
+        "Binance",
+        "FTX",
+        "Solana",
+        "SOL",
+        "Cardano",
+        "ADA",
+        "XRP",
+        "Ripple",
+        "Dogecoin",
+        "DOGE",
+        "mining",
+        "hash rate",
+        "wallet"
+      ]
+    }
+  },
+  "update_schedule": {
+    "pre_market": {
+      "time": "12:00",
+      "tz": "Europe/Amsterdam",
+      "note": "06:00 ET - Before US pre-market"
+    },
+    "market_open": {
+      "time": "15:30",
+      "tz": "Europe/Amsterdam",
+      "note": "09:30 ET - US market opens"
+    },
+    "mid_day": {
+      "time": "18:00",
+      "tz": "Europe/Amsterdam",
+      "note": "12:00 ET - Lunch break"
+    },
+    "market_close": {
+      "time": "22:00",
+      "tz": "Europe/Amsterdam",
+      "note": "16:00 ET - US market closes"
+    },
+    "after_hours": {
+      "time": "23:00",
+      "tz": "Europe/Amsterdam",
+      "note": "After-hours summary"
+    }
+  },
+  "web_scrape": {
+    "financial_portals": [
+      {
+        "name": "Yahoo Finance News",
+        "url": "https://finance.yahoo.com/news/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Yahoo Finance Markets",
+        "url": "https://finance.yahoo.com/topic/stock-market-news/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Google Finance",
+        "url": "https://www.google.com/finance/",
+        "selector": "div[class*='headline'] a"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news",
+        "selector": "article a.title"
+      },
+      {
+        "name": "TradingView News",
+        "url": "https://www.tradingview.com/news/",
+        "selector": "span[class*='title']"
+      },
+      {
+        "name": "Stocktwits Trending",
+        "url": "https://stocktwits.com/",
+        "selector": "div[class*='message']"
+      },
+      {
+        "name": "Finviz News",
+        "url": "https://finviz.com/news.ashx",
+        "selector": "a.nn-tab-link"
+      },
+      {
+        "name": "Briefing.com",
+        "url": "https://www.briefing.com/",
+        "selector": "a.story-link"
+      }
+    ],
+    "market_analysis": [
+      {
+        "name": "Seeking Alpha Latest",
+        "url": "https://seekingalpha.com/market-news",
+        "selector": "a[data-test-id='post-list-item-title']"
+      },
+      {
+        "name": "Seeking Alpha Analysis",
+        "url": "https://seekingalpha.com/analysis",
+        "selector": "a[data-test-id='post-list-item-title']"
+      },
+      {
+        "name": "Motley Fool News",
+        "url": "https://www.fool.com/investing-news/",
+        "selector": "a.text-gray-1100"
+      },
+      {
+        "name": "Motley Fool Analysis",
+        "url": "https://www.fool.com/investing/",
+        "selector": "a.text-gray-1100"
+      },
+      {
+        "name": "Kiplinger",
+        "url": "https://www.kiplinger.com/investing",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Investor's Business Daily",
+        "url": "https://www.investors.com/news/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "TheStreet",
+        "url": "https://www.thestreet.com/markets",
+        "selector": "h2 a, h3 a"
+      },
+      {
+        "name": "Insider Monkey",
+        "url": "https://www.insidermonkey.com/blog/",
+        "selector": "h2 a"
+      },
+      {
+        "name": "GuruFocus News",
+        "url": "https://www.gurufocus.com/news",
+        "selector": "a.article-title"
+      }
+    ],
+    "earnings_calendar": [
+      {
+        "name": "Earnings Whispers",
+        "url": "https://www.earningswhispers.com/",
+        "selector": "div.company a"
+      },
+      {
+        "name": "Nasdaq Earnings",
+        "url": "https://www.nasdaq.com/market-activity/earnings",
+        "selector": "a.quote-table__cell-link"
+      },
+      {
+        "name": "Yahoo Earnings",
+        "url": "https://finance.yahoo.com/calendar/earnings",
+        "selector": "td a"
+      }
+    ],
+    "tech_deep": [
+      {
+        "name": "The Information",
+        "url": "https://www.theinformation.com/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Semafor Tech",
+        "url": "https://www.semafor.com/vertical/tech",
+        "selector": "h2 a"
+      },
+      {
+        "name": "Rest of World",
+        "url": "https://restofworld.org/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Protocol",
+        "url": "https://www.protocol.com/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Techmeme",
+        "url": "https://www.techmeme.com/",
+        "selector": "a.ourh"
+      },
+      {
+        "name": "Hacker News Front",
+        "url": "https://news.ycombinator.com/",
+        "selector": "a.titlelink"
+      },
+      {
+        "name": "Slashdot",
+        "url": "https://slashdot.org/",
+        "selector": "h2.story a"
+      },
+      {
+        "name": "Lobsters",
+        "url": "https://lobste.rs/",
+        "selector": "a.u-url"
+      }
+    ],
+    "crypto_deep": [
+      {
+        "name": "CoinMarketCap News",
+        "url": "https://coinmarketcap.com/headlines/news/",
+        "selector": "a[class*='headline']"
+      },
+      {
+        "name": "CoinGecko News",
+        "url": "https://www.coingecko.com/en/news",
+        "selector": "a.tw-text-gray-700"
+      },
+      {
+        "name": "Messari",
+        "url": "https://messari.io/news",
+        "selector": "a.news-item-title"
+      },
+      {
+        "name": "DeFi Pulse",
+        "url": "https://defipulse.com/blog",
+        "selector": "h2 a"
+      },
+      {
+        "name": "The Defiant",
+        "url": "https://thedefiant.io/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Bankless",
+        "url": "https://www.bankless.com/",
+        "selector": "h3 a"
+      }
+    ],
+    "commodities_deep": [
+      {
+        "name": "Kitco News",
+        "url": "https://www.kitco.com/news/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Commodity.com",
+        "url": "https://commodity.com/news/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Oilprice.com Latest",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/",
+        "selector": "h2 a"
+      },
+      {
+        "name": "Argus Media",
+        "url": "https://www.argusmedia.com/en/news",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Platts",
+        "url": "https://www.spglobal.com/commodityinsights/en/market-insights/latest-news",
+        "selector": "h3 a"
+      }
+    ],
+    "macro_economics": [
+      {
+        "name": "Fed Watch (CME)",
+        "url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+        "selector": "table"
+      },
+      {
+        "name": "Trading Economics",
+        "url": "https://tradingeconomics.com/united-states/indicators",
+        "selector": "td a"
+      },
+      {
+        "name": "Economic Calendar",
+        "url": "https://www.forexfactory.com/calendar",
+        "selector": "td.event"
+      },
+      {
+        "name": "Zero Hedge",
+        "url": "https://www.zerohedge.com/",
+        "selector": "h2 a"
+      },
+      {
+        "name": "Wolf Street",
+        "url": "https://wolfstreet.com/",
+        "selector": "h2 a"
+      },
+      {
+        "name": "Calculated Risk",
+        "url": "https://www.calculatedriskblog.com/",
+        "selector": "h3 a"
+      }
+    ],
+    "social_sentiment": [
+      {
+        "name": "Twitter Finance Trends",
+        "url": "https://twitter.com/search?q=%24SPY%20OR%20%24QQQ&f=live",
+        "note": "Requires auth"
+      },
+      {
+        "name": "StockTwits SPY",
+        "url": "https://stocktwits.com/symbol/SPY",
+        "selector": "div.st_message-text"
+      },
+      {
+        "name": "StockTwits QQQ",
+        "url": "https://stocktwits.com/symbol/QQQ",
+        "selector": "div.st_message-text"
+      },
+      {
+        "name": "Reddit WSB (web)",
+        "url": "https://old.reddit.com/r/wallstreetbets/",
+        "selector": "a.title"
+      },
+      {
+        "name": "Reddit Stocks (web)",
+        "url": "https://old.reddit.com/r/stocks/",
+        "selector": "a.title"
+      }
+    ],
+    "dutch_sites": [
+      {
+        "name": "IEX Nieuws",
+        "url": "https://www.iex.nl/Nieuws/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Belegger.nl",
+        "url": "https://www.belegger.nl/nieuws/",
+        "selector": "h2 a"
+      },
+      {
+        "name": "Beursgorilla",
+        "url": "https://www.beursgorilla.nl/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Aandeelhouder",
+        "url": "https://www.aandeelhouder.nl/nieuws/",
+        "selector": "h2 a"
+      },
+      {
+        "name": "DFT Beurs",
+        "url": "https://www.telegraaf.nl/financieel/beurs",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Z24 Beurs",
+        "url": "https://z24.nl/beurs",
+        "selector": "h2 a"
+      }
+    ],
+    "company_specific": [
+      {
+        "name": "Tesla News",
+        "url": "https://www.teslarati.com/",
+        "selector": "h2 a"
+      },
+      {
+        "name": "Electrek",
+        "url": "https://electrek.co/",
+        "selector": "h2 a"
+      },
+      {
+        "name": "Apple News (9to5)",
+        "url": "https://9to5mac.com/guides/apple/",
+        "selector": "h2 a"
+      },
+      {
+        "name": "Nvidia News",
+        "url": "https://nvidianews.nvidia.com/",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Microsoft News",
+        "url": "https://news.microsoft.com/",
+        "selector": "h3 a"
+      }
+    ]
+  }
+}

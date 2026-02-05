@@ -1,0 +1,2894 @@
+{
+  "timestamp": "2026-02-04T17:00:47.068502",
+  "total_headlines": 305,
+  "sources_scanned": 24,
+  "sector_sentiment": {
+    "XLK": {
+      "score": 0.07,
+      "article_count": 123,
+      "signal": "HOLD",
+      "top_headlines": [
+        "Nasdaq 100 Slides 1.5% as Tech Selloff Deepens: Markets Wrap",
+        "Oil Steadies as Traders Await US-Iran Talks, Stockpiles Drop",
+        "This northeast utility has broken out and is signaling further gains are ahead"
+      ]
+    },
+    "XLV": {
+      "score": 0.0,
+      "article_count": 3,
+      "signal": "HOLD",
+      "top_headlines": [
+        "Stocks making the biggest moves premarket: Palantir Technologies, Merck, Pfizer ",
+        "Exclusive-Cigna settles FTC insulin case, commits to overhauling drug pricing",
+        "Exclusive-Cigna settles FTC insulin case, commits to overhauling drug pricing"
+      ]
+    },
+    "XLF": {
+      "score": 0.444,
+      "article_count": 18,
+      "signal": "BUY",
+      "top_headlines": [
+        "US Regional Bank Shares Rally to Record High as Rotation Extends",
+        "Fed pick: Tillis doubles down on Warsh blockade over concerns about central bank",
+        "This little-known banking stock has upside, Bank of America says — and a nice di"
+      ]
+    },
+    "XLY": {
+      "score": 0.4,
+      "article_count": 5,
+      "signal": "BUY",
+      "top_headlines": [
+        "'Growing Chance' Of Tesla Merger To Create Musk Trinity With SpaceX And xAI",
+        "Mcdonald’s stock hits all-time high at 326.33 USD",
+        "Amazon makes Alexa+ AI assistant available to everyone in the U.S. nearly a year"
+      ]
+    },
+    "XLP": {
+      "score": 0.5,
+      "article_count": 2,
+      "signal": "BUY",
+      "top_headlines": [
+        "Uber reports 20% revenue growth in fourth-quarter, fueled by food delivery",
+        "Crown set to report earnings amid mixed beverage demand"
+      ]
+    },
+    "XLE": {
+      "score": -0.111,
+      "article_count": 9,
+      "signal": "HOLD",
+      "top_headlines": [
+        "There Are Two Unwinds Happening Right Now",
+        "Pemex Slashes Debt to 11-Year Low as Mexico Eyes Oil Turnaround",
+        "Oil Steadies as Traders Await US-Iran Talks, Stockpiles Drop"
+      ]
+    },
+    "XLI": {
+      "score": 1.0,
+      "article_count": 1,
+      "signal": "BUY",
+      "top_headlines": [
+        "This little-known banking stock has upside, Bank of America says — and a nice di"
+      ]
+    },
+    "XLB": {
+      "score": 0.25,
+      "article_count": 8,
+      "signal": "HOLD",
+      "top_headlines": [
+        "Gold Eases From $5,000 as Traders Book Profit on Catalyst Vacuum",
+        "Comex Gold, Silver Settle Lower",
+        "Gold, silver rally for second day in a row as investors buy the dip"
+      ]
+    },
+    "XLU": {
+      "score": 0.5,
+      "article_count": 4,
+      "signal": "BUY",
+      "top_headlines": [
+        "This northeast utility has broken out and is signaling further gains are ahead",
+        "This company is providing relief from higher utility rates, and the stock is sur",
+        "China Raises ‘Serious Concerns’ With EU Wind Power Subsidy Probe"
+      ]
+    },
+    "XLRE": {
+      "score": 0.5,
+      "article_count": 4,
+      "signal": "BUY",
+      "top_headlines": [
+        "Rough winter weather hits homebuyers, tanking mortgage demand",
+        "Rocket Companies shares jump 6% after CEO says mortgage loan volume is surging",
+        "Toronto Housing Market Drops to Start the Year as Buyers Flee"
+      ]
+    },
+    "XLC": {
+      "score": 0.0,
+      "article_count": 2,
+      "signal": "HOLD",
+      "top_headlines": [
+        "Stocks making the biggest moves midday: Disney, Robinhood, Palantir, IDEXX Labor",
+        "Disney benoemt parkendirecteur Josh D'Amaro tot nieuwe hoogste baas"
+      ]
+    },
+    "general": {
+      "score": 0.099,
+      "article_count": 67,
+      "signal": "HOLD",
+      "top_headlines": [
+        "Leveraged Bond Trades Need More Scrutiny for Risk, FSB Warns",
+        "Match Rises After Revenue and Profit Beat Hint at Turnaround",
+        "China ramps up threats over Panama Canal ruling that handed Trump a major victor"
+      ]
+    }
+  },
+  "top_bullish": [
+    "XLI",
+    "XLP",
+    "XLU"
+  ],
+  "top_bearish": [
+    "XLE"
+  ],
+  "all_headlines": [
+    {
+      "title": "Nasdaq 100 Slides 1.5% as Tech Selloff Deepens: Markets Wrap",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "OPEC Output Fell Last Month on Venezuela Turmoil, Survey Shows",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLE"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "There Are Two Unwinds Happening Right Now",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLE"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Rep. Meeks Tells Bessent to Stop Being Trump's 'Flunky'",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "European Chemical Stocks Surge on Emission Rules Optimism",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLB"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Hedge Funds Use Leverage to Reap 28% Return From Safest Debt",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gold Eases From $5,000 as Traders Book Profit on Catalyst Vacuum",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLB"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Pemex Slashes Debt to 11-Year Low as Mexico Eyes Oil Turnaround",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLE"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "US Stocks Decline Amid AI Disruption Concerns, Mixed Earnings",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": -0.33
+    },
+    {
+      "title": "Oil Steadies as Traders Await US-Iran Talks, Stockpiles Drop",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLK",
+        "XLE"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Leveraged Bond Trades Need More Scrutiny for Risk, FSB Warns",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "US Regional Bank Shares Rally to Record High as Rotation Extends",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Wall Street’s Rotation Into Value Has a Dot-Com Warning to It",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mayo Says This Is a 'New Era for Bank Consolidation'",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "China Raises ‘Serious Concerns’ With EU Wind Power Subsidy Probe",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLK",
+        "XLE",
+        "XLU"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Match Rises After Revenue and Profit Beat Hint at Turnaround",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Prudential Pauses Japan Life Sales as FSA Probes Misconduct",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mota Shares Surge Despite Growing Short Seller Pressure",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.33
+    },
+    {
+      "title": "Equinor Sees Sverdrup Oil Field’s Output Declining in 2026",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLE"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Toronto Housing Market Drops to Start the Year as Buyers Flee",
+      "source": "Bloomberg Markets",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "sectors": [
+        "XLRE"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "AMD’s Lisa Su says demand for advanced chips is still accelerating, as stock plummets 15%",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Fed pick: Tillis doubles down on Warsh blockade over concerns about central bank independence",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Trump admin to withdraw 700 federal officers from Minnesota: Homan",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Anthropic says no to ads on Claude chatbot, weeks after OpenAI made move to test them",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Software stock rout shocks Street: 'Nowhere to hide'... 'Morass of gloom'",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Private payrolls rose by just 22,000 in January, far short of expectations, ADP says",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Get the first look at the R2, Rivian's $45,000 SUV. CEO RJ Scaringe gave CNBC an early peek",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Uber reports 20% revenue growth in fourth-quarter, fueled by food delivery",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLP"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Amazon makes Alexa+ AI assistant available to everyone in the U.S. nearly a year after launch",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLK",
+        "XLY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Eli Lilly blows past quarterly estimates, posts strong outlook as Zepbound and Mounjaro sales soar",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.33
+    },
+    {
+      "title": "A surprising share of homeowners have high mortgage rates. Here's the breakdown",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLRE"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "China ramps up threats over Panama Canal ruling that handed Trump a major victory",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Washington Post begins widespread layoffs, sharply shrinking storied newspaper's reach",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "This northeast utility has broken out and is signaling further gains are ahead",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLK",
+        "XLU"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Fed's Stephen Miran resigns from White House post",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Pinterest CEO rebukes, fires 'obstructionist' employees who created tool to track layoffs",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Sen. Warren, others urge FTC, DOJ to scrutinize tech AI 'acquihire' deals for antitrust violations",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Sandberg, other Meta vets invest in AI workplace communications startup",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Yum Brands posts mixed quarter, Taco Bell shines",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Rough winter weather hits homebuyers, tanking mortgage demand",
+      "source": "CNBC Top News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "sectors": [
+        "XLRE"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: AMD, Uber, Eli Lilly, Super Micro, Chipotle, Enphase and more",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Stocks making the biggest moves after hours: Chipotle, Advanced Micro Devices, Amgen and more",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "This little-known banking stock has upside, Bank of America says — and a nice dividend",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLF",
+        "XLI"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Bitcoin briefly breaks below $73,000 to lowest since November 2024 as heavy selling resumes",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Cisco has finally surpassed its dotcom bubble high. Is the reinvented stock a buy from here?",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Novo Nordisk, Palantir, AES, Rocket and more",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Rocket Companies shares jump 6% after CEO says mortgage loan volume is surging",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLF",
+        "XLRE"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Palantir Technologies, Merck, Pfizer & more",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLK",
+        "XLV"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "China set to attend India's upcoming AI summit signaling improving relations with New Delhi",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Stocks making the biggest moves after hours: Palantir, NXP Semiconductors, DaVita and more",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "We just got reasons to love these 2 portfolio stocks even more",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Disney, Robinhood, Palantir, IDEXX Laboratories & more",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLC"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Strategy slides after bitcoin briefly dips below crypto firm's key breakeven level",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Rare earth miners jump as Trump announces establishment of critical mineral reserve",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Oracle, Nvidia, rare earths, Strategy & more",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Elon Musk is stressing robots over cars. Here are three humanoid parts suppliers that Morgan Stanley recommends",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "American Express, credit card provider to the wealthy, wants even more high spenders",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Newmont, Apple, Sandisk, Deckers Outdoor & more",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "If you missed big international stock market rally in 2025, it's not too late to start making money overseas",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump finally makes his Fed chair pick — what Kevin Warsh means for investors",
+      "source": "CNBC Finance",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "sectors": [
+        "XLK",
+        "XLF"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Comex Gold, Silver Settle Lower",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "XLB"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "DeepSeek Won't Sink U.S. AI Titans",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Natural Gas Falls on Shifting Weather Forecasts",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "XLE"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "XLE"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "What's New This Tax Season That Can Save You Money",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Chinese Investors With Few Options Turn to Dividends",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLE",
+        "XLB"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Heard on the Street's Stock-Picking Series",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "What Will It Take for Home Buyers to Start Asking for a Disaster Discount?",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "In China, a Cat-and-Mouse Game to Rein In Crypto",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "One House, Three Owners: The Ballooning Cost of the American Dream",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Adds Fuel to Claims That Big Banks Discriminate Against Conservatives",
+      "source": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "sectors": [
+        "XLK",
+        "XLF"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "AMD posts better than anticipated Q4 earnings and Q1 outlook, but stock falls",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Amazon Earnings On Deck. Why All Eyes Are On AI And The Cloud.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "XLK",
+        "XLY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Old Dominion (ODFL) Q4 2025 Earnings Transcript",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Exclusive-Cigna settles FTC insulin case, commits to overhauling drug pricing",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "XLV"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Amgen Hits Buy Zone On Positive 2026 Outlook Amid Sharpening Obesity Focus",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Earnings live: Supermicro, Eli Lilly stocks pop on upbeat forecasts, AMD and Uber slide",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "The best 0% APR credit cards for February 2026: Avoid paying interest for up to 24 months on purchases and balance transfers",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Eli Lilly Soared by 39% in 2025, but Here's Another Healthcare Stock to Buy in 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Boston Scientific Hits An 18-Month Low On A 'Sore Spot' For Its Most Hyped Device",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Startup EnFi raises $15 million to deploy AI credit analyst agents at banks",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "XLK",
+        "XLF"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "EchoStar Investors Didn't Sign Up For A SpaceX-xAI Merger",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Stock market today: Dow jumps, S&P 500, Nasdaq fall with AI worries in focus ahead of Google earnings",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Brookfield (BAM) Q4 2025 Earnings Call Transcript",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Tesla Begins 2026 With Solid China EV Sales As Musk Appears To Shift Focus",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "XLY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gold, silver rally for second day in a row as investors buy the dip",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "XLB"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Daily Spotlight: Reasonable Valuation for Stocks",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "'Growing Chance' Of Tesla Merger To Create Musk Trinity With SpaceX And xAI",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "XLK",
+        "XLY"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "How to pay off student loans quickly: 8 strategies that work",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ripple Broadens Institutional DeFi Access With Hyperliquid Integration",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Where’s my tax refund? Here's how to check your refund status.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Lilly says Mounjaro and Zepbound sales more than doubled as stock rallies",
+      "source": "MarketWatch",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "This company is providing relief from higher utility rates, and the stock is surging",
+      "source": "MarketWatch",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "sectors": [
+        "XLU"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Uber’s stock falls as record demand for rides fails to deliver the profit investors expected",
+      "source": "MarketWatch",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "The economy got off to a decent start in the new year. Businesses hope things get even better.",
+      "source": "MarketWatch",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Why AMD’s stock is diving toward its worst day in years after earnings",
+      "source": "MarketWatch",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gold’s back over $5,000 and silver’s surging as well",
+      "source": "MarketWatch",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "sectors": [
+        "XLB"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Car sales sputtered during an icy January. Weather wasn’t the only problem for auto dealers and the U.S. economy.",
+      "source": "MarketWatch",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Glencore’s strategic allure highlighted by sale of mining assets to U.S. government-backed entity",
+      "source": "MarketWatch",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "sectors": [
+        "XLB"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "‘I’m spooked’: Gold is back above $5,000, but is it a high-risk bet for your retirement?",
+      "source": "MarketWatch",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "sectors": [
+        "XLB"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Explain this financial paradox to me like I’m 16. Why would I, or anyone, lease a car?",
+      "source": "MarketWatch",
+      "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Globe Life earnings on deck: Reinsurance strategy in focus",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/rss/news.rss",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Factbox-Trump administration pivots to buying stakes in critical sectors",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/rss/news.rss",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "US pushes to widen talks with Iran beyond nuclear issue",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/rss/news.rss",
+      "sectors": [
+        "XLU"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Exclusive-Cigna settles FTC insulin case, commits to overhauling drug pricing",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/rss/news.rss",
+      "sectors": [
+        "XLV"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Factbox-Who is the Baloch Liberation Army behind Pakistan’s Balochistan attacks?",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/rss/news.rss",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Spirit Airlines looks to transfer two Chicago airport gates to United Airlines for $30 million",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/rss/news.rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Crown set to report earnings amid mixed beverage demand",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/rss/news.rss",
+      "sectors": [
+        "XLP"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mcdonald’s stock hits all-time high at 326.33 USD",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/rss/news.rss",
+      "sectors": [
+        "XLY"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Equitable earnings up next as analysts eye valuation rebound",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/rss/news.rss",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Canadian Imperial Bank of Commerce publishes fourth prospectus supplement",
+      "source": "Investing.com News",
+      "url": "https://www.investing.com/rss/news.rss",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Roblox’s 4D creation feature is now available in open beta",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "After backlash, Adobe cancels Adobe Animate shutdown and puts app on ‘maintenance mode’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Uber appoints new CFO as its AV plans accelerate",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "SNAK Venture Partners raises $50M fund to back vertical marketplaces",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Apeiron Labs gets $9.5M to flood the oceans with autonomous underwater robots",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Spotify upgrades its lyrics feature with offline access, more translations",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "India’s Varaha bags $20M to scale carbon removal from the Global South",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Minneapolis tech community holds strong during ‘tense and difficult time’",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Intel will start making GPUs, a market dominated by Nvidia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "YC startups can now receive investment in stablecoin",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "2026 plans: What’s next for Startup Battlefield 200",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Homeland Security is trying to force tech companies to hand over data about Trump critics",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Skyryse lands another $300M to make flying, even helicopters, simple and safe",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gradient’s heat pumps get new smarts to enable old-building retrofits",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "&#8216;Incognito&#8217; operator sentenced to 30 years for running a dark web drug market",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "The 14-inch, ARM-based Asus Vivobook is half off today",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Verge’s 2026 Valentine’s Day gift guide (for him)",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "I drove three Chinese cars — here’s why they would clean up in the US",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Spotify launches offline lyrics, translations, and lyric previews",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Amazon rolls out Alexa Plus nationwide and launches a new free tier",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Everyone is stealing TV",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Adobe actually won’t discontinue Animate",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Notepad++ users take note: It's time to check if you're hacked",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Developers say AI coding tools work—and that's precisely what worries them",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Site catering to online criminals has been seized by the FBI",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "There's a rash of scam spam coming from a real Microsoft address",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "OpenAI spills technical details about how its AI coding agent works",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Millions of people imperiled through sign-in links sent by SMS",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "10 things I learned from burning myself out with AI coding agents",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Rackspace customers grapple with “devastating” email hosting price hike",
+      "source": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "AI Bots Are Now a Signifigant Source of Web Traffic",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Epstein Files Reveal Peter Thiel’s Elaborate Dietary Restrictions",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Tech Elites in the Epstein Files",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "After Minneapolis, Tech CEOs Are Struggling to Stay Silent",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Silicon Valley Tech Workers Are Campaigning to Get ICE Out of US Cities",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "A Yann LeCun–Linked Startup Charts a New Path to AGI",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Nvidia’s Campaign to Sell AI Chips to China Finally Pays Off",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Moltbot Is Taking Over Silicon Valley",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "No Phone, No Social Safety Net: Welcome to the ‘Offline Club’",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Google DeepMind Staffers Ask Leaders to Keep Them ‘Physically Safe’ From ICE",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "This Humanoid Is Ready to Bring You a Toothbrush",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Where Tech Leaders and Students Really Think AI Is Going",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "TikTok Data Center Outage Triggers Trust Crisis for New US Owners",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Deepfake ‘Nudify’ Technology Is Getting Darker—and More Dangerous",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "People Are Protesting Data Centers—but Embracing the Factories That Supply Them",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Math on AI Agents Doesn’t Add Up",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "What Happens When a Chinese Battery Factory Comes to Town",
+      "source": "Wired Business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Microsoft's Pivotal AI Product Is Running into Big Problems",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Voxtral Transcribe 2",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "A case study in PDF forensics: The Epstein PDFs",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Thatcher Effect – Optical Illusion and Explanation",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Broken Proofs and Broken Provers",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "I miss thinking hard",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Tractor",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Data centers in space makes no sense",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Deno Sandbox",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "A sane but bull case on Clawdbot / OpenClaw",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Agent Skills",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Emerge Career (YC S22) is hiring a product designer",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "X offices raided in France as UK opens fresh investigation into Grok",
+      "source": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "From 'Ethereum’s sidekick' to standalone stars: How Vitalik Buterin’s latest pivot is forcing Layer 2s to grow up",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Nomura defends crypto strategy as it limits short-term volatility at Laser Digital",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bitcoin's correlation with troubled software stock sector is growing",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Indian investors are buying the bitcoin price dip, CoinDCX says",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Bitcoin falls back to $74,000, remaining on defense as AI jitters shake tech sector",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Spanish lender BBVA joins EU banks' stablecoin venture to challenge digital dollars",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Protocol: Vitalik Buterin’s stark warning on layer-2 roadmap",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ripple’s prime brokerage platform adds support for decentralized exchange Hyperliquid",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "This bullish analyst on Michael Saylor's Strategy just threw in the towel on lofty price target",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "CoinDesk 20 performance update: Solana (SOL) drops 5.3% as nearly all assets decline",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -0.33
+    },
+    {
+      "title": "ProShares unveils first U.S. ETF that lets you buy the top 20 cryptos at once",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "January rally bolsters near-term outlook for bitcoin mining stocks, JPMorgan says",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Opinion raises $20 million as prediction markets draw capital in a weak crypto market",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Bitcoin nears pre-election floor as ETF flows stall, Citi says",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Bitcoin’s thinnest price zone hints at extended stay between $70,000 and $80,000",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "TRM Labs hits unicorn status in $70 million fund raise with Goldman's participation",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "ARK Invest goes on $19 million buying spree as crypto stocks nurse losses",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "How your brain may drive bitcoin higher",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "This onchain metric has identified the Bitcoin bottom every cycle",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Crypto steadies after selloff as bitcoin, ether rebound from multiyear lows",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "XRP price slips below $1.60: How low can it go in February?",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Bitcoin-native USDT protocol joins CTDG Dev Hub",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Crypto VC Funding Doubled in 2025 as RWA Tokenization Took the Lead",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Binance reserves steady as ‘FTX 2.0’ claims spread online",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bitcoin’s $68K trend line seen as potential BTC price floor: Traders",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Crypto investors prioritize infrastructure over DeFi, survey finds",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "TRM Labs completes $70M investment round at $1B, becomes crypto unicorn",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Critics tell UK Lords stablecoins are not future money",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mercado Bitcoin expands LatAm RWA push with $20M in Rootstock private credit",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Bitcoin bounces to $76K, but onchain and technical data signal deeper downside",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Canada’s CIRO formalizes interim crypto custody framework",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Arbitrum, Optimism and Base weigh in after Vitalik questions L2 scaling model",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Tether CEO denies the company ever planned $20B raise",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Base says configuration change caused transaction delays, fixes issue",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ethereum price: Classic chart pattern puts sub-$2K ETH in focus",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Whale's $9B Bitcoin sale was not due to quantum concerns: Galaxy Digital",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Bitcoin ETF assets slip below $100B with fresh $272M outflows",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Bitwise to acquire crypto staking company Chorus One: Report",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Aave winds down Avara, phases out Family wallet in DeFi refocus",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ripple Broadens Institutional DeFi Access With Hyperliquid Integration",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Tether Scales Back $20B Funding Push After Investor Resistance: Report",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Vitalik Buterin Calls for Inclusion of Prediction Markets, DAOs in Creator Coin Ecosystem",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Morning Minute: Trump's Crypto Entanglements Threaten CLARITY Act Timeline",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Sentiment Shifts on Strategy's Bitcoin Bid as Crypto Market Selloff Deepens",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Crypto.com Unveils US Prediction Markets Platform as Legal Pressure Mounts on Rivals",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Operator of Crypto-Fueled Dark Web Drug Market Sentenced to 30 Years",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Nevada Moves to Bar Coinbase’s Prediction Markets Without State Gaming License",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bitcoin Risks Further Slide as Momentum Weakens Below Key Support",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -0.5
+    },
+    {
+      "title": "Alleged Bitcoin Ransom Note Sent to TMZ in Case Involving 'Today' Show Host's Missing Mother",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "'We Need a New Path': Ethereum Founder Vitalik Buterin Rips Up L2-Focused Roadmap",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "French Police Raid X’s Paris Office in Probe of Grok AI and Illegal Content",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "AI Made Sam Altman Feel 'Useless and Sad'—X Users Tried to Make Him Feel Worse",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Crypto Dev Launches Site for AI to Hire Humans",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "France Considers Restricting VPNs to Support Under-15 Social Media Ban",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Jeffrey Epstein Invested in Bitcoin Firm Blockstream, Invited Founder Adam Back to Island",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bitcoin Plummets to 15-Month Low as Crypto, Stock Prices Tumble",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Cathie Wood's Ark Invest Doubles Down on BitMine, Coinbase Stocks Amid Bitcoin Plunge",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Game On: How Esports Giant Team Liquid is Leveling Up its Data Storage With Walrus",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Galaxy Digital Shares Dive Following $482 Million Q4 Loss",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "sectors": [
+        "CRYPTO"
+      ],
+      "sentiment": -0.33
+    },
+    {
+      "title": "Azerbaijan Breaks Ground on Power Line Linking the Caspian to Europe",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Uniper Shrugs Off Europe’s Growing Reliance on American LNG",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Crude Oil Inventories Continue To Fall: EIA",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Trafigura Calls for a Rethink of LNG Project Funding",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Peace Talks Resume in Abu Dhabi as Russia Continues to Strike Ukraine",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "India Weighs Cheap Russian Oil Against Costly U.S. Trade Commitments",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Eni Expects ‘Very Finely Balanced’ LNG Market This Year",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "North American Company Secures Strategic Rare Earth Deal in Kazakhstan",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Sends $500 Million in Venezuelan Oil Proceeds to Caracas",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Equinor Slashes 2026 Buybacks as Low Oil Prices Persist",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Germany Seeks Middle East LNG Deals",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Administration Greenlights Deepwater Texas Oil Terminal",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Moves to Re-Engage on Africa’s Most Contested Power Project",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Why Western Oil Majors Are Willing to Take the Libya Risk Again",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "$60 Oil Forces Europe’s Energy Giants to Rethink Buybacks",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/rss/main",
+      "sectors": [
+        "ENERGY"
+      ],
+      "sentiment": 1.0
+    },
+    {
+      "title": "Suikertaks gaat iedereen gemiddeld 50 euro kosten, meer als je veel snoept",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Nestlé breidt terugroepactie Franse babyvoeding uit",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Aandelen en cryptomunten vanaf 2028 anders belast: dit gaat er veranderen",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Inflatie in januari fors gedaald",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": -1.0
+    },
+    {
+      "title": "Wachtlijst voor elektriciteitsaansluiting bedrijven kan flink korter",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Nieuw huis, maar geen stroom: Liander en eigenaar eindigen in rechtszaal",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Disney benoemt parkendirecteur Josh D'Amaro tot nieuwe hoogste baas",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "XLC"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Duitsland neemt belang in Tennet en investeert 3,3 miljard euro",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "AkzoNobel verkoopt minder verf, last van importheffingen en sterke euro",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "AOW-leeftijd sneller omhoog, bekijk hier wat dat voor jou betekent",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump zegt dat India stopt met Russische olie, VS verlaagt importheffingen",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Europa gaat doelen voor kritieke grondstoffen niet halen, zegt Europese rekenkamer",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Doorstart voor grootste biologische plantenkweker van Nederland",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Wanneer zit de digitale euro in je portemonnee?",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "KLM gaat weer vliegen op Dubai en Tel Aviv",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "XLK"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Waarom is de goudprijs zo hoog? En hoeveel goud heeft Nederland eigenlijk?",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Goud en zilver verliezen hun glans na keuze voor gematigde Fed-baas",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "XLF"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Langer doorwerken: dertiger van nu pas met 70 jaar met pensioen",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Derde jaar op rij minder nieuwe woningen in Nederland",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ruim tien dagen tussen vondst giftige stof babymelk Nestlé en terugroepactie",
+      "source": "NOS Economie",
+      "url": "https://feeds.nos.nl/nosnieuwseconomie",
+      "sectors": [
+        "general"
+      ],
+      "sentiment": 0.0
+    }
+  ]
+}

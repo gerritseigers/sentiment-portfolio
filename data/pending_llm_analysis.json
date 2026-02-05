@@ -1,0 +1,506 @@
+{
+  "timestamp": "2026-02-04T17:32:14.889773",
+  "count": 100,
+  "headlines": [
+    {
+      "idx": 0,
+      "source": "Nikkei Asia",
+      "title": "Analysis: Chinese power struggle sends ripples through Japan's election"
+    },
+    {
+      "idx": 1,
+      "source": "Nikkei Asia",
+      "title": "Japan chipmaker Rapidus tops $1bn in private investment as IBM aims to join"
+    },
+    {
+      "idx": 2,
+      "source": "Nikkei Asia",
+      "title": "Doing business in Pakistan 34% more expensive than in regional peers"
+    },
+    {
+      "idx": 3,
+      "source": "Nikkei Asia",
+      "title": "China outbound investment in 2025 hit highest level since 2018: report"
+    },
+    {
+      "idx": 4,
+      "source": "Nikkei Asia",
+      "title": "In Beijing, Taiwan's KMT echoes Xi Jinping's 'national rejuvenation' call"
+    },
+    {
+      "idx": 5,
+      "source": "Nikkei Asia",
+      "title": "Gas turbine boom in US lifts Japan's Mitsubishi Heavy to record profit"
+    },
+    {
+      "idx": 6,
+      "source": "Nikkei Asia",
+      "title": "Philippine House committee rejects Marcos impeachment complaints"
+    },
+    {
+      "idx": 7,
+      "source": "Nikkei Asia",
+      "title": "Toyota plans 30% increase in global hybrid production"
+    },
+    {
+      "idx": 8,
+      "source": "Nikkei Asia",
+      "title": "UK PM's China trip disappoints, prompts calls for clearer strategy"
+    },
+    {
+      "idx": 9,
+      "source": "Nikkei Asia",
+      "title": "Chinese mine machine maker quits Colombia gold project, cites geopolitics"
+    },
+    {
+      "idx": 10,
+      "source": "Nikkei Asia",
+      "title": "Kazakh trial of anti-China protesters highlights unequal ties"
+    },
+    {
+      "idx": 11,
+      "source": "Nikkei Asia",
+      "title": "Rising Japan bond yields hit insurers but stock prices offer buffer"
+    },
+    {
+      "idx": 12,
+      "source": "Nikkei Asia",
+      "title": "India's rising incomes lifting health care investment, Quadria says"
+    },
+    {
+      "idx": 13,
+      "source": "Nikkei Asia",
+      "title": "Singapore, Hong Kong family offices favor private equity: survey"
+    },
+    {
+      "idx": 14,
+      "source": "Nikkei Asia",
+      "title": "A different kind of prime minister sparks hope among Japan's youth"
+    },
+    {
+      "idx": 15,
+      "source": "Kiplinger",
+      "title": "The Kiplinger 25: Our Favorite No-Load Mutual Funds"
+    },
+    {
+      "idx": 16,
+      "source": "Kiplinger",
+      "title": "What Is a Debt-to-Equity Ratio, and How Do Investors Interpret the Number?"
+    },
+    {
+      "idx": 17,
+      "source": "Kiplinger",
+      "title": "How to Add a Pet Trust to Your Estate Plan"
+    },
+    {
+      "idx": 18,
+      "source": "Kiplinger",
+      "title": "Avoid Leaving Chaos in Your Wake: Keep an Updated Estate Plan"
+    },
+    {
+      "idx": 19,
+      "source": "Kiplinger",
+      "title": "Why I Became an Advocate for Fee-Only Financial Advice"
+    },
+    {
+      "idx": 20,
+      "source": "Kiplinger",
+      "title": "Nasdaq Slides 1.4% on Big Tech Questions: Stock Market Today"
+    },
+    {
+      "idx": 21,
+      "source": "Kiplinger",
+      "title": "I Met With 100-Plus Advisers to Develop This AI Road Map"
+    },
+    {
+      "idx": 22,
+      "source": "Kiplinger",
+      "title": "The Referral Revolution: How to Grow Your Business With Trust"
+    },
+    {
+      "idx": 23,
+      "source": "Kiplinger",
+      "title": "This Is How You Can Land a Job You'll Love"
+    },
+    {
+      "idx": 24,
+      "source": "Kiplinger",
+      "title": "5 Actively Managed Vanguard Funds to Buy and Hold"
+    },
+    {
+      "idx": 25,
+      "source": "Motley Fool News",
+      "title": "Stock News &amp; Analysis"
+    },
+    {
+      "idx": 26,
+      "source": "Motley Fool News",
+      "title": "This 6.7%-Yielding Dividend Stock is Coming Off a Record Year With Plenty of Fuel to Continue Growing"
+    },
+    {
+      "idx": 27,
+      "source": "Motley Fool News",
+      "title": "Premium Investing Services"
+    },
+    {
+      "idx": 28,
+      "source": "Motley Fool News",
+      "title": "Motley Fool Money Podcast"
+    },
+    {
+      "idx": 29,
+      "source": "Motley Fool News",
+      "title": "Rule Breaker Investing Podcast"
+    },
+    {
+      "idx": 30,
+      "source": "Motley Fool News",
+      "title": "The Motley Fool Foundation"
+    },
+    {
+      "idx": 31,
+      "source": "Motley Fool News",
+      "title": "Stock Market Indexes Today"
+    },
+    {
+      "idx": 32,
+      "source": "Motley Fool News",
+      "title": "Today&#x27;s Biggest Stock Gainers"
+    },
+    {
+      "idx": 33,
+      "source": "Motley Fool News",
+      "title": "Today&#x27;s Biggest Stock Losers"
+    },
+    {
+      "idx": 34,
+      "source": "Motley Fool News",
+      "title": "How to Invest in Index Funds"
+    },
+    {
+      "idx": 35,
+      "source": "Finviz News",
+      "title": "Ever heard of Finviz*Elite?"
+    },
+    {
+      "idx": 36,
+      "source": "Finviz News",
+      "title": "Upgrade your FINVIZ experience"
+    },
+    {
+      "idx": 37,
+      "source": "Finviz News",
+      "title": "Nasdaq 100 Slides 1.5% as Tech Selloff Deepens: Markets Wrap"
+    },
+    {
+      "idx": 38,
+      "source": "Finviz News",
+      "title": "AI Won\u2019t Kill the Software Business, Just Its Growth Story"
+    },
+    {
+      "idx": 39,
+      "source": "Finviz News",
+      "title": "OPEC Output Fell Last Month on Venezuela Turmoil, Survey Shows"
+    },
+    {
+      "idx": 40,
+      "source": "Finviz News",
+      "title": "Are You \u2018Biohacking\u2019 to Perform Better at Work? We Want to Hear From You."
+    },
+    {
+      "idx": 41,
+      "source": "Finviz News",
+      "title": "State Fiscal Chiefs Protest Federal Immigration Chaos"
+    },
+    {
+      "idx": 42,
+      "source": "Finviz News",
+      "title": "European Chemical Stocks Surge on Emission Rules Optimism"
+    },
+    {
+      "idx": 43,
+      "source": "Finviz News",
+      "title": "Could there be more mergers to come following SpaceX, xAI merger?"
+    },
+    {
+      "idx": 44,
+      "source": "Finviz News",
+      "title": "S&P 500 falls for a second day after AMD earnings, weak jobs data"
+    },
+    {
+      "idx": 45,
+      "source": "Nasdaq Earnings",
+      "title": "We couldn\u2019t find any results matching your search."
+    },
+    {
+      "idx": 46,
+      "source": "Nasdaq Earnings",
+      "title": "We\u2019re sorry, we are currently experiencing some issues, please try again later."
+    },
+    {
+      "idx": 47,
+      "source": "Nasdaq Earnings",
+      "title": "Your symbols have been updated"
+    },
+    {
+      "idx": 48,
+      "source": "Nasdaq Earnings",
+      "title": "Global Financial Crime Report"
+    },
+    {
+      "idx": 49,
+      "source": "Nasdaq Earnings",
+      "title": "ETF Retail Investor Survey"
+    },
+    {
+      "idx": 50,
+      "source": "Nasdaq Earnings",
+      "title": "Nasdaq Public Policy Resources"
+    },
+    {
+      "idx": 51,
+      "source": "Nasdaq Earnings",
+      "title": "Journey Across the Financial System"
+    },
+    {
+      "idx": 52,
+      "source": "Nasdaq Earnings",
+      "title": "Market Makers with Phil Mackintosh"
+    },
+    {
+      "idx": 53,
+      "source": "Nasdaq Earnings",
+      "title": "Options with Kevin Davitt"
+    },
+    {
+      "idx": 54,
+      "source": "Nasdaq Earnings",
+      "title": "Regulatory Roundup with Tony Sio"
+    },
+    {
+      "idx": 55,
+      "source": "Semafor Tech",
+      "title": "The controversial Chinese firm in charge of Khaby Lame\u2019s AI avatar"
+    },
+    {
+      "idx": 56,
+      "source": "Semafor Tech",
+      "title": "Chipmakers Samsung, SK Hynix reap rewards of AI boom"
+    },
+    {
+      "idx": 57,
+      "source": "Semafor Tech",
+      "title": "Musk merges xAI and SpaceX to form $1.2T company"
+    },
+    {
+      "idx": 58,
+      "source": "Semafor Tech",
+      "title": "In the AI age, \u2018slow and steady\u2019 doesn\u2019t really win"
+    },
+    {
+      "idx": 59,
+      "source": "Semafor Tech",
+      "title": "Scale AI CEO: \u2018Near infinite demand\u2019 for AI that works"
+    },
+    {
+      "idx": 60,
+      "source": "Semafor Tech",
+      "title": "Waymo strikes child in first reported human accident"
+    },
+    {
+      "idx": 61,
+      "source": "Semafor Tech",
+      "title": "New AI model aims to protect coral reefs"
+    },
+    {
+      "idx": 62,
+      "source": "Semafor Tech",
+      "title": "Clashes between ICE and protesters come down to the technology"
+    },
+    {
+      "idx": 63,
+      "source": "Semafor Tech",
+      "title": "Anduril launches new drone racing competition"
+    },
+    {
+      "idx": 64,
+      "source": "Semafor Tech",
+      "title": "European Space Agency uses AI to identify NASA\u2019s Hubble telescope anomalies"
+    },
+    {
+      "idx": 65,
+      "source": "Rest of World",
+      "title": "Why won\u2019t people buy these tiny electric cars?"
+    },
+    {
+      "idx": 66,
+      "source": "Rest of World",
+      "title": "To understand China, we need to understand the Chinese internet"
+    },
+    {
+      "idx": 67,
+      "source": "Rest of World",
+      "title": "Support Our Global Journalism"
+    },
+    {
+      "idx": 68,
+      "source": "Rest of World",
+      "title": "Is India softening its stance toward Chinese tech?"
+    },
+    {
+      "idx": 69,
+      "source": "Rest of World",
+      "title": "What it takes to get an H-1B visa in Trump&#8217;s America"
+    },
+    {
+      "idx": 70,
+      "source": "Rest of World",
+      "title": "The world is trying to log off U.S. tech"
+    },
+    {
+      "idx": 71,
+      "source": "Rest of World",
+      "title": "A world of tech in your inbox"
+    },
+    {
+      "idx": 72,
+      "source": "Rest of World",
+      "title": "Death of an Indian tech worker"
+    },
+    {
+      "idx": 73,
+      "source": "Rest of World",
+      "title": "Is AI a bubble? Davos leaders say no"
+    },
+    {
+      "idx": 74,
+      "source": "Rest of World",
+      "title": "What will tech jobs look like in 2026?"
+    },
+    {
+      "idx": 75,
+      "source": "TradingView News",
+      "title": "Indicators &amp; strategies"
+    },
+    {
+      "idx": 76,
+      "source": "Stocktwits Trending",
+      "title": "Stay Ahead of the Crowd"
+    },
+    {
+      "idx": 77,
+      "source": "Stocktwits Trending",
+      "title": "Market Lists That Matter"
+    },
+    {
+      "idx": 78,
+      "source": "Yahoo Finance Markets",
+      "title": "Want the S&amp;P to rise? Hope for a high-scoring Super Bowl"
+    },
+    {
+      "idx": 79,
+      "source": "Yahoo Finance Markets",
+      "title": "Stock market today: Dow jumps, S&amp;P 500, Nasdaq fall with AI worries in focus ahead of Google earnings"
+    },
+    {
+      "idx": 80,
+      "source": "Yahoo Finance Markets",
+      "title": "Wall Street\u2019s Rotation Into Value Has a Dot-Com Warning to It"
+    },
+    {
+      "idx": 81,
+      "source": "Yahoo Finance Markets",
+      "title": "Uber stock down on outlook miss; CEO sees robotaxi rollout as 'multitrillion-dollar' opportunity"
+    },
+    {
+      "idx": 82,
+      "source": "Yahoo Finance Markets",
+      "title": "AMD's Stock Takes a Hit Despite Solid Earnings. What Happened?"
+    },
+    {
+      "idx": 83,
+      "source": "Yahoo Finance Markets",
+      "title": "PayPal downgraded, Five Below upgraded: Wall Street's top analyst calls"
+    },
+    {
+      "idx": 84,
+      "source": "Yahoo Finance Markets",
+      "title": "Vitalik Buterin Calls for Inclusion of Prediction Markets, DAOs in Creator Coin Ecosystem"
+    },
+    {
+      "idx": 85,
+      "source": "Yahoo Finance Markets",
+      "title": "Private payroll growth in January misses expectations as market awaits official jobs data"
+    },
+    {
+      "idx": 86,
+      "source": "Yahoo Finance Markets",
+      "title": "Carrier Global Stock Outlook: Is Wall Street Bullish or Bearish?"
+    },
+    {
+      "idx": 87,
+      "source": "Yahoo Finance Markets",
+      "title": "Performance Food Group\u2019s (NYSE:PFGC) Q4 CY2025 Earnings Results: Revenue In Line With Expectations But Stock Drops"
+    },
+    {
+      "idx": 88,
+      "source": "Slashdot",
+      "title": "When will AGI be achieved?"
+    },
+    {
+      "idx": 89,
+      "source": "Slashdot",
+      "title": "Looks like someone has already voted from this IP. If you would like to vote please login and try again."
+    },
+    {
+      "idx": 90,
+      "source": "Slashdot",
+      "title": "Anthropic Pledges To Keep Claude Ad-free, Calls AI Conversations a 'Space To Think'"
+    },
+    {
+      "idx": 91,
+      "source": "Slashdot",
+      "title": "not carry advertising of any kind"
+    },
+    {
+      "idx": 92,
+      "source": "Slashdot",
+      "title": "bring ads to some of its ChatGPT offerings"
+    },
+    {
+      "idx": 93,
+      "source": "Slashdot",
+      "title": "Pinterest Sacks Workers For Creating Tool To Track Layoffs"
+    },
+    {
+      "idx": 94,
+      "source": "Slashdot",
+      "title": "recently announced job cuts"
+    },
+    {
+      "idx": 95,
+      "source": "Slashdot",
+      "title": "Why Google's Android for PC Launch May Be Messy and Controversial"
+    },
+    {
+      "idx": 96,
+      "source": "Slashdot",
+      "title": "shaping up to be a drawn-out, complicated transition"
+    },
+    {
+      "idx": 97,
+      "source": "Slashdot",
+      "title": "Adobe Actually Won't Discontinue Animate"
+    },
+    {
+      "idx": 98,
+      "source": "CoinMarketCap News",
+      "title": "Polymarket and Kalshi Compete with NYC Promotions"
+    },
+    {
+      "idx": 99,
+      "source": "CoinMarketCap News",
+      "title": "Chinese Yuan Strength is Crucial for Global Market Stability, Warns BofA Securities"
+    }
+  ]
+}

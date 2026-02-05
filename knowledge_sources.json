@@ -1,0 +1,158 @@
+{
+  "articles_en": [
+    {
+      "name": "Investopedia - How to Trade the News",
+      "url": "https://www.investopedia.com/articles/active-trading/051415/how-trade-news.asp",
+      "type": "article",
+      "topics": ["news trading", "timing", "strategy"]
+    },
+    {
+      "name": "Investopedia - Sentiment Indicators",
+      "url": "https://www.investopedia.com/terms/s/sentimentindicator.asp",
+      "type": "article",
+      "topics": ["sentiment", "indicators"]
+    },
+    {
+      "name": "Investopedia - Market Sentiment Definition",
+      "url": "https://www.investopedia.com/terms/m/marketsentiment.asp",
+      "type": "article",
+      "topics": ["sentiment", "psychology"]
+    },
+    {
+      "name": "CFI - Market Sentiment Guide",
+      "url": "https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/market-sentiment/",
+      "type": "article",
+      "topics": ["sentiment", "fundamentals"]
+    },
+    {
+      "name": "Investopedia - Technical vs Fundamental Analysis",
+      "url": "https://www.investopedia.com/ask/answers/difference-between-fundamental-and-technical-analysis/",
+      "type": "article",
+      "topics": ["analysis", "methodology"]
+    },
+    {
+      "name": "Investopedia - News Trading Strategy",
+      "url": "https://www.investopedia.com/terms/n/news-trader.asp",
+      "type": "article",
+      "topics": ["news trading", "strategy"]
+    },
+    {
+      "name": "Investopedia - Fear and Greed Index",
+      "url": "https://www.investopedia.com/terms/f/fear-and-greed-index.asp",
+      "type": "article",
+      "topics": ["sentiment", "indicators", "psychology"]
+    },
+    {
+      "name": "Investopedia - Contrarian Investing",
+      "url": "https://www.investopedia.com/terms/c/contrarian.asp",
+      "type": "article",
+      "topics": ["contrarian", "strategy"]
+    }
+  ],
+  "articles_nl": [
+    {
+      "name": "AFM - Beleggen en nieuws",
+      "url": "https://www.afm.nl/nl-nl/sector/beleggingsondernemingen",
+      "type": "article",
+      "topics": ["regulatie", "beleggen", "nl"]
+    },
+    {
+      "name": "Beleggen.com - Fundamentele Analyse",
+      "url": "https://www.beleggen.com/beginnen-met-beleggen/fundamentele-analyse/",
+      "type": "article",
+      "topics": ["analyse", "fundamentals", "nl"]
+    },
+    {
+      "name": "Lynx - Sentimentanalyse",
+      "url": "https://www.lynx.nl/kennis/artikelen/sentiment-indicator-beleggen/",
+      "type": "article",
+      "topics": ["sentiment", "indicators", "nl"]
+    },
+    {
+      "name": "DeGiro - Nieuws en beleggen",
+      "url": "https://www.degiro.nl/kennis/beleggen",
+      "type": "article",
+      "topics": ["beleggen", "basics", "nl"]
+    }
+  ],
+  "research_papers": [
+    {
+      "name": "arXiv - Stock Sentiment Analysis",
+      "url": "https://arxiv.org/abs/2309.11051",
+      "type": "article",
+      "topics": ["sentiment", "nlp", "research"]
+    },
+    {
+      "name": "arXiv - Financial News NLP",
+      "url": "https://arxiv.org/abs/2006.08097",
+      "type": "article",
+      "topics": ["nlp", "finance", "research"]
+    }
+  ],
+  "methodology": [
+    {
+      "name": "QuantConnect - News Sentiment Trading",
+      "url": "https://www.quantconnect.com/tutorials/strategy-library/news-sentiment-algorithm",
+      "type": "article",
+      "topics": ["algorithm", "sentiment", "quantitative"]
+    },
+    {
+      "name": "Towards Data Science - Sentiment Stock Prediction",
+      "url": "https://towardsdatascience.com/stock-prediction-using-twitter-sentiment-analysis-b77a2ad6a33f",
+      "type": "article",
+      "topics": ["sentiment", "prediction", "methodology"]
+    }
+  ],
+  "sector_specific": [
+    {
+      "name": "Investopedia - Tech Sector Guide",
+      "url": "https://www.investopedia.com/terms/t/technology_sector.asp",
+      "type": "article",
+      "topics": ["tech", "sector"]
+    },
+    {
+      "name": "Investopedia - Financial Sector",
+      "url": "https://www.investopedia.com/terms/f/financial_sector.asp",
+      "type": "article",
+      "topics": ["finance", "sector"]
+    },
+    {
+      "name": "Investopedia - Crypto Market Analysis",
+      "url": "https://www.investopedia.com/tech/how-does-bitcoin-mining-work/",
+      "type": "article",
+      "topics": ["crypto", "sector"]
+    },
+    {
+      "name": "Investopedia - Semiconductor Industry",
+      "url": "https://www.investopedia.com/terms/s/semiconductor.asp",
+      "type": "article",
+      "topics": ["semiconductors", "sector"]
+    },
+    {
+      "name": "Investopedia - Biotech Sector",
+      "url": "https://www.investopedia.com/terms/b/biotechnology.asp",
+      "type": "article",
+      "topics": ["biotech", "sector"]
+    }
+  ],
+  "trading_psychology": [
+    {
+      "name": "Investopedia - Behavioral Finance",
+      "url": "https://www.investopedia.com/terms/b/behavioralfinance.asp",
+      "type": "article",
+      "topics": ["psychology", "behavior"]
+    },
+    {
+      "name": "Investopedia - Herd Mentality",
+      "url": "https://www.investopedia.com/terms/h/herdinstinct.asp",
+      "type": "article",
+      "topics": ["psychology", "crowd"]
+    },
+    {
+      "name": "Investopedia - FOMO in Trading",
+      "url": "https://www.investopedia.com/terms/r/regrettheory.asp",
+      "type": "article",
+      "topics": ["psychology", "fomo"]
+    }
+  ]
+}

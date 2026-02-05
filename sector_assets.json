@@ -1,0 +1,234 @@
+{
+  "version": "1.0",
+  "description": "Top aandelen per sector voor Revolut trading",
+  "last_updated": "2026-02-04",
+  
+  "sectors": {
+    "XLK": {
+      "name": "Technology",
+      "etf": "XLK",
+      "stocks": [
+        {"ticker": "AAPL", "name": "Apple", "market_cap": "mega", "focus": "hardware/services"},
+        {"ticker": "MSFT", "name": "Microsoft", "market_cap": "mega", "focus": "cloud/software"},
+        {"ticker": "NVDA", "name": "Nvidia", "market_cap": "mega", "focus": "AI/GPU"},
+        {"ticker": "GOOGL", "name": "Alphabet", "market_cap": "mega", "focus": "search/cloud/AI"},
+        {"ticker": "META", "name": "Meta", "market_cap": "mega", "focus": "social/VR"},
+        {"ticker": "AVGO", "name": "Broadcom", "market_cap": "large", "focus": "semiconductors"},
+        {"ticker": "AMD", "name": "AMD", "market_cap": "large", "focus": "CPU/GPU"},
+        {"ticker": "CRM", "name": "Salesforce", "market_cap": "large", "focus": "enterprise SaaS"},
+        {"ticker": "ADBE", "name": "Adobe", "market_cap": "large", "focus": "creative software"},
+        {"ticker": "ORCL", "name": "Oracle", "market_cap": "large", "focus": "database/cloud"},
+        {"ticker": "INTC", "name": "Intel", "market_cap": "large", "focus": "semiconductors"},
+        {"ticker": "CSCO", "name": "Cisco", "market_cap": "large", "focus": "networking"}
+      ]
+    },
+    
+    "XLV": {
+      "name": "Healthcare",
+      "etf": "XLV",
+      "stocks": [
+        {"ticker": "UNH", "name": "UnitedHealth", "market_cap": "mega", "focus": "insurance"},
+        {"ticker": "JNJ", "name": "Johnson & Johnson", "market_cap": "mega", "focus": "pharma/consumer"},
+        {"ticker": "LLY", "name": "Eli Lilly", "market_cap": "mega", "focus": "pharma/obesity"},
+        {"ticker": "MRK", "name": "Merck", "market_cap": "mega", "focus": "pharma"},
+        {"ticker": "ABBV", "name": "AbbVie", "market_cap": "large", "focus": "pharma"},
+        {"ticker": "PFE", "name": "Pfizer", "market_cap": "large", "focus": "pharma"},
+        {"ticker": "TMO", "name": "Thermo Fisher", "market_cap": "large", "focus": "lab equipment"},
+        {"ticker": "AMGN", "name": "Amgen", "market_cap": "large", "focus": "biotech"},
+        {"ticker": "GILD", "name": "Gilead", "market_cap": "large", "focus": "biotech"},
+        {"ticker": "MRNA", "name": "Moderna", "market_cap": "mid", "focus": "mRNA/vaccines"}
+      ]
+    },
+    
+    "XLF": {
+      "name": "Financials",
+      "etf": "XLF",
+      "stocks": [
+        {"ticker": "BRK.B", "name": "Berkshire Hathaway", "market_cap": "mega", "focus": "conglomerate"},
+        {"ticker": "JPM", "name": "JPMorgan Chase", "market_cap": "mega", "focus": "bank"},
+        {"ticker": "V", "name": "Visa", "market_cap": "mega", "focus": "payments"},
+        {"ticker": "MA", "name": "Mastercard", "market_cap": "mega", "focus": "payments"},
+        {"ticker": "BAC", "name": "Bank of America", "market_cap": "large", "focus": "bank"},
+        {"ticker": "WFC", "name": "Wells Fargo", "market_cap": "large", "focus": "bank"},
+        {"ticker": "GS", "name": "Goldman Sachs", "market_cap": "large", "focus": "investment bank"},
+        {"ticker": "MS", "name": "Morgan Stanley", "market_cap": "large", "focus": "investment bank"},
+        {"ticker": "BLK", "name": "BlackRock", "market_cap": "large", "focus": "asset management"},
+        {"ticker": "AXP", "name": "American Express", "market_cap": "large", "focus": "credit cards"}
+      ]
+    },
+    
+    "XLY": {
+      "name": "Consumer Discretionary",
+      "etf": "XLY",
+      "stocks": [
+        {"ticker": "AMZN", "name": "Amazon", "market_cap": "mega", "focus": "e-commerce/cloud"},
+        {"ticker": "TSLA", "name": "Tesla", "market_cap": "mega", "focus": "EV/energy"},
+        {"ticker": "HD", "name": "Home Depot", "market_cap": "large", "focus": "home improvement"},
+        {"ticker": "MCD", "name": "McDonald's", "market_cap": "large", "focus": "restaurants"},
+        {"ticker": "NKE", "name": "Nike", "market_cap": "large", "focus": "apparel"},
+        {"ticker": "SBUX", "name": "Starbucks", "market_cap": "large", "focus": "coffee/restaurants"},
+        {"ticker": "LOW", "name": "Lowe's", "market_cap": "large", "focus": "home improvement"},
+        {"ticker": "TGT", "name": "Target", "market_cap": "large", "focus": "retail"},
+        {"ticker": "BKNG", "name": "Booking Holdings", "market_cap": "large", "focus": "travel"},
+        {"ticker": "ABNB", "name": "Airbnb", "market_cap": "large", "focus": "travel"}
+      ]
+    },
+    
+    "XLP": {
+      "name": "Consumer Staples",
+      "etf": "XLP",
+      "stocks": [
+        {"ticker": "WMT", "name": "Walmart", "market_cap": "mega", "focus": "retail"},
+        {"ticker": "PG", "name": "Procter & Gamble", "market_cap": "mega", "focus": "consumer goods"},
+        {"ticker": "COST", "name": "Costco", "market_cap": "large", "focus": "warehouse retail"},
+        {"ticker": "KO", "name": "Coca-Cola", "market_cap": "large", "focus": "beverages"},
+        {"ticker": "PEP", "name": "PepsiCo", "market_cap": "large", "focus": "beverages/snacks"},
+        {"ticker": "PM", "name": "Philip Morris", "market_cap": "large", "focus": "tobacco"},
+        {"ticker": "MO", "name": "Altria", "market_cap": "large", "focus": "tobacco"},
+        {"ticker": "CL", "name": "Colgate-Palmolive", "market_cap": "large", "focus": "consumer goods"},
+        {"ticker": "MDLZ", "name": "Mondelez", "market_cap": "large", "focus": "snacks"},
+        {"ticker": "KHC", "name": "Kraft Heinz", "market_cap": "mid", "focus": "food"}
+      ]
+    },
+    
+    "XLE": {
+      "name": "Energy",
+      "etf": "XLE",
+      "stocks": [
+        {"ticker": "XOM", "name": "Exxon Mobil", "market_cap": "mega", "focus": "oil/gas"},
+        {"ticker": "CVX", "name": "Chevron", "market_cap": "mega", "focus": "oil/gas"},
+        {"ticker": "COP", "name": "ConocoPhillips", "market_cap": "large", "focus": "oil/gas"},
+        {"ticker": "SLB", "name": "Schlumberger", "market_cap": "large", "focus": "oilfield services"},
+        {"ticker": "EOG", "name": "EOG Resources", "market_cap": "large", "focus": "oil/gas"},
+        {"ticker": "OXY", "name": "Occidental", "market_cap": "large", "focus": "oil/gas"},
+        {"ticker": "PSX", "name": "Phillips 66", "market_cap": "large", "focus": "refining"},
+        {"ticker": "VLO", "name": "Valero", "market_cap": "large", "focus": "refining"},
+        {"ticker": "HAL", "name": "Halliburton", "market_cap": "large", "focus": "oilfield services"},
+        {"ticker": "MPC", "name": "Marathon Petroleum", "market_cap": "large", "focus": "refining"}
+      ]
+    },
+    
+    "ICLN": {
+      "name": "Clean Energy",
+      "etf": "ICLN",
+      "stocks": [
+        {"ticker": "NEE", "name": "NextEra Energy", "market_cap": "large", "focus": "renewable utility"},
+        {"ticker": "ENPH", "name": "Enphase Energy", "market_cap": "mid", "focus": "solar inverters"},
+        {"ticker": "FSLR", "name": "First Solar", "market_cap": "mid", "focus": "solar panels"},
+        {"ticker": "PLUG", "name": "Plug Power", "market_cap": "small", "focus": "hydrogen"},
+        {"ticker": "RIVN", "name": "Rivian", "market_cap": "mid", "focus": "EV trucks"},
+        {"ticker": "LCID", "name": "Lucid", "market_cap": "small", "focus": "luxury EV"},
+        {"ticker": "CHPT", "name": "ChargePoint", "market_cap": "small", "focus": "EV charging"},
+        {"ticker": "RUN", "name": "Sunrun", "market_cap": "small", "focus": "residential solar"},
+        {"ticker": "SEDG", "name": "SolarEdge", "market_cap": "mid", "focus": "solar inverters"},
+        {"ticker": "BE", "name": "Bloom Energy", "market_cap": "small", "focus": "fuel cells"}
+      ]
+    },
+    
+    "XLI": {
+      "name": "Industrials",
+      "etf": "XLI",
+      "stocks": [
+        {"ticker": "CAT", "name": "Caterpillar", "market_cap": "large", "focus": "machinery"},
+        {"ticker": "RTX", "name": "RTX (Raytheon)", "market_cap": "large", "focus": "defense"},
+        {"ticker": "UNP", "name": "Union Pacific", "market_cap": "large", "focus": "railroad"},
+        {"ticker": "HON", "name": "Honeywell", "market_cap": "large", "focus": "conglomerate"},
+        {"ticker": "UPS", "name": "UPS", "market_cap": "large", "focus": "logistics"},
+        {"ticker": "BA", "name": "Boeing", "market_cap": "large", "focus": "aerospace"},
+        {"ticker": "DE", "name": "Deere & Co", "market_cap": "large", "focus": "agriculture"},
+        {"ticker": "LMT", "name": "Lockheed Martin", "market_cap": "large", "focus": "defense"},
+        {"ticker": "GE", "name": "GE Aerospace", "market_cap": "large", "focus": "aerospace"},
+        {"ticker": "FDX", "name": "FedEx", "market_cap": "large", "focus": "logistics"}
+      ]
+    },
+    
+    "XLB": {
+      "name": "Materials",
+      "etf": "XLB",
+      "stocks": [
+        {"ticker": "LIN", "name": "Linde", "market_cap": "large", "focus": "industrial gas"},
+        {"ticker": "SHW", "name": "Sherwin-Williams", "market_cap": "large", "focus": "paint"},
+        {"ticker": "FCX", "name": "Freeport-McMoRan", "market_cap": "large", "focus": "copper mining"},
+        {"ticker": "NEM", "name": "Newmont", "market_cap": "large", "focus": "gold mining"},
+        {"ticker": "APD", "name": "Air Products", "market_cap": "large", "focus": "industrial gas"},
+        {"ticker": "ECL", "name": "Ecolab", "market_cap": "large", "focus": "chemicals"},
+        {"ticker": "NUE", "name": "Nucor", "market_cap": "large", "focus": "steel"},
+        {"ticker": "DOW", "name": "Dow Inc", "market_cap": "large", "focus": "chemicals"},
+        {"ticker": "DD", "name": "DuPont", "market_cap": "large", "focus": "chemicals"},
+        {"ticker": "GOLD", "name": "Barrick Gold", "market_cap": "large", "focus": "gold mining"}
+      ]
+    },
+    
+    "XLU": {
+      "name": "Utilities",
+      "etf": "XLU",
+      "stocks": [
+        {"ticker": "NEE", "name": "NextEra Energy", "market_cap": "large", "focus": "utility/renewable"},
+        {"ticker": "DUK", "name": "Duke Energy", "market_cap": "large", "focus": "utility"},
+        {"ticker": "SO", "name": "Southern Company", "market_cap": "large", "focus": "utility"},
+        {"ticker": "D", "name": "Dominion Energy", "market_cap": "large", "focus": "utility"},
+        {"ticker": "AEP", "name": "American Electric Power", "market_cap": "large", "focus": "utility"},
+        {"ticker": "EXC", "name": "Exelon", "market_cap": "large", "focus": "utility"},
+        {"ticker": "SRE", "name": "Sempra", "market_cap": "large", "focus": "utility"},
+        {"ticker": "XEL", "name": "Xcel Energy", "market_cap": "large", "focus": "utility"},
+        {"ticker": "PCG", "name": "PG&E", "market_cap": "large", "focus": "utility"},
+        {"ticker": "WEC", "name": "WEC Energy", "market_cap": "large", "focus": "utility"}
+      ]
+    },
+    
+    "XLRE": {
+      "name": "Real Estate",
+      "etf": "XLRE",
+      "stocks": [
+        {"ticker": "AMT", "name": "American Tower", "market_cap": "large", "focus": "cell tower REIT"},
+        {"ticker": "PLD", "name": "Prologis", "market_cap": "large", "focus": "warehouse REIT"},
+        {"ticker": "CCI", "name": "Crown Castle", "market_cap": "large", "focus": "cell tower REIT"},
+        {"ticker": "EQIX", "name": "Equinix", "market_cap": "large", "focus": "data center REIT"},
+        {"ticker": "PSA", "name": "Public Storage", "market_cap": "large", "focus": "storage REIT"},
+        {"ticker": "SPG", "name": "Simon Property", "market_cap": "large", "focus": "mall REIT"},
+        {"ticker": "O", "name": "Realty Income", "market_cap": "large", "focus": "retail REIT"},
+        {"ticker": "WELL", "name": "Welltower", "market_cap": "large", "focus": "healthcare REIT"},
+        {"ticker": "DLR", "name": "Digital Realty", "market_cap": "large", "focus": "data center REIT"},
+        {"ticker": "AVB", "name": "AvalonBay", "market_cap": "large", "focus": "apartment REIT"}
+      ]
+    },
+    
+    "XLC": {
+      "name": "Communication Services",
+      "etf": "XLC",
+      "stocks": [
+        {"ticker": "GOOGL", "name": "Alphabet", "market_cap": "mega", "focus": "search/ads/cloud"},
+        {"ticker": "META", "name": "Meta", "market_cap": "mega", "focus": "social media"},
+        {"ticker": "NFLX", "name": "Netflix", "market_cap": "large", "focus": "streaming"},
+        {"ticker": "DIS", "name": "Disney", "market_cap": "large", "focus": "entertainment"},
+        {"ticker": "CMCSA", "name": "Comcast", "market_cap": "large", "focus": "cable/media"},
+        {"ticker": "T", "name": "AT&T", "market_cap": "large", "focus": "telecom"},
+        {"ticker": "VZ", "name": "Verizon", "market_cap": "large", "focus": "telecom"},
+        {"ticker": "TMUS", "name": "T-Mobile", "market_cap": "large", "focus": "telecom"},
+        {"ticker": "CHTR", "name": "Charter", "market_cap": "large", "focus": "cable"},
+        {"ticker": "SPOT", "name": "Spotify", "market_cap": "mid", "focus": "audio streaming"}
+      ]
+    },
+    
+    "CRYPTO": {
+      "name": "Crypto/Blockchain",
+      "etf": "BITO",
+      "stocks": [
+        {"ticker": "COIN", "name": "Coinbase", "market_cap": "large", "focus": "crypto exchange"},
+        {"ticker": "MSTR", "name": "MicroStrategy", "market_cap": "mid", "focus": "bitcoin treasury"},
+        {"ticker": "SQ", "name": "Block (Square)", "market_cap": "large", "focus": "payments/bitcoin"},
+        {"ticker": "PYPL", "name": "PayPal", "market_cap": "large", "focus": "payments/crypto"},
+        {"ticker": "RIOT", "name": "Riot Platforms", "market_cap": "small", "focus": "bitcoin mining"},
+        {"ticker": "MARA", "name": "Marathon Digital", "market_cap": "small", "focus": "bitcoin mining"},
+        {"ticker": "HOOD", "name": "Robinhood", "market_cap": "mid", "focus": "trading/crypto"},
+        {"ticker": "GLXY", "name": "Galaxy Digital", "market_cap": "small", "focus": "crypto services"}
+      ]
+    }
+  },
+  
+  "total_summary": {
+    "sectors": 13,
+    "total_stocks": 128,
+    "etfs_available": 13
+  }
+}

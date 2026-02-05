@@ -1,0 +1,33 @@
+📊 **WEKELIJKS PORTFOLIO RAPPORT**
+📅 04 February 2026
+
+**🎯 SENTIMENT RANKINGS**
+*Bullish:*
+  🟡 XLV: +0.12
+  🟡 XLE: +0.04
+  🟡 XLK: +0.01
+*Bearish:*
+  🟡 XLY: -0.02
+  🟡 XLB: -0.04
+  🟡 XLRE: -0.09
+
+**💰 PORTFOLIO STATUS (€50k elk)**
+🎯 **benchmark**: €50,000 (📈 +0.0%)
+📈 **momentum**: €50,000 (📈 +0.0%)
+⚡ **aggressive**: €50,000 (📈 +0.0%)
+🛡️ **defensive**: €50,000 (📈 +0.0%)
+🔄 **contrarian**: €50,000 (📈 +0.0%)
+📊 **spy_only**: €50,000 (📈 +0.0%)
+
+**🔄 NIEUWE ALLOCATIES DEZE WEEK**
+*Momentum strategie:*
+  XLV: 13.2%
+  XLE: 9.3%
+  XLK: 8.2%
+  XLF: 8.0%
+  XLC: 8.0%
+  ...
+
+**🧠 MODEL LEARNING**
+
+_Volgende rebalance: volgende week maandag_

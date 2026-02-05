@@ -1,0 +1,82 @@
+{
+  "last_updated": "2026-02-04",
+  "total_value_eur": 10000,
+  "sectors": {
+    "tech": {
+      "name": "Technologie",
+      "allocation_eur": 1000,
+      "holdings": [
+        {"symbol": "ASML", "type": "stock", "notes": "Nederlandse chipmaker"},
+        {"symbol": "VGT", "type": "etf", "notes": "Vanguard Tech ETF"}
+      ]
+    },
+    "finance": {
+      "name": "Financiën",
+      "allocation_eur": 1000,
+      "holdings": [
+        {"symbol": "ING", "type": "stock", "notes": "Nederlandse bank"},
+        {"symbol": "XLF", "type": "etf", "notes": "Financial Select Sector"}
+      ]
+    },
+    "energy": {
+      "name": "Energie",
+      "allocation_eur": 1000,
+      "holdings": [
+        {"symbol": "SHELL", "type": "stock", "notes": "Shell PLC"},
+        {"symbol": "XLE", "type": "etf", "notes": "Energy Select Sector"}
+      ]
+    },
+    "healthcare": {
+      "name": "Gezondheidszorg",
+      "allocation_eur": 1000,
+      "holdings": [
+        {"symbol": "XLV", "type": "etf", "notes": "Health Care Select Sector"}
+      ]
+    },
+    "consumer": {
+      "name": "Consumenten",
+      "allocation_eur": 1000,
+      "holdings": [
+        {"symbol": "UN", "type": "stock", "notes": "Unilever"},
+        {"symbol": "XLP", "type": "etf", "notes": "Consumer Staples"}
+      ]
+    },
+    "commodities": {
+      "name": "Grondstoffen",
+      "allocation_eur": 1000,
+      "holdings": [
+        {"symbol": "GLD", "type": "etf", "notes": "SPDR Gold Shares"},
+        {"symbol": "SLV", "type": "etf", "notes": "iShares Silver Trust"}
+      ]
+    },
+    "crypto": {
+      "name": "Crypto",
+      "allocation_eur": 1000,
+      "holdings": [
+        {"symbol": "BTC", "type": "crypto", "notes": "Bitcoin"},
+        {"symbol": "ETH", "type": "crypto", "notes": "Ethereum"}
+      ]
+    },
+    "realestate": {
+      "name": "Vastgoed",
+      "allocation_eur": 1000,
+      "holdings": [
+        {"symbol": "VNQ", "type": "etf", "notes": "Vanguard Real Estate ETF"}
+      ]
+    },
+    "industrial": {
+      "name": "Industrie",
+      "allocation_eur": 1000,
+      "holdings": [
+        {"symbol": "XLI", "type": "etf", "notes": "Industrial Select Sector"}
+      ]
+    },
+    "utilities": {
+      "name": "Utilities",
+      "allocation_eur": 1000,
+      "holdings": [
+        {"symbol": "XLU", "type": "etf", "notes": "Utilities Select Sector"}
+      ]
+    }
+  }
+}

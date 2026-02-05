@@ -1,0 +1,63 @@
+{
+  "date": "2026-02-04",
+  "scan_time": "11:58",
+  "type": "baseline",
+  "sources_scanned": ["NOS Economie", "The Guardian Business"],
+  
+  "headlines": [
+    {"title": "Nestlé breidt terugroepactie Franse babyvoeding uit", "source": "NOS", "sectors": ["consumer"], "sentiment": -0.6},
+    {"title": "Aandelen en cryptomunten vanaf 2028 anders belast", "source": "NOS", "sectors": ["finance", "crypto"], "sentiment": -0.3},
+    {"title": "Inflatie in januari fors gedaald", "source": "NOS", "sectors": ["general"], "sentiment": 0.7},
+    {"title": "Wachtlijst elektriciteitsaansluiting bedrijven korter", "source": "NOS", "sectors": ["utilities", "energy"], "sentiment": 0.5},
+    {"title": "Liander en eigenaar in rechtszaal om stroomaansluiting", "source": "NOS", "sectors": ["utilities", "realestate"], "sentiment": -0.4},
+    {"title": "Disney benoemt Josh D'Amaro tot nieuwe CEO", "source": "NOS", "sectors": ["consumer", "tech"], "sentiment": 0.2},
+    {"title": "Duitsland investeert €3,3 miljard in Tennet", "source": "NOS", "sectors": ["utilities", "energy"], "sentiment": 0.6},
+    {"title": "AkzoNobel verkoopt minder verf door importheffingen", "source": "NOS", "sectors": ["industrial", "consumer"], "sentiment": -0.5},
+    {"title": "Trump verlaagt importheffingen India na olie-deal", "source": "NOS", "sectors": ["energy"], "sentiment": 0.3},
+    {"title": "Europa haalt doelen kritieke grondstoffen niet", "source": "NOS", "sectors": ["commodities", "industrial"], "sentiment": -0.4},
+    {"title": "Goudprijs op recordhoogte", "source": "NOS", "sectors": ["commodities"], "sentiment": 0.7},
+    {"title": "Software selloff over AI fears hits global markets", "source": "Guardian", "sectors": ["tech"], "sentiment": -0.6},
+    {"title": "FTSE 100 hits record on £8bn insurance takeover", "source": "Guardian", "sectors": ["finance"], "sentiment": 0.5},
+    {"title": "Zero net migration would shrink economy by 3.6%", "source": "Guardian", "sectors": ["general"], "sentiment": -0.2},
+    {"title": "Women in tech and finance at higher risk from AI", "source": "Guardian", "sectors": ["tech", "finance"], "sentiment": -0.3},
+    {"title": "Wegovy/Ozempic maker forecasts sharp drop in revenue", "source": "Guardian", "sectors": ["healthcare"], "sentiment": -0.6},
+    {"title": "Santander car loan scandal bill tops £460m", "source": "Guardian", "sectors": ["finance"], "sentiment": -0.5},
+    {"title": "UK shoppers buy more fruit - healthy start 2026", "source": "Guardian", "sectors": ["consumer"], "sentiment": 0.3},
+    {"title": "Trump unveils $12bn critical minerals stockpile scheme", "source": "Guardian", "sectors": ["commodities", "industrial"], "sentiment": 0.4},
+    {"title": "Riverford organics market biggest boom in 20 years", "source": "Guardian", "sectors": ["consumer"], "sentiment": 0.5}
+  ],
+  
+  "sector_scores": {
+    "tech": {"score": -0.23, "article_count": 4, "signal": "HOLD"},
+    "finance": {"score": -0.08, "article_count": 5, "signal": "HOLD"},
+    "energy": {"score": 0.47, "article_count": 3, "signal": "BUY"},
+    "healthcare": {"score": -0.60, "article_count": 1, "signal": "SELL"},
+    "consumer": {"score": 0.00, "article_count": 5, "signal": "HOLD"},
+    "commodities": {"score": 0.23, "article_count": 4, "signal": "HOLD"},
+    "crypto": {"score": -0.30, "article_count": 1, "signal": "HOLD"},
+    "realestate": {"score": -0.40, "article_count": 1, "signal": "HOLD"},
+    "industrial": {"score": -0.17, "article_count": 3, "signal": "HOLD"},
+    "utilities": {"score": 0.23, "article_count": 3, "signal": "HOLD"}
+  },
+  
+  "market_prices": {
+    "crypto": {
+      "BTC_EUR": 64342,
+      "ETH_EUR": 1907.54
+    },
+    "note": "Aandelenprijzen worden morgen toegevoegd via API"
+  },
+  
+  "summary": {
+    "overall_sentiment": 0.02,
+    "most_positive": {"sector": "energy", "score": 0.47},
+    "most_negative": {"sector": "healthcare", "score": -0.60},
+    "key_themes": [
+      "Inflatie daalt - positief voor economie",
+      "AI zorgen drukken tech sector",
+      "Energie/utilities krijgen investeringen",
+      "Goud op recordhoogte",
+      "Importheffingen blijven factor"
+    ]
+  }
+}
