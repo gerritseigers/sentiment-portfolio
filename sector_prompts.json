@@ -24,8 +24,8 @@
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
         "correct": 1,
-        "total": 1,
-        "accuracy": 100.0
+        "total": 2,
+        "accuracy": 50.0
       }
     },
     "XLV": {
@@ -44,9 +44,9 @@
       "created": "2025-02-04T00:00:00Z",
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
-        "correct": 0,
-        "total": 1,
-        "accuracy": 0.0
+        "correct": 1,
+        "total": 2,
+        "accuracy": 50.0
       }
     },
     "XLF": {
@@ -67,7 +67,7 @@
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
         "correct": 0,
-        "total": 1,
+        "total": 2,
         "accuracy": 0.0
       }
     },
@@ -88,7 +88,7 @@
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
         "correct": 0,
-        "total": 1,
+        "total": 2,
         "accuracy": 0.0
       }
     },
@@ -108,9 +108,9 @@
       "created": "2025-02-04T00:00:00Z",
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
-        "correct": 0,
-        "total": 1,
-        "accuracy": 0.0
+        "correct": 1,
+        "total": 2,
+        "accuracy": 50.0
       }
     },
     "XLE": {
@@ -131,8 +131,8 @@
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
         "correct": 1,
-        "total": 1,
-        "accuracy": 100.0
+        "total": 2,
+        "accuracy": 50.0
       }
     },
     "ICLN": {
@@ -153,8 +153,8 @@
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
         "correct": 1,
-        "total": 1,
-        "accuracy": 100.0
+        "total": 2,
+        "accuracy": 50.0
       }
     },
     "XLI": {
@@ -172,8 +172,8 @@
       "created": "2025-02-04T00:00:00Z",
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
-        "correct": 1,
-        "total": 1,
+        "correct": 2,
+        "total": 2,
         "accuracy": 100.0
       }
     },
@@ -194,7 +194,7 @@
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
         "correct": 0,
-        "total": 1,
+        "total": 2,
         "accuracy": 0.0
       }
     },
@@ -213,9 +213,9 @@
       "created": "2025-02-04T00:00:00Z",
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
-        "correct": 0,
-        "total": 1,
-        "accuracy": 0.0
+        "correct": 1,
+        "total": 2,
+        "accuracy": 50.0
       }
     },
     "XLRE": {
@@ -234,8 +234,8 @@
       "created": "2025-02-04T00:00:00Z",
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
-        "correct": 1,
-        "total": 1,
+        "correct": 2,
+        "total": 2,
         "accuracy": 100.0
       }
     },
@@ -255,8 +255,8 @@
       "created": "2025-02-04T00:00:00Z",
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
-        "correct": 1,
-        "total": 1,
+        "correct": 2,
+        "total": 2,
         "accuracy": 100.0
       }
     },
@@ -279,8 +279,8 @@
       "last_modified": "2025-02-04T00:00:00Z",
       "performance": {
         "correct": 1,
-        "total": 1,
-        "accuracy": 100.0
+        "total": 2,
+        "accuracy": 50.0
       }
     }
   },

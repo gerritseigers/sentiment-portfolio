@@ -1,133 +1,136 @@
 {
-  "timestamp": "2026-02-05T21:00:26.770995",
+  "timestamp": "2026-02-05T14:00:26.186620",
   "stats": {
-    "total_headlines": 354,
-    "rss_feeds_success": 142,
-    "rss_feeds_failed": 55,
-    "web_scrape_success": 50,
-    "web_scrape_failed": 11,
-    "sources_total": 192
+    "total_headlines": 327,
+    "rss_feeds_success": 135,
+    "rss_feeds_failed": 62,
+    "web_scrape_success": 48,
+    "web_scrape_failed": 13,
+    "sources_total": 183
   },
   "sector_sentiment": {
     "XLK": {
-      "score": 0.033,
-      "count": 115,
+      "score": 0.026,
+      "count": 102,
       "signal": "HOLD",
       "top_positive": [
         "Chipmakers Samsung, SK Hynix reap rewards of AI boom",
-        "Alphabet Will Double CapEx to About $180 Billion as AI Cloud Business Booms"
+        "The Toyota bZ is now among America&#8217;s top-selling EVs after a surprise sale"
       ],
       "top_negative": [
-        "Why the AI-driven software stock crash probably isn't over"
+        "Stock market today: S&amp;P 500, Nasdaq poised to add to tech sell-off as Google"
       ]
     },
     "XLV": {
-      "score": -0.017,
-      "count": 9,
+      "score": 0.03,
+      "count": 5,
       "signal": "HOLD",
       "top_positive": [
         "Eli Lilly Heads Group Of 17 Hot Prospects Joining IBD 50, Stock Spotlight, Other"
       ],
-      "top_negative": [
-        "Cook Acknowledges Apple Employee Unhappiness Over ICE Crackdown",
-        "Scotiabank Lifts Merck (MRK) Target as Execution Continues to Impress"
-      ]
+      "top_negative": []
     },
     "XLF": {
-      "score": 0.017,
-      "count": 322,
+      "score": 0.013,
+      "count": 293,
       "signal": "HOLD",
       "top_positive": [
-        "Japanese ski town faces surge in unauthorized foreign instructors",
-        "Chipmakers Samsung, SK Hynix reap rewards of AI boom"
+        "Sirius XM (NASDAQ:SIRI) Exceeds Q4 CY2025 Expectations, Stock Soars",
+        "ATI (ATI) Surged on Increased Sales of Aerospace Products"
       ],
       "top_negative": [
-        "Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial C",
-        "Stock Plunge and Bitcoin’s Role: A Closer Look at Strategy Inc."
+        "Stock market today: S&amp;P 500, Nasdaq poised to add to tech sell-off as Google",
+        "Valve's Steam Machine Has Been Delayed, and the RAM Crisis Will Impact Pricing"
       ]
     },
     "XLY": {
-      "score": 0.015,
-      "count": 65,
+      "score": -0.022,
+      "count": 63,
       "signal": "HOLD",
       "top_positive": [
         "$50 on war in Iran: How geopolitical bets have surged on Polymarket, in five cha",
-        "Stock Market Today: Dow, Nasdaq Struggle; Animal Health Name Soars (Live Coverag"
+        "Hotels: Occupancy Rate Increased 4.4% Year-over-year"
       ],
       "top_negative": [
-        "The SpaceX IPO is going to tank the market",
-        "Ethereum Falls Below $2,000 as Crypto Sell-Off Deepens"
+        "Stock market today: S&amp;P 500, Nasdaq poised to add to tech sell-off as Google",
+        "Tether USDT Adds 35.2M Users in Q4 Despite Market Crash"
       ]
     },
     "XLP": {
-      "score": 0.021,
-      "count": 209,
+      "score": 0.009,
+      "count": 174,
       "signal": "HOLD",
       "top_positive": [
-        "Japanese ski town faces surge in unauthorized foreign instructors",
-        "Chipmakers Samsung, SK Hynix reap rewards of AI boom"
+        "Sirius XM (NASDAQ:SIRI) Exceeds Q4 CY2025 Expectations, Stock Soars",
+        "$50 on war in Iran: How geopolitical bets have surged on Polymarket, in five cha"
       ],
       "top_negative": [
-        "Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial C",
-        "Stock Plunge and Bitcoin’s Role: A Closer Look at Strategy Inc."
+        "Stock market today: S&amp;P 500, Nasdaq poised to add to tech sell-off as Google",
+        "Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial C"
       ]
     },
     "XLE": {
       "score": 0.0,
-      "count": 12,
-      "signal": "HOLD",
-      "top_positive": [],
-      "top_negative": []
-    },
-    "ICLN": {
-      "score": 0.011,
-      "count": 40,
+      "count": 11,
       "signal": "HOLD",
       "top_positive": [
-        "Romania Lines Up €1 Billion Battery Storage Build After Government Deal",
-        "Snap Reports Steady Revenue Growth in Fourth Quarter"
+        "Russia Shrugs Off India’s Oil Deal With Trump",
+        "India Weighs Cheap Russian Oil Against Costly U.S. Trade Commitments"
       ],
       "top_negative": [
-        "7 Key Cryptocurrency Risks List Every New Investor Must Know"
+        "Canada Drops 2035 Gasoline Car Ban",
+        "Layoffs hit their worst January levels since 2009, Challenger says"
+      ]
+    },
+    "ICLN": {
+      "score": 0.01,
+      "count": 29,
+      "signal": "HOLD",
+      "top_positive": [
+        "The Toyota bZ is now among America&#8217;s top-selling EVs after a surprise sale",
+        "Byrna’s (NASDAQ:BYRN) Q4 CY2025: Beats On Revenue"
+      ],
+      "top_negative": [
+        "After Silver's Fast Rise and Even Faster Crash, What's Next?",
+        "ScanSource (NASDAQ:SCSC) Misses Q4 CY2025 Revenue Estimates"
       ]
     },
     "XLI": {
-      "score": 0.025,
-      "count": 156,
+      "score": 0.014,
+      "count": 130,
       "signal": "HOLD",
       "top_positive": [
-        "Japanese ski town faces surge in unauthorized foreign instructors",
+        "ATI (ATI) Surged on Increased Sales of Aerospace Products",
         "$50 on war in Iran: How geopolitical bets have surged on Polymarket, in five cha"
       ],
       "top_negative": [
-        "Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial C",
-        "Stock Plunge and Bitcoin’s Role: A Closer Look at Strategy Inc."
+        "Valve's Steam Machine Has Been Delayed, and the RAM Crisis Will Impact Pricing",
+        "Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial C"
       ]
     },
     "XLB": {
-      "score": -0.015,
-      "count": 61,
+      "score": -0.026,
+      "count": 51,
       "signal": "HOLD",
       "top_positive": [
-        "Stock Market Today: Dow, Nasdaq Struggle; Animal Health Name Soars (Live Coverag",
-        "Romania Lines Up €1 Billion Battery Storage Build After Government Deal"
+        "The Toyota bZ is now among America&#8217;s top-selling EVs after a surprise sale"
       ],
       "top_negative": [
-        "Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial C",
-        "Japan's ruling parties could win over 60% of lower house, Nikkei poll shows"
+        "Stock market today: S&amp;P 500, Nasdaq poised to add to tech sell-off as Google",
+        "Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial C"
       ]
     },
     "XLU": {
-      "score": 0.022,
-      "count": 291,
+      "score": 0.012,
+      "count": 267,
       "signal": "HOLD",
       "top_positive": [
-        "Japanese ski town faces surge in unauthorized foreign instructors",
-        "Chipmakers Samsung, SK Hynix reap rewards of AI boom"
+        "Sirius XM (NASDAQ:SIRI) Exceeds Q4 CY2025 Expectations, Stock Soars",
+        "ATI (ATI) Surged on Increased Sales of Aerospace Products"
       ],
       "top_negative": [
-        "Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial C",
-        "Stock Plunge and Bitcoin’s Role: A Closer Look at Strategy Inc."
+        "Stock market today: S&amp;P 500, Nasdaq poised to add to tech sell-off as Google",
+        "Valve's Steam Machine Has Been Delayed, and the RAM Crisis Will Impact Pricing"
       ]
     },
     "XLRE": {
@@ -140,29 +143,29 @@
       ]
     },
     "XLC": {
-      "score": 0.017,
-      "count": 340,
+      "score": 0.012,
+      "count": 311,
       "signal": "HOLD",
       "top_positive": [
-        "Japanese ski town faces surge in unauthorized foreign instructors",
-        "Chipmakers Samsung, SK Hynix reap rewards of AI boom"
+        "Sirius XM (NASDAQ:SIRI) Exceeds Q4 CY2025 Expectations, Stock Soars",
+        "ATI (ATI) Surged on Increased Sales of Aerospace Products"
       ],
       "top_negative": [
-        "Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial C",
-        "Stock Plunge and Bitcoin’s Role: A Closer Look at Strategy Inc."
+        "Stock market today: S&amp;P 500, Nasdaq poised to add to tech sell-off as Google",
+        "Valve's Steam Machine Has Been Delayed, and the RAM Crisis Will Impact Pricing"
       ]
     },
     "CRYPTO": {
-      "score": -0.054,
-      "count": 24,
+      "score": 0.01,
+      "count": 21,
       "signal": "HOLD",
       "top_positive": [
         "CME Group Considers Crypto Token Launch",
         "Miles Driven Hit Record in 2025, beating 2019, amid Lethargic RTO, Mass Transit "
       ],
       "top_negative": [
-        "Stock Plunge and Bitcoin’s Role: A Closer Look at Strategy Inc.",
-        "Ethereum Falls Below $2,000 as Crypto Sell-Off Deepens"
+        "Tether USDT Adds 35.2M Users in Q4 Despite Market Crash",
+        "Markets - Bitcoin Rallies on Fed Rate Cut"
       ]
     }
   },
@@ -174,122 +177,17 @@
   },
   "headlines": [
     {
-      "title": "Japanese ski town faces surge in unauthorized foreign instructors",
-      "source": "Nikkei Asia",
-      "type": "rss",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.4
-    },
-    {
-      "title": "'Spy paradise' Japan has an urgent need for an anti-espionage law",
-      "source": "Nikkei Asia",
-      "type": "rss",
-      "sectors": [
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Shein bets on $500m China distribution hub to fight headwinds overseas",
-      "source": "Nikkei Asia",
-      "type": "rss",
-      "sectors": [
-        "XLF",
-        "ICLN",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Thailand looks to host Southeast Asia's first Disney park to boost tourism",
-      "source": "Nikkei Asia",
-      "type": "rss",
-      "sectors": [
-        "XLK",
-        "XLY",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Japan chipmaker Renesas sinks into red, missing out on AI boom",
-      "source": "Nikkei Asia",
-      "type": "rss",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.1
-    },
-    {
-      "title": "South Korean investors flee to US stocks despite record gains at home",
-      "source": "Nikkei Asia",
-      "type": "rss",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Japan's ruling parties could win over 60% of lower house, Nikkei poll shows",
+      "title": "Japan's coalition could win more than 60% of lower house, Nikkei poll shows",
       "source": "Nikkei Asia",
       "type": "rss",
       "sectors": [
         "XLF",
         "XLY",
         "XLP",
-        "XLB",
         "XLU",
         "XLC"
       ],
       "sentiment": -0.15
-    },
-    {
-      "title": "US stocks sink as investors digest Alphabet's capex plans",
-      "source": "Nikkei Asia",
-      "type": "rss",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Gaming PC maker MCJ to launch $1.3bn management buyout with Bain",
-      "source": "Nikkei Asia",
-      "type": "rss",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLC"
-      ],
-      "sentiment": 0.3
     },
     {
       "title": "Nikkei to launch index with Buffett-inspired moat concept",
@@ -365,6 +263,115 @@
         "XLK",
         "XLF",
         "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "China's provinces ease growth targets, fueling expectations of national cut",
+      "source": "Nikkei Asia",
+      "type": "rss",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLI",
+        "XLB",
+        "XLC"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Indonesia logs 5.1% GDP growth in 2025 but outlook remains downcast",
+      "source": "Nikkei Asia",
+      "type": "rss",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Family offices eye niche strategies, impact investing in emerging managers",
+      "source": "Nikkei Asia",
+      "type": "rss",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLRE",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Trump and Xi talk Taiwan at dicey time for Taipei's defense spending",
+      "source": "Nikkei Asia",
+      "type": "rss",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "India's $166m bid to modernize critical mineral recycling takes shape",
+      "source": "Nikkei Asia",
+      "type": "rss",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "TSMC to make advanced chips for AI at 2nd Japan plant",
+      "source": "Nikkei Asia",
+      "type": "rss",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "HP, Dell, Acer and Asus mull using Chinese memory chips amid supply crunch",
+      "source": "Nikkei Asia",
+      "type": "rss",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Jailed Vietnam airline mogul is back to work with South Korean talks",
+      "source": "Nikkei Asia",
+      "type": "rss",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLI",
+        "XLB",
         "XLU",
         "XLC"
       ],
@@ -492,19 +499,6 @@
       "sentiment": 0
     },
     {
-      "title": "Super Bowl Indicator Says Investors Should Root For ...",
-      "source": "Kiplinger",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
       "title": "4 Estate Planning Documents Every High-Net-Worth Family Needs",
       "source": "Kiplinger",
       "type": "web",
@@ -623,6 +617,18 @@
       "sentiment": 0
     },
     {
+      "title": "What Is a Debt-to-Equity Ratio, and How Do Investors Interpret the Number?",
+      "source": "Kiplinger",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
       "title": "Ever heard of Finviz*Elite?",
       "source": "Finviz News",
       "type": "web",
@@ -647,12 +653,13 @@
       "sentiment": 0.3
     },
     {
-      "title": "Dow slides over 600 points, joins Nasdaq and S&P 500’s selloff as tech rout deepens",
+      "title": "Peloton shares down nearly 10% in premarket trades",
       "source": "Finviz News",
       "type": "web",
       "sectors": [
-        "XLK",
         "XLF",
+        "XLY",
+        "XLP",
         "XLI",
         "XLB",
         "XLU",
@@ -661,66 +668,25 @@
       "sentiment": -0.15
     },
     {
-      "title": "Stocks clobbered as tech, bitcoin rout continue",
+      "title": "New York’s Pension Funds Scrutinize Palantir Over ICE Contract",
       "source": "Finviz News",
       "type": "web",
       "sectors": [
         "XLK",
         "XLF",
         "XLP",
-        "XLB",
         "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "'Most illogical thing': Big Tech CEOs try to quell AI worries",
-      "source": "Finviz News",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
         "XLC"
       ],
       "sentiment": 0
     },
     {
-      "title": "Anthropic launches Opus 4.6 in another hit to the software market",
+      "title": "Stocks Fall After Job Cuts Data as Bonds Rise: Markets Wrap",
       "source": "Finviz News",
       "type": "web",
       "sectors": [
-        "XLK",
         "XLF",
         "XLY",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Stocks tumble for third day, pushing S&P 500 red for 2026 as investors exit tech, bitcoin",
-      "source": "Finviz News",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Strategist sheds light on pro-risk stance",
-      "source": "Finviz News",
-      "type": "web",
-      "sectors": [
-        "XLF",
         "XLP",
         "XLU",
         "XLC"
@@ -728,21 +694,7 @@
       "sentiment": -0.15
     },
     {
-      "title": "CIO warns investors against this ‘misunderstanding’ of Big Tech stocks",
-      "source": "Finviz News",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Stocks Hit by Software Rout as Bitcoin Tumbles 12%: Markets Wrap",
+      "title": "Nasdaq poised to lead stocks lower as AI jitters continue to weigh on tech sector after results from Google parent Alphabet",
       "source": "Finviz News",
       "type": "web",
       "sectors": [
@@ -750,11 +702,59 @@
         "XLF",
         "XLY",
         "XLP",
+        "XLB",
         "XLU",
-        "XLC",
-        "CRYPTO"
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Brad Karp’s Fall Shows Growing Fallout From Epstein Files",
+      "source": "Finviz News",
+      "type": "web",
+      "sectors": [
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Global ex-U.S. equity funds draw inflows as investors shun pricey U.S. tech",
+      "source": "Finviz News",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLY",
+        "XLI",
+        "XLU",
+        "XLC"
       ],
       "sentiment": 0
+    },
+    {
+      "title": "VIEW ECB leaves rates unchanged, shrugs off inflation dip",
+      "source": "Finviz News",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Layoff announcements balloon in January",
+      "source": "Finviz News",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLC"
+      ],
+      "sentiment": -0.15
     },
     {
       "title": "We couldn’t find any results matching your search.",
@@ -872,10 +872,48 @@
       "sentiment": 0.15
     },
     {
-      "title": "Stay Ahead of the Crowd",
-      "source": "Stocktwits Trending",
+      "title": "$50 on war in Iran: How geopolitical bets have surged on Polymarket, in five charts",
+      "source": "Rest of World",
       "type": "web",
       "sectors": [
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.4
+    },
+    {
+      "title": "The volunteer Wikipedia army protecting against AI slop",
+      "source": "Rest of World",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Support Our Global Journalism",
+      "source": "Rest of World",
+      "type": "web",
+      "sectors": [
+        "XLI",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "The world is trying to log off U.S. tech",
+      "source": "Rest of World",
+      "type": "web",
+      "sectors": [
+        "XLK",
         "XLF",
         "XLU",
         "XLC"
@@ -883,13 +921,74 @@
       "sentiment": 0
     },
     {
-      "title": "Market Lists That Matter",
-      "source": "Stocktwits Trending",
+      "title": "Is India softening its stance toward Chinese tech?",
+      "source": "Rest of World",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Why won’t people buy these tiny electric cars?",
+      "source": "Rest of World",
       "type": "web",
       "sectors": [
         "XLF",
-        "XLY",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "A world of tech in your inbox",
+      "source": "Rest of World",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "China prioritizes investments outside the U.S.",
+      "source": "Rest of World",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Death of an Indian tech worker",
+      "source": "Rest of World",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
         "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Middle East &#038; North Africa",
+      "source": "Rest of World",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLB",
+        "XLU",
         "XLC"
       ],
       "sentiment": 0
@@ -1024,122 +1123,24 @@
       "sentiment": 0
     },
     {
-      "title": "$50 on war in Iran: How geopolitical bets have surged on Polymarket, in five charts",
-      "source": "Rest of World",
+      "title": "Stay Ahead of the Crowd",
+      "source": "Stocktwits Trending",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Market Lists That Matter",
+      "source": "Stocktwits Trending",
       "type": "web",
       "sectors": [
         "XLF",
         "XLY",
         "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.4
-    },
-    {
-      "title": "The volunteer Wikipedia army protecting against AI slop",
-      "source": "Rest of World",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Support Our Global Journalism",
-      "source": "Rest of World",
-      "type": "web",
-      "sectors": [
-        "XLI",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "China prioritizes investments outside the U.S.",
-      "source": "Rest of World",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Why won’t people buy these tiny electric cars?",
-      "source": "Rest of World",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "China is running the EV playbook on humanoid robots — and it’s working",
-      "source": "Rest of World",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "ICLN",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "A world of tech in your inbox",
-      "source": "Rest of World",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Death of an Indian tech worker",
-      "source": "Rest of World",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Middle East &#038; North Africa",
-      "source": "Rest of World",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Access &amp; Connectivity",
-      "source": "Rest of World",
-      "type": "web",
-      "sectors": [
-        "XLF",
         "XLC"
       ],
       "sentiment": 0
@@ -1155,6 +1156,243 @@
         "XLC"
       ],
       "sentiment": 0
+    },
+    {
+      "title": "ScanSource (NASDAQ:SCSC) Misses Q4 CY2025 Revenue Estimates",
+      "source": "Yahoo Finance Markets",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "ICLN",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Earnings live: Qualcomm stock dives as memory chip shortage weighs on outlook, Alphabet slides, Peloton falls",
+      "source": "Yahoo Finance Markets",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Insight Enterprises (NASDAQ:NSIT) Reports Sales Below Analyst Estimates In Q4 CY2025 Earnings",
+      "source": "Yahoo Finance Markets",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Ralph Lauren’s (NYSE:RL) Q4 CY2025 Sales Beat Estimates But Stock Drops",
+      "source": "Yahoo Finance Markets",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Sirius XM (NASDAQ:SIRI) Exceeds Q4 CY2025 Expectations, Stock Soars",
+      "source": "Yahoo Finance Markets",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.55
+    },
+    {
+      "title": "Byrna’s (NASDAQ:BYRN) Q4 CY2025: Beats On Revenue",
+      "source": "Yahoo Finance Markets",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "ICLN",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Peloton (NASDAQ:PTON) Reports Sales Below Analyst Estimates In Q4 CY2025 Earnings, Stock Drops",
+      "source": "Yahoo Finance Markets",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "MasterCraft (NASDAQ:MCFT) Reports Sales Below Analyst Estimates In Q4 CY2025 Earnings",
+      "source": "Yahoo Finance Markets",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "MACOM (NASDAQ:MTSI) Q4: Beats On Revenue",
+      "source": "Yahoo Finance Markets",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "ICLN",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Huntington Ingalls (NYSE:HII) Surprises With Strong Q4 CY2025 But Stock Drops 10.7%",
+      "source": "Yahoo Finance Markets",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Tether USDT Adds 35.2M Users in Q4 Despite Market Crash",
+      "source": "CoinMarketCap News",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": -0.4
+    },
+    {
+      "title": "Alphabet Beats Expectations as AI Spending Risks Take Center Stage",
+      "source": "CoinMarketCap News",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Tezos Futures Launch on U.S. Regulated Exchange Bitnomial",
+      "source": "CoinMarketCap News",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "XRP Sentiment Remains Strong as Bitcoin and Ethereum Turn Bearish",
+      "source": "CoinMarketCap News",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bhutan Offloads $22M in Bitcoin as Prices Slide and Mining Pressures Mount",
+      "source": "CoinMarketCap News",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Payy Launches Ethereum Layer-2 With Default Privacy",
+      "source": "CoinMarketCap News",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Record $1M Lightning transfer tests Bitcoin payments for institutions",
+      "source": "CoinMarketCap News",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Manhattan Design Meets Dubai as Arthouse Hills Launches in Arjan",
+      "source": "CoinMarketCap News",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
     },
     {
       "title": "When will AGI be achieved?",
@@ -1181,7 +1419,7 @@
       "sentiment": 0.15
     },
     {
-      "title": "Musk Predicts SpaceX Will Launch More AI Compute Per Year Than the Cumulative Total on Earth",
+      "title": "Kalshi Claims 'Extortion,' Then Recants in Feud Over User Losses",
       "source": "Slashdot",
       "type": "web",
       "sectors": [
@@ -1191,523 +1429,93 @@
         "XLU",
         "XLC"
       ],
-      "sentiment": 0.15
+      "sentiment": -0.15
     },
     {
-      "title": "most economically compelling location for AI data centers in less than 36 months",
+      "title": "then walked the allegation back hours later",
       "source": "Slashdot",
       "type": "web",
       "sectors": [
-        "XLK",
-        "XLV",
         "XLF",
         "XLP",
         "XLI",
-        "XLB",
         "XLU",
-        "XLRE",
         "XLC"
       ],
       "sentiment": 0
     },
     {
-      "title": "Automattic and the Internet Archive Team Up To Fight Link Rot",
+      "title": "China Has Seized Sony's Television Halo",
       "source": "Slashdot",
       "type": "web",
       "sectors": [
         "XLF",
-        "XLP",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "redirects visitors to archived Wayback Machine copies",
-      "source": "Slashdot",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
         "XLE",
-        "XLI",
+        "ICLN",
         "XLU",
         "XLC"
       ],
       "sentiment": 0
     },
     {
-      "title": "Anthropic Launches Claude Opus 4.6 as Its AI Tools Rattle Software Markets",
-      "source": "Slashdot",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Western Digital Plots a Path To 140 TB Hard Drives Using Vertical Lasers and 14-Platter Designs",
+      "title": "to Chinese electronics group TCL",
       "source": "Slashdot",
       "type": "web",
       "sectors": [
         "XLF",
-        "XLI",
-        "XLU",
+        "XLP",
         "XLC"
       ],
-      "sentiment": 0
+      "sentiment": 0.15
     },
     {
-      "title": "push individual drive capacities beyond 140 TB in the 2030s",
+      "title": "supplied 71% of television panels made in Asia",
       "source": "Slashdot",
       "type": "web",
       "sectors": [
         "XLF",
-        "XLY",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Amazon Plans To Use AI To Speed Up TV and Film Production",
-      "source": "Slashdot",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLY",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Why Salesforce (CRM) Stock Is Down Today",
-      "source": "Yahoo Finance Markets",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Why Snowflake (SNOW) Stock Is Down Today",
-      "source": "Yahoo Finance Markets",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Why Zscaler (ZS) Stock Is Nosediving",
-      "source": "Yahoo Finance Markets",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "ServiceNow (NOW) Stock Trades Down, Here Is Why",
-      "source": "Yahoo Finance Markets",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Why EnerSys (ENS) Stock Is Nosediving",
-      "source": "Yahoo Finance Markets",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Cencora (COR) Stock Trades Up, Here Is Why",
-      "source": "Yahoo Finance Markets",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Why Is Cardinal Health (CAH) Stock Rocketing Higher Today",
-      "source": "Yahoo Finance Markets",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Corpay (CPAY) Stock Trades Up, Here Is Why",
-      "source": "Yahoo Finance Markets",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "MACOM (MTSI) Stock Trades Up, Here Is Why",
-      "source": "Yahoo Finance Markets",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "EG Q4 Deep Dive: Portfolio Reshaping and Underwriting Discipline Offset by Market Headwinds",
-      "source": "Yahoo Finance Markets",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
         "ICLN",
         "XLI",
-        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Munich Makes Digital Sovereignty Measurable With Its Own Score",
+      "source": "Slashdot",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
         "XLU",
         "XLC"
       ],
       "sentiment": 0
     },
     {
-      "title": "Compare Coins and NFT",
-      "source": "CoinGecko News",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Stock Plunge and Bitcoin’s Role: A Closer Look at Strategy Inc.",
-      "source": "CoinMarketCap News",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": -0.4
-    },
-    {
-      "title": "JPMorgan Sees Bitcoin Shining as a Featured Investment Choice",
-      "source": "CoinMarketCap News",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Gemini Exits UK, EU, and Australia in Strategic U.S. Pivot",
-      "source": "CoinMarketCap News",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Bitcoin Sell-Off Reflects Lost Conviction, Says Deutsche Bank",
-      "source": "CoinMarketCap News",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "CoinCatch Sets Final Withdrawal Deadline Ahead of Liquidation",
-      "source": "CoinMarketCap News",
+      "title": "independence from individual providers and 'foreign' legal spheres",
+      "source": "Slashdot",
       "type": "web",
       "sectors": [
         "XLF",
         "XLY",
         "XLI",
-        "XLB",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Vitalik Buterin’s Ethereum Sales Add to Mounting Sell Pressure as Ethereum Slides Below $2,000",
-      "source": "CoinMarketCap News",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "7 Key Cryptocurrency Risks List Every New Investor Must Know",
-      "source": "CoinMarketCap News",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "ICLN",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Betterment Confirms Data Breach After Crypto Phishing Attack",
-      "source": "CoinMarketCap News",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Bloomberg Analysts Discuss Bitcoin and Altcoin Declines: “The Coldest Crypto Winter in History” – They Explain 10 Reasons Why",
-      "source": "CoinMarketCap News",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Blinkex investments meet safetу-bу-default spot trading in earlу access",
-      "source": "CoinMarketCap News",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Can Anthropic Scale Like OpenAI—and Still Claim the Moral High Ground?",
-      "source": "The Information",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Cook Acknowledges Apple Employee Unhappiness Over ICE Crackdown",
-      "source": "The Information",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLV",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLB",
         "XLU"
       ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "OpenAI in Talks to Power Amazon’s Alexa, Other AI Products",
-      "source": "The Information",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
       "sentiment": 0
     },
     {
-      "title": "Snap Reports Steady Revenue Growth in Fourth Quarter",
-      "source": "The Information",
+      "title": "Valve's Steam Machine Has Been Delayed, and the RAM Crisis Will Impact Pricing",
+      "source": "Slashdot",
       "type": "web",
       "sectors": [
         "XLF",
-        "ICLN",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Crypto Venture Capitalist Kyle Samani Steps Down From Multicoin",
-      "source": "The Information",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLB",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Alphabet Will Double CapEx to About $180 Billion as AI Cloud Business Booms",
-      "source": "The Information",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.4
-    },
-    {
-      "title": "Former PayPal Executive Marcus Explains How Payments Firm Lost Its Way",
-      "source": "The Information",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLY",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "AI Chip Startup Cerebras Raises $1 Billion at $23 Billion Valuation",
-      "source": "The Information",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Microsoft Replaces Security Leader with Windows Veteran",
-      "source": "The Information",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "ICLN",
         "XLI",
-        "XLB",
         "XLU",
         "XLC"
       ],
-      "sentiment": 0
-    },
-    {
-      "title": "The Rising Stars of AI Research",
-      "source": "The Information",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLC"
-      ],
-      "sentiment": 0
+      "sentiment": -0.55
     },
     {
       "title": "Markets - Bitcoin Rallies on Fed Rate Cut",
@@ -1771,34 +1579,6 @@
       "sentiment": 0
     },
     {
-      "title": "Ethereum Falls Below $2,000 as Crypto Sell-Off Deepens",
-      "source": "The Defiant",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLI",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": -0.3
-    },
-    {
-      "title": "Polymarket Partners with Circle to Integrate Native USDC",
-      "source": "The Defiant",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": 0
-    },
-    {
       "title": "CME Group Considers Crypto Token Launch",
       "source": "The Defiant",
       "type": "web",
@@ -1811,6 +1591,34 @@
         "CRYPTO"
       ],
       "sentiment": 0.3
+    },
+    {
+      "title": "Payments Protocol by Coinbase, Shopify Processes Just $1.2M USDC Since June: growthepie",
+      "source": "The Defiant",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Top BSC-Based Prediction Market Opinion Raises $20M",
+      "source": "The Defiant",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
     },
     {
       "title": "ZetaChain 2.0 Launches With Anuma, Bringing Private Memory and AI Interoperability to Creators",
@@ -1850,175 +1658,112 @@
       "sentiment": 0
     },
     {
-      "title": "Ford and Geely discuss European production and tech tie-up",
+      "title": "e.l.f. Beauty raises forecast after 38% quarterly sales rise",
       "source": "Yahoo Finance News",
       "type": "web",
       "sectors": [
         "XLK",
         "XLF",
-        "XLI",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "What Makes Lumentum Holdings (LITE) a High-Growth Business?",
+      "source": "Yahoo Finance News",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
         "XLU",
         "XLC"
       ],
       "sentiment": 0.15
     },
     {
-      "title": "Sony Group Corporation (SONY) Declined Due to a One-Time, Non-Cash Charge",
+      "title": "India monitoring evolving crypto trading to ensure tax compliance, top tax official says",
       "source": "Yahoo Finance News",
       "type": "web",
       "sectors": [
         "XLF",
+        "XLP",
+        "ICLN",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Stock market today: S&amp;P 500, Nasdaq poised to add to tech sell-off as Google sinks, Amazon looms, silver tanks",
+      "source": "Yahoo Finance News",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.7
+    },
+    {
+      "title": "Stock Market Today: Dow Falls On Surprise Jobless Claims; Alphabet Shares Drop On Earnings Report (Live Coverage)",
+      "source": "Yahoo Finance News",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLY",
         "XLP",
         "XLI",
         "XLB",
         "XLU",
         "XLC"
       ],
-      "sentiment": 0.0
-    },
-    {
-      "title": "Here’s Why Aristotle Capital Value Equity Strategy Decided to Sell Commerce Bancshares (CBSH)",
-      "source": "Yahoo Finance News",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
       "sentiment": -0.15
     },
     {
-      "title": "Why the AI-driven software stock crash probably isn't over",
+      "title": "Daily Spotlight: Small-Caps, Emerging Markets Lead",
       "source": "Yahoo Finance News",
       "type": "web",
       "sectors": [
         "XLK",
         "XLF",
+        "XLY",
         "XLP",
-        "XLI",
         "XLU",
+        "XLRE",
         "XLC"
       ],
-      "sentiment": -0.4
+      "sentiment": 0
     },
     {
-      "title": "Boston Scientific shares slide on cautious 2026 revenue forecast",
+      "title": "After Silver's Fast Rise and Even Faster Crash, What's Next?",
       "source": "Yahoo Finance News",
       "type": "web",
       "sectors": [
         "XLF",
         "ICLN",
-        "XLI",
         "XLB",
         "XLU",
         "XLC"
       ],
-      "sentiment": 0
+      "sentiment": -0.25
     },
     {
-      "title": "Analyst Report: PayPal Holdings Inc",
+      "title": "ATI (ATI) Surged on Increased Sales of Aerospace Products",
       "source": "Yahoo Finance News",
       "type": "web",
       "sectors": [
         "XLF",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Opinion raises $20 million as prediction markets draw capital in a weak crypto market",
-      "source": "Yahoo Finance News",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Truist Lowers Synchrony Financial (SYF) PT to $84 Following Cautious Credit Outlook, Adjusted 2026 Guidance",
-      "source": "Yahoo Finance News",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "WSFS Financial (WSFS) PT Raised to $70 by Keefe Bruyette",
-      "source": "Yahoo Finance News",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "LinkedIn checks for 2953 browser extensions",
-      "source": "Hacker News Front",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
-      "source": "Hacker News Front",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
         "XLI",
         "XLU",
         "XLC"
       ],
-      "sentiment": 0
-    },
-    {
-      "title": "Orchestrate teams of Claude Code sessions",
-      "source": "Hacker News Front",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "source": "Hacker News Front",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
+      "sentiment": 0.55
     },
     {
       "title": "Don&#x27;t rent the cloud, own instead",
@@ -2034,74 +1779,131 @@
       "sentiment": 0
     },
     {
-      "title": "A small, shared skill library by builders, for builders. (human and agent)",
+      "title": "When internal hostnames are leaked to the clown",
       "source": "Hacker News Front",
       "type": "web",
       "sectors": [
         "XLF",
+        "XLY",
         "XLP",
-        "XLI",
-        "XLU",
-        "XLRE",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "MenuetOS – a GUI OS that boots from a single floppy disk",
-      "source": "Hacker News Front",
-      "type": "web",
-      "sectors": [
-        "XLP",
-        "XLB",
         "XLU",
         "XLC"
       ],
       "sentiment": 0
     },
     {
-      "title": "The New Collabora Office for Desktop",
+      "title": "Show HN: Micropolis&#x2F;SimCity Clone in Emacs Lisp",
       "source": "Hacker News Front",
       "type": "web",
       "sectors": [
         "XLF",
         "XLP",
-        "XLI",
-        "XLU",
-        "XLRE",
         "XLC"
       ],
       "sentiment": 0
     },
     {
-      "title": "European Commission Trials Matrix to Replace Teams",
+      "title": "CIA to Sunset the World Factbook",
       "source": "Hacker News Front",
       "type": "web",
       "sectors": [
         "XLF",
+        "XLP",
+        "XLU",
         "XLC"
       ],
-      "sentiment": -0.15
+      "sentiment": 0
     },
     {
-      "title": "Maihem (YC W24): hiring sr robotics perception engineer (London, on-site)",
+      "title": "Making Ferrite Core Inductors at Home",
+      "source": "Hacker News Front",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Freshpaint (YC S19) Is Hiring a Senior SWE, Data",
       "source": "Hacker News Front",
       "type": "web",
       "sectors": [
         "XLK",
         "XLF",
-        "ICLN",
         "XLU",
         "XLC"
       ],
       "sentiment": 0
     },
     {
-      "title": "Menu of topics for Top-down Analysis",
-      "source": "Earnings Whispers",
+      "title": "Simply Scheme: Introducing Computer Science (1999)",
+      "source": "Hacker News Front",
       "type": "web",
       "sectors": [
         "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
+      "source": "Hacker News Front",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Claude Code: connect to a local model when your quota runs out",
+      "source": "Hacker News Front",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Battle-Testing Lynx at Allegro",
+      "source": "Hacker News Front",
+      "type": "web",
+      "sectors": [
+        "XLI",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Compare Coins and NFT",
+      "source": "CoinGecko News",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Download Kitco on GooglePlay",
+      "source": "Kitco News",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
         "XLB",
         "XLU",
         "XLC"
@@ -2109,82 +1911,17 @@
       "sentiment": -0.15
     },
     {
-      "title": "Menu of topics for Bottum-Up Analysis",
-      "source": "Earnings Whispers",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Menu for subscribers to Earnings Whispers Investor Service",
-      "source": "Earnings Whispers",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Earnings Expectation Life Cycle",
-      "source": "Earnings Whispers",
+      "title": "Download Kitco on AppStore",
+      "source": "Kitco News",
       "type": "web",
       "sectors": [
         "XLF",
         "XLP",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "A+ Earnings Whisper Grades",
-      "source": "Earnings Whispers",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
+        "XLB",
         "XLU",
         "XLC"
       ],
-      "sentiment": 0
-    },
-    {
-      "title": "Earnings Conference Call Summaries",
-      "source": "Earnings Whispers",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Menu of subscribers to Earnings Whispers Trader Service",
-      "source": "Earnings Whispers",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Components of an Earnings Trade",
-      "source": "Earnings Whispers",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
+      "sentiment": -0.15
     },
     {
       "title": "The next FOMC meeting is in:",
@@ -2300,27 +2037,13 @@
       "sentiment": -0.15
     },
     {
-      "title": "Download Kitco on GooglePlay",
-      "source": "Kitco News",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Download Kitco on AppStore",
-      "source": "Kitco News",
+      "title": "Return This Page to Default Settings",
+      "source": "Economic Calendar",
       "type": "web",
       "sectors": [
         "XLF",
         "XLP",
-        "XLB",
+        "XLI",
         "XLU",
         "XLC"
       ],
@@ -2442,1265 +2165,6 @@
       "sentiment": 0
     },
     {
-      "title": "Return This Page to Default Settings",
-      "source": "Economic Calendar",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Monday, January 12, 2026",
-      "source": "Calculated Risk",
-      "type": "web",
-      "sectors": [
-        "XLP",
-        "XLU"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Sunday, January 11, 2026",
-      "source": "Calculated Risk",
-      "type": "web",
-      "sectors": [
-        "XLU"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Saturday, January 10, 2026",
-      "source": "Calculated Risk",
-      "type": "web",
-      "sectors": [
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Friday, January 09, 2026",
-      "source": "Calculated Risk",
-      "type": "web",
-      "sectors": [
-        "XLU"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "In Memoriam: Doris \"Tanta\" Dungey",
-      "source": "Calculated Risk",
-      "type": "web",
-      "sectors": [
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Pettis: China Financial Markets",
-      "source": "Calculated Risk",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "This is the End and a New Beginning",
-      "source": "Calculated Risk",
-      "type": "web",
-      "sectors": [
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Schedule for Week of January 11, 2026",
-      "source": "Calculated Risk",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Hotels: Occupancy Rate Increased 4.4% Year-over-year",
-      "source": "Calculated Risk",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.3
-    },
-    {
-      "title": "U.S. hotel results for week ending 3 January",
-      "source": "Calculated Risk",
-      "type": "web",
-      "sectors": [
-        "XLY",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Today&#x27;s Top Stories",
-      "source": "Zero Hedge",
-      "type": "web",
-      "sectors": [
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Price Wars Begin: US Fires Back at China on Silver, Critical Minerals",
-      "source": "Zero Hedge",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "&quot;I Expect A Crash&quot;",
-      "source": "Zero Hedge",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLC"
-      ],
-      "sentiment": -0.4
-    },
-    {
-      "title": "Gold &amp; Silver: Parabolic or Catch-Up? - Part II",
-      "source": "Zero Hedge",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Gains Pains &amp; Capital",
-      "source": "Zero Hedge",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Quants, Multi-Strat Funds Crushed In Worst Day Since Covid Selloff",
-      "source": "Zero Hedge",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Beijing's Big Short: Meet The Chinese \"Anti Hunt Brother\" Billionaire Betting Against Silver Bulls",
-      "source": "Zero Hedge",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLB",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "HOW A BATTLE WITH CANCER LED TO THIS REVOLUTIONARY PRODUCT!",
-      "source": "Zero Hedge",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Amazon Earnings Preview: All Eyes On CapEx",
-      "source": "Zero Hedge",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "ICLN",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "You Don't Own Your Stocks the Way You Think You Do",
-      "source": "Zero Hedge",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Shell Weighs Multibillion Dollar Venezuela Gas Investments",
-      "source": "Oilprice.com Latest",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLE",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Chevron Rewires Trading and Strategy at a Volatile Moment",
-      "source": "Oilprice.com Latest",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLE",
-        "ICLN",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Romania Lines Up €1 Billion Battery Storage Build After Government Deal",
-      "source": "Oilprice.com Latest",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "ICLN",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.3
-    },
-    {
-      "title": "Russian Oil Discounts Widen for China as Indian Purchases Falter",
-      "source": "Oilprice.com Latest",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLE",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Lower Oil Prices Drag ConocoPhillips Q4 Profit Below Estimates",
-      "source": "Oilprice.com Latest",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLE",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.0
-    },
-    {
-      "title": "TotalEnergies Doubles Down on Clean Power With Major Airbus Supply Deal",
-      "source": "Oilprice.com Latest",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "India’s Top Refiner Cashes In as Oil Prices Slide",
-      "source": "Oilprice.com Latest",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLE",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Kuwait Eyes 4 Million Bpd Oil Production Capacity by 2035",
-      "source": "Oilprice.com Latest",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLE",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Shell Maintains Buybacks Despite Weakest Earnings in Years",
-      "source": "Oilprice.com Latest",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.0
-    },
-    {
-      "title": "Russia Signals It Will Keep Sending Oil to Cuba Despite U.S. Pressure",
-      "source": "Oilprice.com Latest",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLE",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Research &amp; Development World",
-      "source": "Techmeme",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Anthropic launches Claude Opus 4.6 as AI moves toward a &lsquo;vibe working&rsquo; era",
-      "source": "Techmeme",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Anthropic unveils Claude Opus 4.6, its most advanced model; turns up the heat on ChatGPT and Gemini",
-      "source": "Techmeme",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.3
-    },
-    {
-      "title": "Anthropic Announces Claude Opus 4.6 as Next Step in Enterprise AI Development",
-      "source": "Techmeme",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Anthropic reveals new Opus 4.6 model with more autonomy and better focus",
-      "source": "Techmeme",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Anthropic unveils latest AI model as OpenAI rivalry intensifies",
-      "source": "Techmeme",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Anthropic's Powerful Claude Opus AI Model Is Getting an Upgrade",
-      "source": "Techmeme",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.3
-    },
-    {
-      "title": "Anthropic Updates Its AI Model, Claude Opus 4.6",
-      "source": "Techmeme",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Anthropic rolls out Claude Opus 4.6 with 1 million-token context support",
-      "source": "Techmeme",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Anthropic's New Claude Model Will Turn Your Spreadsheet Into a Pitch Deck",
-      "source": "Techmeme",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "JavaScript is not available.",
-      "source": "Twitter Finance Trends",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Aandelen in het nieuws",
-      "source": "Belegger.nl",
-      "type": "web",
-      "sectors": [
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Artikelen van partners",
-      "source": "Belegger.nl",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Meld u aan voor de Belegger.nl dagelijkse nieuwsbrief",
-      "source": "Belegger.nl",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Volg het laatste beursnieuws ook via onze socials:",
-      "source": "Belegger.nl",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Beurscodes, betekenis en hulp bij zoeken",
-      "source": "Belegger.nl",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Tech-exodus op Wall Street houdt aan",
-      "source": "Belegger.nl",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Europese beurzen sluiten in het rood na twijfels rond Alphabet",
-      "source": "Belegger.nl",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Prosus heeft geen plannen voor grote overnames",
-      "source": "Belegger.nl",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Shell en financials drukken AEX in het rood",
-      "source": "Belegger.nl",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Update: Hims & Hers lanceert goedkope afslankpil",
-      "source": "Belegger.nl",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "BeursGorilla.nl: Volledig en actueel overzicht beurskoersen.",
-      "source": "Beursgorilla",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Macro & bedrijfsagenda",
-      "source": "Beursgorilla",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLU"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Meld u aan voor de Beursgorilla.nl dagelijkse nieuwsbrief",
-      "source": "Beursgorilla",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Trending op Beursgorilla",
-      "source": "Beursgorilla",
-      "type": "web",
-      "sectors": [
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Altijd de laatste koers!",
-      "source": "Beursgorilla",
-      "type": "web",
-      "sectors": [
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Informatie voor beleggers",
-      "source": "Beursgorilla",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "10 aantrekkelijke aandelen voor 2026",
-      "source": "Beursgorilla",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "TA-column Nico Bakker: Wolters Kluwer als Fallen Angel",
-      "source": "Beursgorilla",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Met IEX wordt u een betere belegger en verhoogt u het rendement op uw beleggingen",
-      "source": "IEX Nieuws",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Krijg toegang tot vele voordelen",
-      "source": "IEX Nieuws",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Profiteer van de IEX producten",
-      "source": "IEX Nieuws",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Of registreer u gratis en lees drie analyses of tips van onze analisten",
-      "source": "IEX Nieuws",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Meld u aan voor de dagelijkse Beursupdate",
-      "source": "IEX Nieuws",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Aandelen dalen door AI-verkoopgolf; rentes lager, zilver verder afgestraft",
-      "source": "IEX Nieuws",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "ConocoPhillips mikt in 2026 op $1 mrd kostenbesparingen na winstmisser",
-      "source": "IEX Nieuws",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLE",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.0
-    },
-    {
-      "title": "Electric Vehicle Price Guide – best prices for dealers in the US",
-      "source": "Electrek",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Xpeng reveals first images of GX flagship SUV with Range Rover styling and steer-by-wire",
-      "source": "Electrek",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "ICLN",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Segway GT3 SuperScooter at $1,500 low, EcoFlow DELTA 2 Max new $829 low + increased exclusive DELTA Pro Ultra savings, more",
-      "source": "Electrek",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.3
-    },
-    {
-      "title": "Solid-state EV batteries hit a milestone in the US",
-      "source": "Electrek",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Subaru is now building EVs in-house, starting with a new electric SUV",
-      "source": "Electrek",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Segway&#8217;s highly advanced GT3 SuperScooter back at its $1,500 low",
-      "source": "Electrek",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.3
-    },
-    {
-      "title": "DELTA 2 Max Portable Power Station to a new $829 low",
-      "source": "Electrek",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Electrek &raquo; Comments Feed",
-      "source": "Electrek",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Electrek &raquo; Stories Feed",
-      "source": "Electrek",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Subscribe to our weekly podcast",
-      "source": "Electrek",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Apple News and Brief History",
-      "source": "Apple News (9to5)",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Apple reportedly finds Apple Card partner to replace Goldman Sachs",
-      "source": "Apple News (9to5)",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "New report sheds a bit more light on who at Apple has been departing for OpenAI",
-      "source": "Apple News (9to5)",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "poaching Apple hardware engineers “left and right”",
-      "source": "Apple News (9to5)",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "ICLN",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Here’s the latest on xAI’s lawsuit against Apple and OpenAI",
-      "source": "Apple News (9to5)",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.0
-    },
-    {
-      "title": "Apple has rare updates coming soon for these three products",
-      "source": "Apple News (9to5)",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "The future of apps is voice",
-      "source": "Apple News (9to5)",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Apple releases iOS 26.3 RC for iPhone",
-      "source": "Apple News (9to5)",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLI",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Tim Cook revealed standout AI feature for users, and it’s rumored to get even better",
-      "source": "Apple News (9to5)",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Apple News just lost a major media partner after a decade",
-      "source": "Apple News (9to5)",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "United States Indicators",
-      "source": "Trading Economics",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Android app on Google Play",
-      "source": "Trading Economics",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLU"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Subscribe to WOLF STREET",
-      "source": "Wolf Street",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Brick &amp; Mortar Meltdown",
-      "source": "Wolf Street",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Inflation &amp; Devaluation",
-      "source": "Wolf Street",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Trade &amp; Transportation",
-      "source": "Wolf Street",
-      "type": "web",
-      "sectors": [
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Companies Hang on to their Workers, and Workers Cling to their Jobs: One More Factor why it&#8217;s Tough for Job Seekers",
-      "source": "Wolf Street",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "ADP Employment Report Massively Revised to 2010 with Huge Erratic Differences in Month-to-Month Job Creation &#038; Losses",
-      "source": "Wolf Street",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "PayPal Shares Plunged 86% from the 2021 Goofball High and Right into our Imploded Stocks",
-      "source": "Wolf Street",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.4
-    },
-    {
-      "title": "Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial Crisis Meltdown Peak",
-      "source": "Wolf Street",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLRE",
-        "XLC"
-      ],
-      "sentiment": -0.55
-    },
-    {
-      "title": "Figma, IPO Hotshot AI-Powered Design Software Firm, Joins Our Imploded Stocks",
-      "source": "Wolf Street",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Miles Driven Hit Record in 2025, beating 2019, amid Lethargic RTO, Mass Transit Blues, but a Jump in Population",
-      "source": "Wolf Street",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC",
-        "CRYPTO"
-      ],
-      "sentiment": 0.3
-    },
-    {
-      "title": "Stock Market Today: Dow, Nasdaq Struggle; Animal Health Name Soars (Live Coverage)",
-      "source": "Investor's Business Daily",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.4
-    },
-    {
       "title": "IBD Digital: 2 Months for $20",
       "source": "Investor's Business Daily",
       "type": "web",
@@ -3810,6 +2274,1176 @@
       "sentiment": 0
     },
     {
+      "title": "Kuwait Eyes 4 Million Bpd Oil Production Capacity by 2035",
+      "source": "Oilprice.com Latest",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLE",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Shell Maintains Buybacks Despite Weakest Earnings in Years",
+      "source": "Oilprice.com Latest",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Russia Signals It Will Keep Sending Oil to Cuba Despite U.S. Pressure",
+      "source": "Oilprice.com Latest",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLE",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Canada Drops 2035 Gasoline Car Ban",
+      "source": "Oilprice.com Latest",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLE",
+        "XLI",
+        "XLB",
+        "XLU",
+        "CRYPTO"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Russia Shrugs Off India’s Oil Deal With Trump",
+      "source": "Oilprice.com Latest",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLE",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Phillips 66 Beats Estimates as Refining Margins Rebound From 2024 Lows",
+      "source": "Oilprice.com Latest",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Germany, France, and Italy Lead EU Push to Curb Reliance on China’s Minerals",
+      "source": "Oilprice.com Latest",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Uniper Shrugs Off Europe’s Growing Reliance on American LNG",
+      "source": "Oilprice.com Latest",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLE"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Trafigura Calls for a Rethink of LNG Project Funding",
+      "source": "Oilprice.com Latest",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLE",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "India Weighs Cheap Russian Oil Against Costly U.S. Trade Commitments",
+      "source": "Oilprice.com Latest",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLE",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Monday, January 12, 2026",
+      "source": "Calculated Risk",
+      "type": "web",
+      "sectors": [
+        "XLP",
+        "XLU"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Sunday, January 11, 2026",
+      "source": "Calculated Risk",
+      "type": "web",
+      "sectors": [
+        "XLU"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Saturday, January 10, 2026",
+      "source": "Calculated Risk",
+      "type": "web",
+      "sectors": [
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Friday, January 09, 2026",
+      "source": "Calculated Risk",
+      "type": "web",
+      "sectors": [
+        "XLU"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "In Memoriam: Doris \"Tanta\" Dungey",
+      "source": "Calculated Risk",
+      "type": "web",
+      "sectors": [
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Pettis: China Financial Markets",
+      "source": "Calculated Risk",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "This is the End and a New Beginning",
+      "source": "Calculated Risk",
+      "type": "web",
+      "sectors": [
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Schedule for Week of January 11, 2026",
+      "source": "Calculated Risk",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Hotels: Occupancy Rate Increased 4.4% Year-over-year",
+      "source": "Calculated Risk",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.3
+    },
+    {
+      "title": "U.S. hotel results for week ending 3 January",
+      "source": "Calculated Risk",
+      "type": "web",
+      "sectors": [
+        "XLY",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Macroeconomic Predictions",
+      "source": "Insider Monkey",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Latest 13D &amp; 13G Filings",
+      "source": "Insider Monkey",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Other Institutional Investors",
+      "source": "Insider Monkey",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Sorry, no results has been found matching your query.",
+      "source": "Insider Monkey",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Fidelity Growth Strategies Fund Avoids IDEXX Laboratories (IDXX) Due to Questionable Growth Durability",
+      "source": "Insider Monkey",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Hedge Fund Investor Letters",
+      "source": "Insider Monkey",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Weaker-Than-Expected Margin Hurt Axon Enterprise (AXON) in Q4",
+      "source": "Insider Monkey",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Insider Monkey &#8211; Free Hedge Fund and Insider Trading Data RSS Feed",
+      "source": "Insider Monkey",
+      "type": "web",
+      "sectors": [
+        "XLY",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Insider Monkey - Insider Trading, Hedge Fund Data, Investing, and Investment Newsletter",
+      "source": "Insider Monkey",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "International Business Times",
+      "source": "Techmeme",
+      "type": "web",
+      "sectors": [
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Google Plans to Double Spending Amid A.I. Race",
+      "source": "Techmeme",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Google &amp; Apple CEOs offer seemingly contradictory statements regarding AI partnership",
+      "source": "Techmeme",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Alphabet/Google Revenues Up 18 Percent to $113.8 Billion",
+      "source": "Techmeme",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "ICLN",
+        "XLB",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "YouTube subscriptions are now generating around $20bn a year",
+      "source": "Techmeme",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Alphabet reports Q4 2025 revenue of $113.8 billion",
+      "source": "Techmeme",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "ICLN",
+        "XLB",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Alphabet (GOOGL) Q4 2025 Earnings Call Transcript",
+      "source": "Techmeme",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLI",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Analysts set Google (GOOGL) stock price target",
+      "source": "Techmeme",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLI",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Google Search Hits $63B, Details AI Mode Ad Tests",
+      "source": "Techmeme",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Alphabet plots massive CapEx increase for 2026",
+      "source": "Techmeme",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Today&#x27;s Top Stories",
+      "source": "Zero Hedge",
+      "type": "web",
+      "sectors": [
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Gold &amp; Silver: Parabolic or Catch-Up?",
+      "source": "Zero Hedge",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "How To Waste $15 Million In 30 Seconds",
+      "source": "Zero Hedge",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Gains Pains &amp; Capital",
+      "source": "Zero Hedge",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Morgan Stanley Quants Warn Of Billions In Levered ETF And Systematic Selling, No Retail Buyers",
+      "source": "Zero Hedge",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLY",
+        "XLP",
+        "ICLN",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gold's Going To $10,000: Martin Armstrong Warns \"Europe Is Desperate For War\"",
+      "source": "Zero Hedge",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "HOW A BATTLE WITH CANCER LED TO THIS REVOLUTIONARY PRODUCT!",
+      "source": "Zero Hedge",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "ICLN",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Initial Jobless Claims Jump As YTD Job Cuts Hit Highest Since 2009, AI Blamed",
+      "source": "Zero Hedge",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "EUR Flat As ECB Leaves Rates Unch; Cable Drops On BoE's 'Dovish Hold'",
+      "source": "Zero Hedge",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Futures, Bitcoin, Gold All Tumble As Momentum Liquidations Accelerate",
+      "source": "Zero Hedge",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLB",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Beurscodes, betekenis en hulp bij zoeken",
+      "source": "IEX Nieuws",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Met IEX wordt u een betere belegger en verhoogt u het rendement op uw beleggingen",
+      "source": "IEX Nieuws",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Krijg toegang tot vele voordelen",
+      "source": "IEX Nieuws",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Profiteer van de IEX producten",
+      "source": "IEX Nieuws",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Of registreer u gratis en lees drie analyses of tips van onze analisten",
+      "source": "IEX Nieuws",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Aandelen in het nieuws",
+      "source": "IEX Nieuws",
+      "type": "web",
+      "sectors": [
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Artikelen van Partners",
+      "source": "IEX Nieuws",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Meld u aan voor de dagelijkse Beursupdate",
+      "source": "IEX Nieuws",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Amerikaanse futures kleuren rood",
+      "source": "IEX Nieuws",
+      "type": "web",
+      "sectors": [
+        "XLP",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "ALIGN TECHNOLOGY DL-,0001",
+      "source": "IEX Nieuws",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Meld u aan voor de Belegger.nl dagelijkse nieuwsbrief",
+      "source": "Belegger.nl",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLB",
+        "XLU"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Volg het laatste beursnieuws ook via onze socials:",
+      "source": "Belegger.nl",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Update: ECB handhaaft rente opnieuw",
+      "source": "Belegger.nl",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "De Europese Centrale Bank heeft de belangrijkste rentestanden gehandhaafd. Dit bleek donderdag uit het rentebesluit van de ECB.",
+      "source": "Belegger.nl",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "ECB handhaaft rente opnieuw",
+      "source": "Belegger.nl",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "BeursGorilla.nl: Volledig en actueel overzicht beurskoersen.",
+      "source": "Beursgorilla",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Macro & bedrijfsagenda",
+      "source": "Beursgorilla",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Meld u aan voor de Beursgorilla.nl dagelijkse nieuwsbrief",
+      "source": "Beursgorilla",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLB",
+        "XLU"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Trending op Beursgorilla",
+      "source": "Beursgorilla",
+      "type": "web",
+      "sectors": [
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Altijd de laatste koers!",
+      "source": "Beursgorilla",
+      "type": "web",
+      "sectors": [
+        "XLP",
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Informatie voor beleggers",
+      "source": "Beursgorilla",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "10 aantrekkelijke aandelen voor 2026",
+      "source": "Beursgorilla",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "TA-column Nico Bakker: Wolters Kluwer als Fallen Angel",
+      "source": "Beursgorilla",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "United States Indicators",
+      "source": "Trading Economics",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Android app on Google Play",
+      "source": "Trading Economics",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLU"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Apple News and Brief History",
+      "source": "Apple News (9to5)",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Apple reportedly finds Apple Card partner to replace Goldman Sachs",
+      "source": "Apple News (9to5)",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "New report sheds a bit more light on who at Apple has been departing for OpenAI",
+      "source": "Apple News (9to5)",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "poaching Apple hardware engineers “left and right”",
+      "source": "Apple News (9to5)",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "ICLN",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Here’s the latest on xAI’s lawsuit against Apple and OpenAI",
+      "source": "Apple News (9to5)",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.0
+    },
+    {
+      "title": "Apple hosted Apple TV media event, here’s everything it announced",
+      "source": "Apple News (9to5)",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "ICLN",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Apple Music Replay 2026 now live, here&#8217;s how to find it",
+      "source": "Apple News (9to5)",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Apple announces agentic coding in Xcode with Claude Agent and Codex integration",
+      "source": "Apple News (9to5)",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "New Apple study shows how grouping similar sounds can speed up AI speech generation",
+      "source": "Apple News (9to5)",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Apple News just lost a major media partner after a decade",
+      "source": "Apple News (9to5)",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Subscribe to WOLF STREET",
+      "source": "Wolf Street",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Brick &amp; Mortar Meltdown",
+      "source": "Wolf Street",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Inflation &amp; Devaluation",
+      "source": "Wolf Street",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "ICLN",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Trade &amp; Transportation",
+      "source": "Wolf Street",
+      "type": "web",
+      "sectors": [
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "ADP Employment Report Massively Revised to 2010 with Huge Erratic Differences in Month-to-Month Job Creation &#038; Losses",
+      "source": "Wolf Street",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "ICLN",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "PayPal Shares Plunged 86% from the 2021 Goofball High and Right into our Imploded Stocks",
+      "source": "Wolf Street",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.4
+    },
+    {
+      "title": "Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Worse than Financial Crisis Meltdown Peak",
+      "source": "Wolf Street",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLRE",
+        "XLC"
+      ],
+      "sentiment": -0.55
+    },
+    {
+      "title": "Figma, IPO Hotshot AI-Powered Design Software Firm, Joins Our Imploded Stocks",
+      "source": "Wolf Street",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Miles Driven Hit Record in 2025, beating 2019, amid Lethargic RTO, Mass Transit Blues, but a Jump in Population",
+      "source": "Wolf Street",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0.3
+    },
+    {
+      "title": "US Government Sold $766 Billion of Treasuries this Week. Yield Curve Steepened as 30-Year Treasury Yield Rose to 4.87%",
+      "source": "Wolf Street",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "JavaScript is not available.",
+      "source": "Twitter Finance Trends",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
       "title": "NVIDIA Rubin Platform",
       "source": "Nvidia News",
       "type": "web",
@@ -3849,13 +3483,14 @@
       "sentiment": 0
     },
     {
-      "title": "NVIDIA GTC 2026 Event Teaser",
+      "title": "CEO Fireside Chat With Jensen Huang and Pascal Daloz at Dassault Systèmes 3DEXPERIENCE World",
       "source": "Nvidia News",
       "type": "web",
       "sectors": [
-        "XLK",
         "XLF",
-        "ICLN",
+        "XLY",
+        "XLP",
+        "XLI",
         "XLU",
         "XLC"
       ],
@@ -3898,18 +3533,6 @@
       "sentiment": 0
     },
     {
-      "title": "GeForce NOW Celebrates Six Years of Streaming With 24 Games in February",
-      "source": "Nvidia News",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLI",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
       "title": "Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence",
       "source": "Nvidia News",
       "type": "web",
@@ -3933,6 +3556,20 @@
         "XLF",
         "XLY",
         "ICLN",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture",
+      "source": "Nvidia News",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
         "XLI",
         "XLU",
         "XLC"
@@ -4035,20 +3672,6 @@
       "sentiment": -0.15
     },
     {
-      "title": "How technology could help the Vikings build next year&#8217;s ‘winning edge’",
-      "source": "Microsoft News",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
       "title": "From farms to oceans: How Microsoft is working to scale carbon dioxide removal",
       "source": "Microsoft News",
       "type": "web",
@@ -4064,137 +3687,20 @@
       "sentiment": 0
     },
     {
-      "title": "Macroeconomic Predictions",
-      "source": "Insider Monkey",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Latest 13D &amp; 13G Filings",
-      "source": "Insider Monkey",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Other Institutional Investors",
-      "source": "Insider Monkey",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Sorry, no results has been found matching your query.",
-      "source": "Insider Monkey",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "TD Cowen Keeps Buy on Microsoft (MSFT) Despite Softer Azure Growth",
-      "source": "Insider Monkey",
+      "title": "Introducing Maia 200: The AI accelerator built for inference",
+      "source": "Microsoft News",
       "type": "web",
       "sectors": [
         "XLK",
         "XLF",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.3
-    },
-    {
-      "title": "RBC Sees Johnson &#038; Johnson (JNJ) Well Positioned to Manage Legal Overhang",
-      "source": "Insider Monkey",
-      "type": "web",
-      "sectors": [
-        "XLV",
-        "XLF",
-        "XLI",
         "XLU",
         "XLC"
       ],
       "sentiment": 0
     },
     {
-      "title": "Union Pacific, Wabtec Strike Landmark $1.2B Locomotive Modernization Deal",
-      "source": "Insider Monkey",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Scotiabank Lifts Merck (MRK) Target as Execution Continues to Impress",
-      "source": "Insider Monkey",
-      "type": "web",
-      "sectors": [
-        "XLV",
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Citi Jumps Applied Materials (AMAT) Target Ahead of Earnings",
-      "source": "Insider Monkey",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "Mizuho Raises Costco (COST) Target as Membership Trends Rebound",
-      "source": "Insider Monkey",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Elon Musk confirms SpaceX is not developing a phone",
-      "source": "Tesla News",
+      "title": "Electric Vehicle Price Guide – best prices for dealers in the US",
+      "source": "Electrek",
       "type": "web",
       "sectors": [
         "XLF",
@@ -4204,29 +3710,157 @@
         "XLU",
         "XLC"
       ],
-      "sentiment": 0
+      "sentiment": 0.15
     },
     {
-      "title": "Tesla adds notable improvement to Dashcam feature",
-      "source": "Tesla News",
+      "title": "Tesla&#8217;s new FSD push looks like a gross money grab: they have questions to anwser",
+      "source": "Electrek",
       "type": "web",
       "sectors": [
         "XLF",
         "XLY",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "While some US states try to kill e-bikes, one is pushing more kids onto them",
+      "source": "Electrek",
+      "type": "web",
+      "sectors": [
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Hyundai is pausing production of this electric SUV, but promises the EV will return",
+      "source": "Electrek",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "ICLN",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "The Toyota bZ is now among America&#8217;s top-selling EVs after a surprise sales surge",
+      "source": "Electrek",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "ICLN",
+        "XLI",
         "XLB",
+        "XLC"
+      ],
+      "sentiment": 0.4
+    },
+    {
+      "title": "Tesla drops plans for robo-charging site for the SF robotaxis it doesn&#8217;t have",
+      "source": "Electrek",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Quick Charge checks out the e-bikes at CABDA Chicago 2026",
+      "source": "Electrek",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Here&#039;s how Apple may protect the display of the iPhone Fold",
+      "source": "Electrek",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Electrek &raquo; Comments Feed",
+      "source": "Electrek",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Electrek &raquo; Stories Feed",
+      "source": "Electrek",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Elon Musk&#8217;s Boring Company signs deal to begin Dubai Loop project",
+      "source": "Tesla News",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLP",
+        "XLI",
         "XLU",
         "XLC"
       ],
       "sentiment": 0.15
     },
     {
-      "title": "Will Tesla join the fold? Predicting a triple merger with SpaceX and xAI",
+      "title": "Tesla confirms Full Self-Driving still isn&#8217;t garnering interest from lagging competitors",
       "source": "Tesla News",
       "type": "web",
       "sectors": [
-        "XLK",
         "XLF",
         "XLY",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Tesla exec pleads for federal framework of autonomy to U.S. Senate Committee",
+      "source": "Tesla News",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLP",
         "XLI",
         "XLU",
         "XLC"
@@ -4291,23 +3925,7 @@
       "sentiment": 0
     },
     {
-      "title": "Tesla analyst claims another vehicle, not Model S and X, should be discontinued",
-      "source": "Tesla News",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "IM Motors co-CEO apologizes to Tesla China over FUD comments",
+      "title": "Tesla (TSLA) Q4 and FY 2025 earnings call: The most important points",
       "source": "Tesla News",
       "type": "web",
       "sectors": [
@@ -4320,124 +3938,109 @@
       "sentiment": 0
     },
     {
-      "title": "SpaceX is exploring a &#8220;Starlink Phone&#8221; for direct-to-device internet services: report",
+      "title": "Tesla Model Y lineup expansion signals an uncomfortable reality for consumers",
       "source": "Tesla News",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "ICLN",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "GitHub Actions Is Slowly Killing Your Engineering Team",
-      "source": "Lobsters",
       "type": "web",
       "sectors": [
         "XLF",
         "XLY",
         "XLP",
-        "ICLN",
+        "XLI",
         "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "FOSDEM 26 - My Hallway Track Takeaways",
-      "source": "Lobsters",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLE",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Recreating Epstein PDFs from raw encoded attachments",
-      "source": "Lobsters",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Lobsters (Current traffic: 13%)",
-      "source": "Lobsters",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Development and team practices",
-      "source": "Lobsters",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "ICLN",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Git, Mercurial, Perforce, Subversion, Jujutsu and other version control systems",
-      "source": "Lobsters",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Software releases and announcements",
-      "source": "Lobsters",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Events, conferences, and meetups",
-      "source": "Lobsters",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "ICLN",
-        "XLI",
         "XLU",
         "XLC"
       ],
       "sentiment": 0.15
     },
     {
-      "title": "Using AI/LLM, coding tools. Don&#39;t also tag with `ai`.",
-      "source": "Lobsters",
+      "title": "Elon Musk reiterates Tesla Optimus’ most sci-fi potential yet",
+      "source": "Tesla News",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLP",
+        "XLRE",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "This is an archived post. You won't be able to vote or comment.",
+      "source": "Reddit WSB (web)",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Sign up to get your own personalized Reddit experience!",
+      "source": "Reddit WSB (web)",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "see the search faq for details.",
+      "source": "Reddit WSB (web)",
+      "type": "web",
+      "sectors": [
+        "XLK",
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "advanced search: by author, subreddit...",
+      "source": "Reddit WSB (web)",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "comment and submission guide",
+      "source": "Reddit WSB (web)",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Weekly Earnings Thread 2/2 - 2/6",
+      "source": "Reddit WSB (web)",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Daily Discussion Thread for February 05, 2026",
+      "source": "Reddit WSB (web)",
       "type": "web",
       "sectors": [
         "XLK",
@@ -4448,11 +4051,129 @@
       "sentiment": 0
     },
     {
-      "title": "Netsec, appsec, and infosec",
-      "source": "Lobsters",
+      "title": "The SpaceX IPO is going to tank the market",
+      "source": "Reddit WSB (web)",
       "type": "web",
       "sectors": [
         "XLF",
+        "XLY",
+        "XLP",
+        "XLC"
+      ],
+      "sentiment": -0.4
+    },
+    {
+      "title": "Jason Statham in knallende actiethriller SHELTER - nu in de bioscoop.",
+      "source": "Reddit WSB (web)",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLI",
+        "XLU",
+        "XLC",
+        "CRYPTO"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Layoffs hit their worst January levels since 2009, Challenger says",
+      "source": "Reddit WSB (web)",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLE",
+        "ICLN",
+        "XLI",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Menu of topics for Top-down Analysis",
+      "source": "Earnings Whispers",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLB",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": -0.15
+    },
+    {
+      "title": "Menu of topics for Bottum-Up Analysis",
+      "source": "Earnings Whispers",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLC"
+      ],
+      "sentiment": 0.15
+    },
+    {
+      "title": "Menu for subscribers to Earnings Whispers Investor Service",
+      "source": "Earnings Whispers",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Earnings Expectation Life Cycle",
+      "source": "Earnings Whispers",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLP",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "A+ Earnings Whisper Grades",
+      "source": "Earnings Whispers",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Earnings Conference Call Summaries",
+      "source": "Earnings Whispers",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLY",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Menu of subscribers to Earnings Whispers Trader Service",
+      "source": "Earnings Whispers",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
+        "XLU",
+        "XLC"
+      ],
+      "sentiment": 0
+    },
+    {
+      "title": "Components of an Earnings Trade",
+      "source": "Earnings Whispers",
+      "type": "web",
+      "sectors": [
+        "XLF",
+        "XLI",
         "XLU",
         "XLC"
       ],
@@ -4470,55 +4191,6 @@
         "XLC"
       ],
       "sentiment": 0
-    },
-    {
-      "title": "This is an archived post. You won't be able to vote or comment.",
-      "source": "Reddit Stocks (web)",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "Sign up to get your own personalized Reddit experience!",
-      "source": "Reddit Stocks (web)",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
-    },
-    {
-      "title": "see the search faq for details.",
-      "source": "Reddit Stocks (web)",
-      "type": "web",
-      "sectors": [
-        "XLK",
-        "XLF",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "advanced search: by author, subreddit...",
-      "source": "Reddit Stocks (web)",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLB",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0.15
     },
     {
       "title": "Click here to find how many days old your account needs to be and how much karma you need",
@@ -4577,78 +4249,6 @@
         "XLF",
         "XLP",
         "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "comment and submission guide",
-      "source": "Reddit WSB (web)",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLI",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": -0.15
-    },
-    {
-      "title": "Weekly Earnings Thread 2/2 - 2/6",
-      "source": "Reddit WSB (web)",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLU",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "What Are Your Moves Tomorrow, February 06, 2026",
-      "source": "Reddit WSB (web)",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLC"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "[GUIDE] Zo voorkom je haarbreuk.",
-      "source": "Reddit WSB (web)",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLP",
-        "XLI",
-        "XLB",
-        "XLU"
-      ],
-      "sentiment": 0
-    },
-    {
-      "title": "The SpaceX IPO is going to tank the market",
-      "source": "Reddit WSB (web)",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
-        "XLC"
-      ],
-      "sentiment": -0.4
-    },
-    {
-      "title": "Full port AMZN calls - $320K",
-      "source": "Reddit WSB (web)",
-      "type": "web",
-      "sectors": [
-        "XLF",
-        "XLY",
-        "XLP",
         "XLC"
       ],
       "sentiment": 0

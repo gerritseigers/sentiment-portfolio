@@ -1,0 +1,140 @@
+{
+  "date": "2026-02-05T21:31:52.955265",
+  "real_price_data": {
+    "XLK": -1.8,
+    "XLV": -0.76,
+    "XLF": -1.24,
+    "XLY": -2.16,
+    "XLP": -0.08,
+    "XLE": -1.17,
+    "ICLN": -3.36,
+    "XLI": -0.6,
+    "XLB": -2.68,
+    "XLU": 0.05,
+    "XLRE": -0.55,
+    "XLC": -0.51,
+    "CRYPTO": -12.59
+  },
+  "data_sources": {
+    "etf_prices": "stockanalysis.com (Feb 5, 2026 close)",
+    "crypto": "CoinGecko API (BTC $63,764, -12.59% 24h)"
+  },
+  "market_summary": "Broad selloff across all sectors. Bitcoin crash below $70K. Only Utilities barely positive.",
+  "learning_result": {
+    "date": "2026-02-05T21:31:52.945680",
+    "type": "daily",
+    "predictions": {
+      "XLK": 0.033,
+      "XLV": -0.017,
+      "XLF": 0.017,
+      "XLY": 0.015,
+      "XLP": 0.021,
+      "XLE": 0.0,
+      "ICLN": 0.011,
+      "XLI": 0.025,
+      "XLB": -0.015,
+      "XLU": 0.022,
+      "XLRE": -0.138,
+      "XLC": 0.017,
+      "CRYPTO": -0.054
+    },
+    "outcomes": {
+      "XLK": -1.8,
+      "XLV": -0.76,
+      "XLF": -1.24,
+      "XLY": -2.16,
+      "XLP": -0.08,
+      "XLE": -1.17,
+      "ICLN": -3.36,
+      "XLI": -0.6,
+      "XLB": -2.68,
+      "XLU": 0.05,
+      "XLRE": -0.55,
+      "XLC": -0.51,
+      "CRYPTO": -12.59
+    },
+    "source_updates": {
+      "Nikkei Asia": {
+        "correct": 24,
+        "total": 77,
+        "reliability": 0.3116883116883117,
+        "weight": 0.8277402597402597
+      },
+      "CoinMarketCap News": {
+        "correct": 43,
+        "total": 63,
+        "reliability": 0.6825396825396826,
+        "weight": 0.9682539682539683
+      },
+      "Tesla News": {
+        "correct": 16,
+        "total": 62,
+        "reliability": 0.25806451612903225,
+        "weight": 0.8233064516129032
+      },
+      "Oilprice.com Latest": {
+        "correct": 15,
+        "total": 58,
+        "reliability": 0.25862068965517243,
+        "weight": 0.8202620689655173
+      },
+      "Techmeme": {
+        "correct": 14,
+        "total": 58,
+        "reliability": 0.2413793103448276,
+        "weight": 0.8315665024630543
+      },
+      "Finviz News": {
+        "correct": 19,
+        "total": 54,
+        "reliability": 0.35185185185185186,
+        "weight": 0.9351851851851852
+      },
+      "Yahoo Finance Markets": {
+        "correct": 26,
+        "total": 54,
+        "reliability": 0.48148148148148145,
+        "weight": 0.842695317959469
+      },
+      "Slashdot": {
+        "correct": 12,
+        "total": 53,
+        "reliability": 0.22641509433962265,
+        "weight": 0.9226415094339623
+      },
+      "Electrek": {
+        "correct": 13,
+        "total": 53,
+        "reliability": 0.24528301886792453,
+        "weight": 0.9245283018867925
+      },
+      "Kiplinger": {
+        "correct": 12,
+        "total": 51,
+        "reliability": 0.23529411764705882,
+        "weight": 0.9235294117647059
+      }
+    },
+    "sector_updates": {
+      "XLK": "multiplier 1.00 \u2192 0.98 (-2%)",
+      "XLV": "multiplier 1.00 \u2192 1.02 (+2%)",
+      "XLF": "multiplier 1.00 \u2192 0.98 (-2%)",
+      "XLY": "multiplier 0.96 \u2192 0.94 (-2%)",
+      "XLP": "multiplier 1.00 \u2192 1.02 (+2%)",
+      "XLE": "multiplier 1.04 \u2192 1.02 (-2%)",
+      "ICLN": "multiplier 1.04 \u2192 1.02 (-2%)",
+      "XLI": "multiplier 1.00 \u2192 1.02 (+2%)",
+      "XLB": "multiplier 1.00 \u2192 0.98 (-2%)",
+      "XLU": "multiplier 0.96 \u2192 0.98 (+2%)",
+      "XLRE": "multiplier 1.00 \u2192 1.02 (+2%)",
+      "XLC": "multiplier 1.04 \u2192 1.06 (+2%)",
+      "CRYPTO": "multiplier 1.04 \u2192 1.02 (-2%)"
+    },
+    "summary": [
+      "Daily accuracy: 46%",
+      "Sectors analyzed: 13",
+      "Correct predictions: 6",
+      "Sources updated: 10"
+    ]
+  }
+}

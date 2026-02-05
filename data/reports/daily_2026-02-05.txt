@@ -1,0 +1,57 @@
+📰 **DAGELIJKS SENTIMENT RAPPORT**
+📅 Thursday 05 February 2026 - 17:01
+
+📊 *347 nieuwsberichten* van 195 bronnen
+
+**🏆 SECTOR RANKINGS VANDAAG**
+
+*📈 MEEST POSITIEF:*
+1. **Energy** (XLE)
+   Score: +0.05 | 12 artikelen
+   → 🟡 Neutraal - afwachten
+   📰 _Knightscope Retains Lake Street to Support Growth Through Ac..._
+
+2. **Healthcare** (XLV)
+   Score: +0.03 | 5 artikelen
+   → 🟡 Neutraal - afwachten
+   📰 _Eli Lilly Heads Group Of 17 Hot Prospects Joining IBD 50, St..._
+
+3. **Technology** (XLK)
+   Score: +0.02 | 119 artikelen
+   → 🟡 Neutraal - afwachten
+   📰 _Knightscope Retains Lake Street to Support Growth Through Ac..._
+
+*📉 MEEST NEGATIEF:*
+1. **Consumer Discr.** (XLY)
+   Score: -0.03 | 64 artikelen
+   → 🟡 Neutraal - afwachten
+   📰 _Stock market today: Dow, S&amp;P 500, Nasdaq sink as sell-of..._
+
+2. **Real Estate** (XLRE)
+   Score: -0.04 | 6 artikelen
+   → 🟡 Neutraal - afwachten
+   📰 _Office CMBS Delinquency Rate Spikes to Record 12.3%, Much Wo..._
+
+3. **Crypto** (CRYPTO)
+   Score: -0.06 | 28 artikelen
+   → 🔴 Licht negatief
+   📰 _Stock market today: Dow, S&amp;P 500, Nasdaq sink as sell-of..._
+
+**💡 WAT BETEKENT DIT?**
+
+🟡 **Markt stemming: NEUTRAAL**
+Geen duidelijke richting. Portfolios blijven dicht bij hun basisallocatie.
+
+**💰 PORTFOLIO IMPACT**
+
+📈 *Momentum*: Verhoogt Energy, verlaagt Crypto
+⚡ *Aggressive*: Concentreert in top 3 sectoren
+🛡️ *Defensive*: Beweegt niet (signaal niet sterk genoeg)
+🔄 *Contrarian*: Koopt Crypto (tegen de stroom in)
+
+**🧠 MODEL STATUS**
+Voorspellingen tot nu toe: 26
+Nauwkeurigheid: 58%
+
+_Volgende harvest: binnen enkele uren_
+_Rebalance: elke maandag 09:00_
